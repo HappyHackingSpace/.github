@@ -11,7 +11,7 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 * [AI Tools](https://github.com/HappyHackingSpace/ai-tools): Provides a comprehensive guide to various AI tools categorized by their use cases, helping you quickly integrate AI into your workflows.
 
 ## Contact
-Feel free to connect with us or join our community through the following channels, or email us anytime at [contact@happyhacking.space](mailto:contact@happyhacking.space) when you have questions or want to collaborate:
+Feel free to connect with us or join our community through the following channels, or email us anytime at [team@happyhacking.space](mailto:team@happyhacking.space) when you have questions or want to collaborate:
 * [LinkedIn](https://www.linkedin.com/company/happyhackingspace)
 * [X / Twitter](https://x.com/happyhackings)
 * [Medium](https://happyhackingspace.blog)
