@@ -1,4 +1,8 @@
 # Happy Hacking Space
+<img width="1797" alt="image" src="https://github.com/user-attachments/assets/6421fde9-4a64-44ff-a103-8d472c2bdf60" />
+
+Welcome to a [community](https://happyhacking.space/) of hackers. We’re artists, scientists, writers, engineers, students, tinkerers, lawyers, campers, farmers, filmmakers, educators, volunteers. We come from all walks of life. We make things. We help one another. 
+
 [Happy Hacking Space](https://happyhacking.space/) is a community that loves exploring boundaries with a playful spirit while crafting open source projects.
 
 ## Projects
