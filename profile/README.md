@@ -8,6 +8,7 @@ Welcome to a community of hackers. We’re artists, scientists, writers, enginee
 ## Projects (Auto-Updated)
 We develop a diverse range of projects spanning cybersecurity, gaming, AI-powered tools, documentation, and purely fun experiments. While we have many ongoing projects, below are some of our most popular and actively maintained repositories.
 <!-- PROJECTS_START -->
+* Projects will be dynamically listed here with XP, Level, and Badges.
 <!-- PROJECTS_END -->
 
 ## Contact

@@ -1,15 +1,18 @@
 package main
 
 import (
-	"encoding/json"
+	context "context"
 	"fmt"
-	"io/ioutil"
-	"net/http"
 	"os"
 	"regexp"
 	"sort"
 	"strings"
 	"time"
+
+	"io/ioutil"
+
+	gh "github.com/google/go-github/v73/github"
+	"golang.org/x/oauth2"
 )
 
 type RepoStats struct {
@@ -31,131 +34,97 @@ type GhProjects struct {
 	Badges []string
 }
 
-func fetchOrgRepos(org, token string) ([]string, error) {
-	var repos []string
-	page := 1
+func fetchOrgRepos(client *gh.Client, ctx context.Context, org string) ([]*gh.Repository, error) {
+	var allRepos []*gh.Repository
+	opt := &gh.RepositoryListByOrgOptions{Type: "public", ListOptions: gh.ListOptions{PerPage: 100}}
 	for {
-		apiURL := fmt.Sprintf("https://api.github.com/orgs/%s/repos?per_page=100&page=%d", org, page)
-		client := &http.Client{}
-		req, _ := http.NewRequest("GET", apiURL, nil)
-		if token != "" {
-			req.Header.Set("Authorization", "token "+token)
-		}
-		resp, err := client.Do(req)
+		repos, resp, err := client.Repositories.ListByOrg(ctx, org, opt)
 		if err != nil {
 			return nil, err
 		}
-		defer resp.Body.Close()
-		var data []struct {
-			Name    string `json:"name"`
-			HTMLURL string `json:"html_url"`
-		}
-		if err := json.NewDecoder(resp.Body).Decode(&data); err != nil {
-			return nil, err
-		}
-		if len(data) == 0 {
+		allRepos = append(allRepos, repos...)
+		if resp.NextPage == 0 {
 			break
 		}
-		for _, repo := range data {
-			repos = append(repos, repo.HTMLURL)
-		}
-		page++
+		opt.Page = resp.NextPage
 	}
-	return repos, nil
+	return allRepos, nil
 }
 
-func fetchRepoStats(repoURL, token string) (RepoStats, error) {
-	ownerRepo := strings.TrimPrefix(repoURL, "https://github.com/")
-	apiURL := fmt.Sprintf("https://api.github.com/repos/%s", ownerRepo)
-	client := &http.Client{}
-	req, _ := http.NewRequest("GET", apiURL, nil)
-	if token != "" {
-		req.Header.Set("Authorization", "token "+token)
-	}
-	resp, err := client.Do(req)
-	if err != nil {
-		return RepoStats{}, err
-	}
-	defer resp.Body.Close()
-	var data struct {
-		StargazersCount int    `json:"stargazers_count"`
-		ForksCount      int    `json:"forks_count"`
-		OpenIssuesCount int    `json:"open_issues_count"`
-		PushedAt        string `json:"pushed_at"`
-		Name            string `json:"name"`
-		HTMLURL         string `json:"html_url"`
-	}
-	if err := json.NewDecoder(resp.Body).Decode(&data); err != nil {
-		return RepoStats{}, err
-	}
+func fetchRepoStats(client *gh.Client, ctx context.Context, org string, repo *gh.Repository) (RepoStats, error) {
+	name := repo.GetName()
+	url := repo.GetHTMLURL()
+	stars := repo.GetStargazersCount()
+	forks := repo.GetForksCount()
+	openIssues := repo.GetOpenIssuesCount()
 
 	// Good first issues
-	issuesURL := fmt.Sprintf("https://api.github.com/repos/%s/issues?labels=good%20first%20issue&state=open", ownerRepo)
-	req2, _ := http.NewRequest("GET", issuesURL, nil)
-	if token != "" {
-		req2.Header.Set("Authorization", "token "+token)
+	goodFirstIssues := 0
+	issueOpt := &gh.IssueListByRepoOptions{
+		State:       "open",
+		Labels:      []string{"good first issue"},
+		ListOptions: gh.ListOptions{PerPage: 100},
 	}
-	resp2, err := client.Do(req2)
-	if err != nil {
-		return RepoStats{}, err
+	for {
+		issues, resp, err := client.Issues.ListByRepo(ctx, org, name, issueOpt)
+		if err != nil {
+			return RepoStats{}, err
+		}
+		goodFirstIssues += len(issues)
+		if resp.NextPage == 0 {
+			break
+		}
+		issueOpt.ListOptions.Page = resp.NextPage
 	}
-	defer resp2.Body.Close()
-	var issues []interface{}
-	if err := json.NewDecoder(resp2.Body).Decode(&issues); err != nil {
-		return RepoStats{}, err
-	}
-	goodFirstIssues := len(issues)
 
-	// Security issues (simplified: count open issues with 'security' label)
-	secURL := fmt.Sprintf("https://api.github.com/repos/%s/issues?labels=security&state=open", ownerRepo)
-	req3, _ := http.NewRequest("GET", secURL, nil)
-	if token != "" {
-		req3.Header.Set("Authorization", "token "+token)
+	// Security issues
+	securityIssues := 0
+	secOpt := &gh.IssueListByRepoOptions{
+		State:       "open",
+		Labels:      []string{"security"},
+		ListOptions: gh.ListOptions{PerPage: 100},
 	}
-	resp3, err := client.Do(req3)
-	if err != nil {
-		return RepoStats{}, err
+	for {
+		issues, resp, err := client.Issues.ListByRepo(ctx, org, name, secOpt)
+		if err != nil {
+			return RepoStats{}, err
+		}
+		securityIssues += len(issues)
+		if resp.NextPage == 0 {
+			break
+		}
+		secOpt.ListOptions.Page = resp.NextPage
 	}
-	defer resp3.Body.Close()
-	var secIssues []interface{}
-	if err := json.NewDecoder(resp3.Body).Decode(&secIssues); err != nil {
-		return RepoStats{}, err
-	}
-	securityIssues := len(secIssues)
 
 	// Recent commits (last 30 days)
-	commitsURL := fmt.Sprintf("https://api.github.com/repos/%s/commits?since=%s", ownerRepo, time.Now().AddDate(0, 0, -30).Format(time.RFC3339))
-	req4, _ := http.NewRequest("GET", commitsURL, nil)
-	if token != "" {
-		req4.Header.Set("Authorization", "token "+token)
+	since := time.Now().AddDate(0, 0, -30)
+	commitOpt := &gh.CommitsListOptions{
+		Since:       since,
+		ListOptions: gh.ListOptions{PerPage: 100},
 	}
-	resp4, err := client.Do(req4)
-	if err != nil {
-		return RepoStats{}, err
-	}
-	defer resp4.Body.Close()
-	var commits []struct {
-		Commit struct {
-			Author struct {
-				Date string `json:"date"`
-			} `json:"author"`
-		} `json:"commit"`
-	}
-	if err := json.NewDecoder(resp4.Body).Decode(&commits); err != nil {
-		return RepoStats{}, err
-	}
-	recentCommits := len(commits)
-	lastCommit := "N/A"
-	if len(commits) > 0 {
-		lastCommit = commits[0].Commit.Author.Date
+	recentCommits := 0
+	var lastCommit string = "N/A"
+	for {
+		commits, resp, err := client.Repositories.ListCommits(ctx, org, name, commitOpt)
+		if err != nil {
+			return RepoStats{}, err
+		}
+		recentCommits += len(commits)
+		if len(commits) > 0 && lastCommit == "N/A" {
+			lastCommit = commits[0].GetCommit().GetAuthor().GetDate().Format(time.RFC3339)
+		}
+		if resp.NextPage == 0 {
+			break
+		}
+		commitOpt.Page = resp.NextPage
 	}
 
 	return RepoStats{
-		Name:            data.Name,
-		URL:             repoURL,
-		Stars:           data.StargazersCount,
-		Forks:           data.ForksCount,
-		OpenIssues:      data.OpenIssuesCount,
+		Name:            name,
+		URL:             url,
+		Stars:           stars,
+		Forks:           forks,
+		OpenIssues:      openIssues,
 		GoodFirstIssues: goodFirstIssues,
 		SecurityIssues:  securityIssues,
 		RecentCommits:   recentCommits,
@@ -212,18 +181,26 @@ func formatMarkdown(repos []GhProjects) string {
 func main() {
 	org := "HappyHackingSpace"
 	token := os.Getenv("GITHUB_TOKEN")
+	ctx := context.Background()
+	var client *gh.Client
+	if token != "" {
+		ts := oauth2.StaticTokenSource(&oauth2.Token{AccessToken: token})
+		client = gh.NewClient(oauth2.NewClient(ctx, ts))
+	} else {
+		client = gh.NewClient(nil)
+	}
 
-	repoURLs, err := fetchOrgRepos(org, token)
+	repos, err := fetchOrgRepos(client, ctx, org)
 	if err != nil {
 		panic(err)
 	}
 
 	var statsList []RepoStats
 	mostStars := 0
-	for _, repoURL := range repoURLs {
-		stats, err := fetchRepoStats(strings.TrimPrefix(repoURL, "https://github.com/"), token)
+	for _, repo := range repos {
+		stats, err := fetchRepoStats(client, ctx, org, repo)
 		if err != nil {
-			fmt.Fprintf(os.Stderr, "Error fetching %s: %v\n", repoURL, err)
+			fmt.Fprintf(os.Stderr, "Error fetching %s: %v\n", repo.GetHTMLURL(), err)
 			continue
 		}
 		statsList = append(statsList, stats)
