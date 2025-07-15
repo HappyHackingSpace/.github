@@ -74,7 +74,6 @@ func fetchRepoStats(client *gh.Client, ctx context.Context, org string, repo *gh
 	forks := repo.GetForksCount()
 	openIssues := repo.GetOpenIssuesCount()
 
-	// Good first issues
 	goodFirstIssues := 0
 	issueOpt := &gh.IssueListByRepoOptions{
 		State:       "open",
@@ -93,7 +92,6 @@ func fetchRepoStats(client *gh.Client, ctx context.Context, org string, repo *gh
 		issueOpt.ListOptions.Page = resp.NextPage
 	}
 
-	// Security issues
 	securityIssues := 0
 	secOpt := &gh.IssueListByRepoOptions{
 		State:       "open",
@@ -112,7 +110,6 @@ func fetchRepoStats(client *gh.Client, ctx context.Context, org string, repo *gh
 		secOpt.ListOptions.Page = resp.NextPage
 	}
 
-	// Recent commits (last 30 days)
 	since := time.Now().AddDate(0, 0, -30)
 	commitOpt := &gh.CommitsListOptions{
 		Since:       since,
@@ -186,11 +183,28 @@ func assignBadges(stats RepoStats, mostStars int) []string {
 
 func formatMarkdown(repos []GhProjects) string {
 	var b strings.Builder
+	
+	b.WriteString("| Project | XP | Level | Badges | Last Commit | Stars | Forks | Open Issues |\n")
+	b.WriteString("|---------|-------|-------|--------|-------------|-------|-------|-------------|\n")
+	
 	for _, r := range repos {
 		badges := strings.Join(r.Badges, ", ")
-		b.WriteString(fmt.Sprintf("* [%s](%s)  \n  XP: %d | Level: %d  \n  Badges: %s  \n  Last Commit: %s | Stars: %d | Forks: %d | Open Issues: %d\n",
-			r.Name, r.URL, r.XP, r.Level, badges, r.LastCommit, r.Stars, r.Forks, r.OpenIssues))
+		if badges == "" {
+			badges = "-"
+		}
+		
+		// Format last commit date to be more readable
+		lastCommit := r.LastCommit
+		if lastCommit != "N/A" {
+			if t, err := time.Parse(time.RFC3339, lastCommit); err == nil {
+				lastCommit = t.Format("2006-01-02")
+			}
+		}
+		
+		b.WriteString(fmt.Sprintf("| [%s](%s) | %d | %d | %s | %s | %d | %d | %d |\n",
+			r.Name, r.URL, r.XP, r.Level, badges, lastCommit, r.Stars, r.Forks, r.OpenIssues))
 	}
+	
 	return b.String()
 }
 
@@ -201,7 +215,6 @@ func fetchContributors(client *gh.Client, ctx context.Context, org string, repos
 			continue
 		}
 
-		// Commits
 		commitOpt := &gh.CommitsListOptions{ListOptions: gh.ListOptions{PerPage: 100}}
 		for {
 			commits, resp, err := client.Repositories.ListCommits(ctx, org, repo.GetName(), commitOpt)
@@ -230,7 +243,7 @@ func fetchContributors(client *gh.Client, ctx context.Context, org string, repos
 			}
 			commitOpt.Page = resp.NextPage
 		}
-		// Issues
+
 		issueOpt := &gh.IssueListByRepoOptions{State: "all", ListOptions: gh.ListOptions{PerPage: 100}}
 		for {
 			issues, resp, err := client.Issues.ListByRepo(ctx, org, repo.GetName(), issueOpt)
@@ -259,7 +272,7 @@ func fetchContributors(client *gh.Client, ctx context.Context, org string, repos
 			}
 			issueOpt.ListOptions.Page = resp.NextPage
 		}
-		// PRs
+
 		prOpt := &gh.PullRequestListOptions{State: "all", ListOptions: gh.ListOptions{PerPage: 100}}
 		for {
 			prs, resp, err := client.PullRequests.List(ctx, org, repo.GetName(), prOpt)
@@ -289,7 +302,7 @@ func fetchContributors(client *gh.Client, ctx context.Context, org string, repos
 			prOpt.Page = resp.NextPage
 		}
 	}
-	// Calculate XP, Level, Badges
+
 	var contribs []ContributorStats
 	mostCommits := 0
 	for _, c := range contribMap {
@@ -319,11 +332,20 @@ func fetchContributors(client *gh.Client, ctx context.Context, org string, repos
 
 func formatContributorsMarkdown(contribs []ContributorStats) string {
 	var b strings.Builder
+	
+	b.WriteString("| Contributor | XP | Level | Badges | Commits | Issues | PRs |\n")
+	b.WriteString("|-------------|-------|-------|--------|---------|--------|---------|\n")
+	
 	for _, c := range contribs {
 		badges := strings.Join(c.Badges, ", ")
-		b.WriteString(fmt.Sprintf("* [%s](%s)  \n  XP: %d | Level: %d  \n  Badges: %s  \n  Commits: %d | Issues: %d | PRs: %d\n",
+		if badges == "" {
+			badges = "-"
+		}
+		
+		b.WriteString(fmt.Sprintf("| [%s](%s) | %d | %d | %s | %d | %d | %d |\n",
 			c.Login, c.ProfileURL, c.XP, c.Level, badges, c.Commits, c.Issues, c.PRs))
 	}
+	
 	return b.String()
 }
 
@@ -371,16 +393,14 @@ func main() {
 	}
 	sort.Slice(projects, func(i, j int) bool { return projects[i].XP > projects[j].XP })
 
-	// Only show the first 10 projects
 	displayCount := min(len(projects), 10)
 	md := formatMarkdown(projects[:displayCount])
-	md += "\n[...and more projects](https://github.com/HappyHackingSpace?tab=repositories)"
+	md += "\n\n[...and more projects](https://github.com/HappyHackingSpace?tab=repositories)"
 
-	// Contributors section
 	contributors := fetchContributors(client, ctx, org, repos)
 	contribDisplayCount := min(len(contributors), 10)
 	contribMd := formatContributorsMarkdown(contributors[:contribDisplayCount])
-	contribMd += "\n[...and more contributors](https://github.com/orgs/HappyHackingSpace/people)"
+	contribMd += "\n\n[...and more contributors](https://github.com/orgs/HappyHackingSpace/people)"
 
 	readmePath := "profile/README.md"
 	readme, err := os.ReadFile(readmePath)
