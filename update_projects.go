@@ -45,7 +45,10 @@ type ContributorStats struct {
 	Badges     []string
 }
 
-var excludedProjects = []string{".github", "CTFd"}
+var (
+	excludedProjects     = []string{".github", "CTFd"}
+	excludedContributors = []string{"dependabot[bot]"}
+)
 
 func fetchOrgRepos(client *gh.Client, ctx context.Context, org string) ([]*gh.Repository, error) {
 	var allRepos []*gh.Repository
@@ -192,7 +195,6 @@ func formatMarkdown(repos []GhProjects) string {
 }
 
 func fetchContributors(client *gh.Client, ctx context.Context, org string, repos []*gh.Repository) []ContributorStats {
-	excludedContributors := []string{"dependabot[bot]"}
 	contribMap := map[string]*ContributorStats{}
 	for _, repo := range repos {
 		if slices.Contains(excludedProjects, repo.GetName()) {
