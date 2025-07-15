@@ -53,13 +53,9 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 
 ## Contributors (Auto-Updated)
 <!-- CONTRIBUTORS_START -->
-* [ColdHeat](https://github.com/ColdHeat)  
-  XP: 6060 | Level: 5  
-  Badges: 🏆 Top Committer  
-  Commits: 1212 | Issues: 0 | PRs: 0
 * [dogancanbakir](https://github.com/dogancanbakir)  
   XP: 826 | Level: 4  
-  Badges: 🔀 PR Hero, 🐛 Issue Opener  
+  Badges: 🏆 Top Committer, 🔀 PR Hero, 🐛 Issue Opener  
   Commits: 143 | Issues: 42 | PRs: 9
 * [atiilla](https://github.com/atiilla)  
   XP: 763 | Level: 4  
@@ -93,6 +89,10 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
   XP: 258 | Level: 2  
   Badges: 🔀 PR Hero, 🐛 Issue Opener  
   Commits: 42 | Issues: 6 | PRs: 12
+* [ahsentekd](https://github.com/ahsentekd)  
+  XP: 227 | Level: 2  
+  Badges: 🔀 PR Hero, 🐛 Issue Opener  
+  Commits: 41 | Issues: 2 | PRs: 6
 
 [...and more contributors](https://github.com/orgs/HappyHackingSpace/people)<!-- CONTRIBUTORS_END -->
 
