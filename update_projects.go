@@ -370,19 +370,13 @@ func main() {
 	sort.Slice(projects, func(i, j int) bool { return projects[i].XP > projects[j].XP })
 
 	// Only show the first 10 projects
-	displayCount := 10
-	if len(projects) < displayCount {
-		displayCount = len(projects)
-	}
+	displayCount := min(len(projects), 10)
 	md := formatMarkdown(projects[:displayCount])
 	md += "\n[...and more projects](https://github.com/HappyHackingSpace?tab=repositories)"
 
 	// Contributors section
 	contributors := fetchContributors(client, ctx, org, repos)
-	contribDisplayCount := 10
-	if len(contributors) < contribDisplayCount {
-		contribDisplayCount = len(contributors)
-	}
+	contribDisplayCount := min(len(contributors), 10)
 	contribMd := formatContributorsMarkdown(contributors[:contribDisplayCount])
 	contribMd += "\n[...and more contributors](https://github.com/orgs/HappyHackingSpace/people)"
 
