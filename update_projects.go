@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"os"
 	"regexp"
+	"slices"
 	"sort"
 	"strings"
 	"time"
@@ -170,14 +171,24 @@ func formatMarkdown(repos []GhProjects) string {
 	var b strings.Builder
 	for _, r := range repos {
 		badges := strings.Join(r.Badges, ", ")
-		b.WriteString(fmt.Sprintf("* [%s](%s)  \n  XP: %d | Level: %d %s  \n  Badges: %s  \n  Last Commit: %s | Stars: %d | Forks: %d | Open Issues: %d\n",
-			r.Name, r.URL, r.XP, r.Level, badges, badges, r.LastCommit, r.Stars, r.Forks, r.OpenIssues))
+		b.WriteString(fmt.Sprintf("* [%s](%s)  \n  XP: %d | Level: %d  \n  Badges: %s  \n  Last Commit: %s | Stars: %d | Forks: %d | Open Issues: %d\n",
+			r.Name, r.URL, r.XP, r.Level, badges, r.LastCommit, r.Stars, r.Forks, r.OpenIssues))
 	}
 	return b.String()
 }
 
+func contains(slice []string, item string) bool {
+	for _, s := range slice {
+		if s == item {
+			return true
+		}
+	}
+	return false
+}
+
 func main() {
 	org := "HappyHackingSpace"
+	excludedProjects := []string{".github"}
 	token := os.Getenv("GITHUB_TOKEN")
 	ctx := context.Background()
 	var client *gh.Client
@@ -196,6 +207,10 @@ func main() {
 	var statsList []RepoStats
 	mostStars := 0
 	for _, repo := range repos {
+		if slices.Contains(excludedProjects, repo.GetName()) {
+			continue
+		}
+
 		stats, err := fetchRepoStats(client, ctx, org, repo)
 		if err != nil {
 			fmt.Fprintf(os.Stderr, "Error fetching %s: %v\n", repo.GetHTMLURL(), err)
@@ -216,7 +231,13 @@ func main() {
 	}
 	sort.Slice(projects, func(i, j int) bool { return projects[i].XP > projects[j].XP })
 
-	md := formatMarkdown(projects)
+	// Only show the first 10 projects
+	displayCount := 10
+	if len(projects) < displayCount {
+		displayCount = len(projects)
+	}
+	md := formatMarkdown(projects[:displayCount])
+	md += "\n[...and more projects](https://github.com/HappyHackingSpace?tab=repositories)"
 
 	readmePath := "profile/README.md"
 	readme, err := os.ReadFile(readmePath)
