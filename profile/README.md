@@ -49,7 +49,7 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
   Badges: 🛡️ Secure  
   Last Commit: N/A | Stars: 7 | Forks: 7 | Open Issues: 0
 
-[...and more projects](https://github.com/HappyHackingSpace?tab=repositories)<!-- PROJECTS_END -->
+[...and more projects](https://github.com/orgs/HappyHackingSpace/repositories)<!-- PROJECTS_END -->
 
 ## Contributors (Auto-Updated)
 <!-- CONTRIBUTORS_START -->
@@ -96,10 +96,27 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 
 [...and more contributors](https://github.com/orgs/HappyHackingSpace/people)<!-- CONTRIBUTORS_END -->
 
-## Contact
-Feel free to connect with us or join our community through the following channels, or email us anytime at [team@happyhacking.space](mailto:team@happyhacking.space) when you have questions or want to collaborate:
+## Join Us
+Join us at [this link](https://join.happyhacking.space)
+
+## Events
+Discover our upcoming events and activities by visiting our [Events Page](https://happyhacking.space/events).
+
+## Follow Us
+Stay updated with our latest activities and projects by following us on our social media channels:
 * [LinkedIn](https://www.linkedin.com/company/happyhackingspace)
 * [X / Twitter](https://x.com/happyhackings)
-* [Medium](https://happyhackingspace.blog)
 * [Instagram](https://www.instagram.com/happyhackingspace)
 * [YouTube](https://www.youtube.com/@HappyHackingSpace)
+* [Bluesky](https://bsky.app/profile/happyhackingspace.bsky.social)
+* [Mastodon](https://mastodon.social/@happyhackingspace)
+* [Reddit](https://www.reddit.com/r/HappyHackingSpace/hot/)
+* [TikTok](https://www.tiktok.com/@happyhackingspace)
+* [Twitch](https://www.twitch.tv/happyhackingspace)
+* [Kick](https://kick.com/happyhackingspace)
+
+## Read Our Blog
+Explore our thoughts and insights on various topics by visiting our [Blog](https://happyhackingspace.blog).
+
+## Contact
+For any inquiries or further information, please reach out to us at [team@happyhacking.space](mailto:team@happyhacking.space).
