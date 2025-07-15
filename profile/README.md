@@ -5,14 +5,11 @@ Welcome to a community of hackers. We’re artists, scientists, writers, enginee
 
 [Happy Hacking Space](https://happyhacking.space/) is a community that loves exploring boundaries with a playful spirit while crafting open source projects.
 
-## Projects
+## Projects (Auto-Updated)
 We develop a diverse range of projects spanning cybersecurity, gaming, AI-powered tools, documentation, and purely fun experiments. While we have many ongoing projects, below are some of our most popular and actively maintained repositories.
-* [Vulnerable Target](https://github.com/HappyHackingSpace/vulnerable-target): Creates intentionally vulnerable environments across multiple platforms for research and educational reasons.
-* [Hacker Taboo](https://github.com/HappyHackingSpace/HackerTaboo) / [Hacker Taboo Web](https://github.com/HappyHackingSpace/hacker-taboo-web): Taboo-style card game for hackers covering computer science, cybersecurity, electronics, hacking, and open source topics.
-* [Unfollows](https://github.com/HappyHackingSpace/unfollows): Helps you identify users you are following on GitHub but who are not following you back.
-* [Awasome Hackathon](https://github.com/HappyHackingSpace/awesome-hackathon): Tools and resources to help you build, design, and win hackathons.
-* [SkyBound Quest](https://github.com/HappyHackingSpace/SkyBound-Quest): Play as Zephyr, a young inventor, on a mission to recover the shattered pieces of an ancient core and save a world of floating islands.
-* [AI Tools](https://github.com/HappyHackingSpace/ai-tools): Provides a comprehensive guide to various AI tools categorized by their use cases, helping you quickly integrate AI into your workflows.
+<!-- PROJECTS_START -->
+* Projects will be dynamically listed here with XP, Level, and Badges.
+<!-- PROJECTS_END -->
 
 ## Contact
 Feel free to connect with us or join our community through the following channels, or email us anytime at [team@happyhacking.space](mailto:team@happyhacking.space) when you have questions or want to collaborate:
