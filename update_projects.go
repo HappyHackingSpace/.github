@@ -45,6 +45,8 @@ type ContributorStats struct {
 	Badges     []string
 }
 
+var excludedProjects = []string{".github", "CTFd"}
+
 func fetchOrgRepos(client *gh.Client, ctx context.Context, org string) ([]*gh.Repository, error) {
 	var allRepos []*gh.Repository
 	opt := &gh.RepositoryListByOrgOptions{Type: "public", ListOptions: gh.ListOptions{PerPage: 100}}
@@ -193,9 +195,10 @@ func fetchContributors(client *gh.Client, ctx context.Context, org string, repos
 	excludedContributors := []string{"dependabot[bot]"}
 	contribMap := map[string]*ContributorStats{}
 	for _, repo := range repos {
-		if repo.GetName() == ".github" {
+		if slices.Contains(excludedProjects, repo.GetName()) {
 			continue
 		}
+
 		// Commits
 		commitOpt := &gh.CommitsListOptions{ListOptions: gh.ListOptions{PerPage: 100}}
 		for {
@@ -324,7 +327,7 @@ func formatContributorsMarkdown(contribs []ContributorStats) string {
 
 func main() {
 	org := "HappyHackingSpace"
-	excludedProjects := []string{".github", "CTFd"}
+
 	token := os.Getenv("GITHUB_TOKEN")
 	ctx := context.Background()
 	var client *gh.Client
