@@ -150,6 +150,11 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
   Last Commit: N/A | Stars: 0 | Forks: 0 | Open Issues: 7
 <!-- PROJECTS_END -->
 
+## Contributors (Auto-Updated)
+<!-- CONTRIBUTORS_START -->
+* Contributors will be dynamically listed here.
+<!-- CONTRIBUTORS_END -->
+
 ## Contact
 Feel free to connect with us or join our community through the following channels, or email us anytime at [team@happyhacking.space](mailto:team@happyhacking.space) when you have questions or want to collaborate:
 * [LinkedIn](https://www.linkedin.com/company/happyhackingspace)

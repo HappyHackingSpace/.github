@@ -33,6 +33,18 @@ type GhProjects struct {
 	Badges []string
 }
 
+type ContributorStats struct {
+	Login      string
+	ProfileURL string
+	AvatarURL  string
+	Commits    int
+	Issues     int
+	PRs        int
+	XP         int
+	Level      int
+	Badges     []string
+}
+
 func fetchOrgRepos(client *gh.Client, ctx context.Context, org string) ([]*gh.Repository, error) {
 	var allRepos []*gh.Repository
 	opt := &gh.RepositoryListByOrgOptions{Type: "public", ListOptions: gh.ListOptions{PerPage: 100}}
@@ -177,18 +189,142 @@ func formatMarkdown(repos []GhProjects) string {
 	return b.String()
 }
 
-func contains(slice []string, item string) bool {
-	for _, s := range slice {
-		if s == item {
-			return true
+func fetchContributors(client *gh.Client, ctx context.Context, org string, repos []*gh.Repository) []ContributorStats {
+	excludedContributors := []string{"dependabot[bot]"}
+	contribMap := map[string]*ContributorStats{}
+	for _, repo := range repos {
+		if repo.GetName() == ".github" {
+			continue
+		}
+		// Commits
+		commitOpt := &gh.CommitsListOptions{ListOptions: gh.ListOptions{PerPage: 100}}
+		for {
+			commits, resp, err := client.Repositories.ListCommits(ctx, org, repo.GetName(), commitOpt)
+			if err != nil {
+				break
+			}
+			for _, c := range commits {
+				if c.Author == nil {
+					continue
+				}
+				login := c.Author.GetLogin()
+				if login == "" || slices.Contains(excludedContributors, login) {
+					continue
+				}
+				if _, ok := contribMap[login]; !ok {
+					contribMap[login] = &ContributorStats{
+						Login:      login,
+						ProfileURL: c.Author.GetHTMLURL(),
+						AvatarURL:  c.Author.GetAvatarURL(),
+					}
+				}
+				contribMap[login].Commits++
+			}
+			if resp.NextPage == 0 {
+				break
+			}
+			commitOpt.Page = resp.NextPage
+		}
+		// Issues
+		issueOpt := &gh.IssueListByRepoOptions{State: "all", ListOptions: gh.ListOptions{PerPage: 100}}
+		for {
+			issues, resp, err := client.Issues.ListByRepo(ctx, org, repo.GetName(), issueOpt)
+			if err != nil {
+				break
+			}
+			for _, issue := range issues {
+				if issue.User == nil || issue.PullRequestLinks != nil {
+					continue // skip PRs here
+				}
+				login := issue.User.GetLogin()
+				if login == "" || slices.Contains(excludedContributors, login) {
+					continue
+				}
+				if _, ok := contribMap[login]; !ok {
+					contribMap[login] = &ContributorStats{
+						Login:      login,
+						ProfileURL: issue.User.GetHTMLURL(),
+						AvatarURL:  issue.User.GetAvatarURL(),
+					}
+				}
+				contribMap[login].Issues++
+			}
+			if resp.NextPage == 0 {
+				break
+			}
+			issueOpt.ListOptions.Page = resp.NextPage
+		}
+		// PRs
+		prOpt := &gh.PullRequestListOptions{State: "all", ListOptions: gh.ListOptions{PerPage: 100}}
+		for {
+			prs, resp, err := client.PullRequests.List(ctx, org, repo.GetName(), prOpt)
+			if err != nil {
+				break
+			}
+			for _, pr := range prs {
+				if pr.User == nil {
+					continue
+				}
+				login := pr.User.GetLogin()
+				if login == "" || slices.Contains(excludedContributors, login) {
+					continue
+				}
+				if _, ok := contribMap[login]; !ok {
+					contribMap[login] = &ContributorStats{
+						Login:      login,
+						ProfileURL: pr.User.GetHTMLURL(),
+						AvatarURL:  pr.User.GetAvatarURL(),
+					}
+				}
+				contribMap[login].PRs++
+			}
+			if resp.NextPage == 0 {
+				break
+			}
+			prOpt.Page = resp.NextPage
 		}
 	}
-	return false
+	// Calculate XP, Level, Badges
+	var contribs []ContributorStats
+	mostCommits := 0
+	for _, c := range contribMap {
+		c.XP = c.Commits*5 + c.Issues*2 + c.PRs*3
+		c.Level = calcLevel(c.XP)
+		if c.Commits > mostCommits {
+			mostCommits = c.Commits
+		}
+		contribs = append(contribs, *c)
+	}
+	for i := range contribs {
+		badges := []string{}
+		if contribs[i].Commits == mostCommits {
+			badges = append(badges, "🏆 Top Committer")
+		}
+		if contribs[i].PRs > 0 {
+			badges = append(badges, "🔀 PR Hero")
+		}
+		if contribs[i].Issues > 0 {
+			badges = append(badges, "🐛 Issue Opener")
+		}
+		contribs[i].Badges = badges
+	}
+	sort.Slice(contribs, func(i, j int) bool { return contribs[i].XP > contribs[j].XP })
+	return contribs
+}
+
+func formatContributorsMarkdown(contribs []ContributorStats) string {
+	var b strings.Builder
+	for _, c := range contribs {
+		badges := strings.Join(c.Badges, ", ")
+		b.WriteString(fmt.Sprintf("* [%s](%s)  \n  XP: %d | Level: %d  \n  Badges: %s  \n  Commits: %d | Issues: %d | PRs: %d\n",
+			c.Login, c.ProfileURL, c.XP, c.Level, badges, c.Commits, c.Issues, c.PRs))
+	}
+	return b.String()
 }
 
 func main() {
 	org := "HappyHackingSpace"
-	excludedProjects := []string{".github"}
+	excludedProjects := []string{".github", "CTFd"}
 	token := os.Getenv("GITHUB_TOKEN")
 	ctx := context.Background()
 	var client *gh.Client
@@ -210,7 +346,6 @@ func main() {
 		if slices.Contains(excludedProjects, repo.GetName()) {
 			continue
 		}
-
 		stats, err := fetchRepoStats(client, ctx, org, repo)
 		if err != nil {
 			fmt.Fprintf(os.Stderr, "Error fetching %s: %v\n", repo.GetHTMLURL(), err)
@@ -239,6 +374,15 @@ func main() {
 	md := formatMarkdown(projects[:displayCount])
 	md += "\n[...and more projects](https://github.com/HappyHackingSpace?tab=repositories)"
 
+	// Contributors section
+	contributors := fetchContributors(client, ctx, org, repos)
+	contribDisplayCount := 10
+	if len(contributors) < contribDisplayCount {
+		contribDisplayCount = len(contributors)
+	}
+	contribMd := formatContributorsMarkdown(contributors[:contribDisplayCount])
+	contribMd += "\n[...and more contributors](https://github.com/orgs/HappyHackingSpace/people)"
+
 	readmePath := "profile/README.md"
 	readme, err := os.ReadFile(readmePath)
 	if err != nil {
@@ -246,6 +390,10 @@ func main() {
 	}
 	re := regexp.MustCompile(`(?s)<!-- PROJECTS_START -->(.*?)<!-- PROJECTS_END -->`)
 	newReadme := re.ReplaceAll(readme, []byte("<!-- PROJECTS_START -->\n"+md+"<!-- PROJECTS_END -->"))
+
+	re2 := regexp.MustCompile(`(?s)<!-- CONTRIBUTORS_START -->(.*?)<!-- CONTRIBUTORS_END -->`)
+	newReadme = re2.ReplaceAll(newReadme, []byte("<!-- CONTRIBUTORS_START -->\n"+contribMd+"<!-- CONTRIBUTORS_END -->"))
+
 	if err := os.WriteFile(readmePath, newReadme, 0644); err != nil {
 		panic(err)
 	}
