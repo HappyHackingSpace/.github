@@ -9,8 +9,6 @@ import (
 	"strings"
 	"time"
 
-	"io/ioutil"
-
 	gh "github.com/google/go-github/v73/github"
 	"golang.org/x/oauth2"
 )
@@ -221,13 +219,13 @@ func main() {
 	md := formatMarkdown(projects)
 
 	readmePath := "profile/README.md"
-	readme, err := ioutil.ReadFile(readmePath)
+	readme, err := os.ReadFile(readmePath)
 	if err != nil {
 		panic(err)
 	}
 	re := regexp.MustCompile(`(?s)<!-- PROJECTS_START -->(.*?)<!-- PROJECTS_END -->`)
 	newReadme := re.ReplaceAll(readme, []byte("<!-- PROJECTS_START -->\n"+md+"<!-- PROJECTS_END -->"))
-	if err := ioutil.WriteFile(readmePath, newReadme, 0644); err != nil {
+	if err := os.WriteFile(readmePath, newReadme, 0644); err != nil {
 		panic(err)
 	}
 }
