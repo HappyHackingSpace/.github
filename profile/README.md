@@ -97,7 +97,7 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 [...and more contributors](https://github.com/orgs/HappyHackingSpace/people)<!-- CONTRIBUTORS_END -->
 
 ## Join Us
-Join us at [this link](https://join.happyhacking.space)
+Become a part of this movement by joining us [here](https://join.happyhacking.space)
 
 ## Events
 Discover our upcoming events and activities by visiting our [Events Page](https://happyhacking.space/events).
