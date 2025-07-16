@@ -36,7 +36,7 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | [umutbasal](https://github.com/umutbasal) | 367 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 54 | 17 | 21 |
 | [baranylcn](https://github.com/baranylcn) | 363 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 70 | 2 | 3 |
 | [MuslimeKaya](https://github.com/MuslimeKaya) | 325 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 56 | 3 | 13 |
-| [recepgunes1](https://github.com/recepgunes1) | 258 | 2 | 🔀 PR Hero, 🐛 Issue Opener | 42 | 6 | 12 |
+| [recepgunes1](https://github.com/recepgunes1) | 263 | 2 | 🔀 PR Hero, 🐛 Issue Opener | 43 | 6 | 12 |
 | [ahsentekd](https://github.com/ahsentekd) | 227 | 2 | 🔀 PR Hero, 🐛 Issue Opener | 41 | 2 | 6 |
 
 
