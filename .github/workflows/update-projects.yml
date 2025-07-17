@@ -22,7 +22,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          go run update_projects.go
+          go run scripts/update_projects.go
       - name: Commit and push if changed
         run: |
           git config --global user.name 'github-actions[bot]'
