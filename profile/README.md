@@ -10,16 +10,16 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 <!-- PROJECTS_START -->
 | Project | XP | Level | Badges | Last Commit | Stars | Forks | Open Issues |
 |---------|-------|-------|--------|-------------|-------|-------|-------------|
-| [githubmon](https://github.com/HappyHackingSpace/githubmon) | 1847 | 5 | 🚀 Active Development, 🛡️ Secure | 2025-07-14 | 2 | 3 | 4 |
+| [githubmon](https://github.com/HappyHackingSpace/githubmon) | 1850 | 5 | 🚀 Active Development, 🛡️ Secure | 2025-07-14 | 2 | 4 | 5 |
 | [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 666 | 3 | 🏆 Hot Project, 🚀 Active Development, 🛡️ Secure | 2025-07-12 | 52 | 12 | 7 |
-| [CommunityHub](https://github.com/HappyHackingSpace/CommunityHub) | 571 | 3 | 🚀 Active Development, 🛡️ Secure | 2025-07-14 | 0 | 3 | 2 |
+| [CommunityHub](https://github.com/HappyHackingSpace/CommunityHub) | 609 | 3 | 🚀 Active Development, 🛡️ Secure | 2025-07-16 | 0 | 3 | 3 |
+| [site](https://github.com/HappyHackingSpace/site) | 518 | 3 | 🚀 Active Development, 🛡️ Secure | 2025-07-16 | 0 | 0 | 1 |
 | [resumeX](https://github.com/HappyHackingSpace/resumeX) | 240 | 2 | 🚀 Active Development, 🧑‍💻 Welcoming Issues, 🛡️ Secure | 2025-07-14 | 3 | 4 | 5 |
 | [vulnerable-target](https://github.com/HappyHackingSpace/vulnerable-target) | 217 | 2 | 🧑‍💻 Welcoming Issues, 🛡️ Secure | N/A | 20 | 7 | 9 |
 | [ZmapSDK](https://github.com/HappyHackingSpace/ZmapSDK) | 216 | 2 | 🚀 Active Development, 🛡️ Secure | 2025-07-03 | 7 | 2 | 2 |
 | [Kurdish-Dataset](https://github.com/HappyHackingSpace/Kurdish-Dataset) | 163 | 2 | 🚀 Active Development, 🛡️ Secure | 2025-07-13 | 2 | 1 | 1 |
 | [funURL](https://github.com/HappyHackingSpace/funURL) | 154 | 2 | 🚀 Active Development, 🛡️ Secure | 2025-06-27 | 3 | 2 | 3 |
 | [unfollows](https://github.com/HappyHackingSpace/unfollows) | 133 | 2 | 🛡️ Secure | N/A | 11 | 5 | 1 |
-| [mcp-hydra](https://github.com/HappyHackingSpace/mcp-hydra) | 105 | 2 | 🛡️ Secure | N/A | 7 | 7 | 0 |
 
 
 [...and more projects](https://github.com/HappyHackingSpace?tab=repositories)<!-- PROJECTS_END -->
@@ -28,16 +28,16 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 <!-- CONTRIBUTORS_START -->
 | Contributor | XP | Level | Badges | Commits | Issues | PRs |
 |-------------|-------|-------|--------|---------|--------|---------|
-| [dogancanbakir](https://github.com/dogancanbakir) | 826 | 4 | 🏆 Top Committer, 🔀 PR Hero, 🐛 Issue Opener | 143 | 42 | 9 |
+| [sampoder](https://github.com/sampoder) | 2470 | 5 | 🏆 Top Committer | 494 | 0 | 0 |
+| [maxwofford](https://github.com/maxwofford) | 2400 | 5 | - | 480 | 0 | 0 |
+| [exu3](https://github.com/exu3) | 1240 | 4 | - | 248 | 0 | 0 |
+| [bellesea](https://github.com/bellesea) | 1170 | 4 | - | 234 | 0 | 0 |
+| [malted](https://github.com/malted) | 975 | 4 | - | 195 | 0 | 0 |
+| [lachlanjc](https://github.com/lachlanjc) | 875 | 4 | - | 175 | 0 | 0 |
+| [dogancanbakir](https://github.com/dogancanbakir) | 826 | 4 | 🔀 PR Hero, 🐛 Issue Opener | 143 | 42 | 9 |
+| [tobyab](https://github.com/tobyab) | 770 | 4 | - | 154 | 0 | 0 |
 | [atiilla](https://github.com/atiilla) | 763 | 4 | 🔀 PR Hero, 🐛 Issue Opener | 136 | 1 | 27 |
 | [ozantekin](https://github.com/ozantekin) | 631 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 107 | 9 | 26 |
-| [ArjinAlbay](https://github.com/ArjinAlbay) | 462 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 77 | 7 | 21 |
-| [HazarBakir](https://github.com/HazarBakir) | 377 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 59 | 5 | 24 |
-| [umutbasal](https://github.com/umutbasal) | 367 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 54 | 17 | 21 |
-| [baranylcn](https://github.com/baranylcn) | 363 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 70 | 2 | 3 |
-| [MuslimeKaya](https://github.com/MuslimeKaya) | 325 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 56 | 3 | 13 |
-| [recepgunes1](https://github.com/recepgunes1) | 263 | 2 | 🔀 PR Hero, 🐛 Issue Opener | 43 | 6 | 12 |
-| [ahsentekd](https://github.com/ahsentekd) | 227 | 2 | 🔀 PR Hero, 🐛 Issue Opener | 41 | 2 | 6 |
 
 
 [...and more contributors](https://github.com/orgs/HappyHackingSpace/people)<!-- CONTRIBUTORS_END -->
