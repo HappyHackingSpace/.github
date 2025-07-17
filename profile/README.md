@@ -14,7 +14,7 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 666 | 3 | 🏆 Hot Project, 🚀 Active Development, 🛡️ Secure | 2025-07-12 | 52 | 12 | 7 |
 | [CommunityHub](https://github.com/HappyHackingSpace/CommunityHub) | 609 | 3 | 🚀 Active Development, 🛡️ Secure | 2025-07-16 | 0 | 3 | 3 |
 | [site](https://github.com/HappyHackingSpace/site) | 518 | 3 | 🚀 Active Development, 🛡️ Secure | 2025-07-16 | 0 | 0 | 1 |
-| [resumeX](https://github.com/HappyHackingSpace/resumeX) | 240 | 2 | 🚀 Active Development, 🧑‍💻 Welcoming Issues, 🛡️ Secure | 2025-07-14 | 3 | 4 | 5 |
+| [resumeX](https://github.com/HappyHackingSpace/resumeX) | 304 | 3 | 🚀 Active Development, 🛡️ Secure | 2025-07-17 | 3 | 4 | 3 |
 | [vulnerable-target](https://github.com/HappyHackingSpace/vulnerable-target) | 217 | 2 | 🧑‍💻 Welcoming Issues, 🛡️ Secure | N/A | 20 | 7 | 9 |
 | [ZmapSDK](https://github.com/HappyHackingSpace/ZmapSDK) | 216 | 2 | 🚀 Active Development, 🛡️ Secure | 2025-07-03 | 7 | 2 | 2 |
 | [Kurdish-Dataset](https://github.com/HappyHackingSpace/Kurdish-Dataset) | 163 | 2 | 🚀 Active Development, 🛡️ Secure | 2025-07-13 | 2 | 1 | 1 |
