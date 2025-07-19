@@ -11,14 +11,14 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | Project | XP | Level | Badges | Last Commit | Stars | Forks | Open Issues |
 |---------|-------|-------|--------|-------------|-------|-------|-------------|
 | [githubmon](https://github.com/HappyHackingSpace/githubmon) | 1860 | 5 | 🚀 Active Development, 🛡️ Secure | 2025-07-14 | 3 | 4 | 5 |
+| [CommunityHub](https://github.com/HappyHackingSpace/CommunityHub) | 1715 | 5 | 🚀 Active Development, 🛡️ Secure | 2025-07-18 | 0 | 3 | 0 |
 | [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 666 | 3 | 🏆 Hot Project, 🚀 Active Development, 🛡️ Secure | 2025-07-12 | 52 | 12 | 7 |
-| [CommunityHub](https://github.com/HappyHackingSpace/CommunityHub) | 609 | 3 | 🚀 Active Development, 🛡️ Secure | 2025-07-16 | 0 | 3 | 3 |
-| [site](https://github.com/HappyHackingSpace/site) | 498 | 3 | 🚀 Active Development, 🛡️ Secure | 2025-07-16 | 0 | 0 | 1 |
+| [site](https://github.com/HappyHackingSpace/site) | 478 | 3 | 🚀 Active Development, 🛡️ Secure | 2025-07-16 | 0 | 0 | 1 |
 | [resumeX](https://github.com/HappyHackingSpace/resumeX) | 304 | 3 | 🚀 Active Development, 🛡️ Secure | 2025-07-17 | 3 | 4 | 3 |
 | [vulnerable-target](https://github.com/HappyHackingSpace/vulnerable-target) | 217 | 2 | 🧑‍💻 Welcoming Issues, 🛡️ Secure | N/A | 20 | 7 | 9 |
 | [ZmapSDK](https://github.com/HappyHackingSpace/ZmapSDK) | 216 | 2 | 🚀 Active Development, 🛡️ Secure | 2025-07-03 | 7 | 2 | 2 |
 | [Kurdish-Dataset](https://github.com/HappyHackingSpace/Kurdish-Dataset) | 163 | 2 | 🚀 Active Development, 🛡️ Secure | 2025-07-13 | 2 | 1 | 1 |
-| [funURL](https://github.com/HappyHackingSpace/funURL) | 154 | 2 | 🚀 Active Development, 🛡️ Secure | 2025-06-27 | 3 | 2 | 3 |
+| [funURL](https://github.com/HappyHackingSpace/funURL) | 134 | 2 | 🚀 Active Development, 🛡️ Secure | 2025-06-27 | 3 | 2 | 3 |
 | [unfollows](https://github.com/HappyHackingSpace/unfollows) | 133 | 2 | 🛡️ Secure | N/A | 11 | 5 | 1 |
 
 
@@ -37,7 +37,7 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | [dogancanbakir](https://github.com/dogancanbakir) | 826 | 4 | 🔀 PR Hero, 🐛 Issue Opener | 143 | 42 | 9 |
 | [tobyab](https://github.com/tobyab) | 770 | 4 | - | 154 | 0 | 0 |
 | [atiilla](https://github.com/atiilla) | 763 | 4 | 🔀 PR Hero, 🐛 Issue Opener | 136 | 1 | 27 |
-| [ozantekin](https://github.com/ozantekin) | 631 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 107 | 9 | 26 |
+| [ArjinAlbay](https://github.com/ArjinAlbay) | 739 | 4 | 🔀 PR Hero, 🐛 Issue Opener | 130 | 7 | 25 |
 
 
 [...and more contributors](https://github.com/orgs/HappyHackingSpace/people)<!-- CONTRIBUTORS_END -->
