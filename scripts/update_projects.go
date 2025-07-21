@@ -46,7 +46,7 @@ type ContributorStats struct {
 }
 
 var (
-	excludedProjects     = []string{".github", "CTFd"}
+	excludedProjects     = []string{".github", "CTFd", "site"}
 	excludedContributors = []string{"dependabot[bot]"}
 )
 
