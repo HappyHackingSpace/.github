@@ -10,14 +10,14 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 <!-- PROJECTS_START -->
 | Project | XP | Level | Badges | Last Commit | Stars | Forks | Open Issues |
 |---------|-------|-------|--------|-------------|-------|-------|-------------|
-| [githubmon](https://github.com/HappyHackingSpace/githubmon) | 3696 | 5 | 🚀 Active Development, 🛡️ Secure | 2025-07-23 | 3 | 4 | 7 |
+| [githubmon](https://github.com/HappyHackingSpace/githubmon) | 3694 | 5 | 🚀 Active Development, 🛡️ Secure | 2025-07-23 | 3 | 4 | 8 |
 | [CommunityHub](https://github.com/HappyHackingSpace/CommunityHub) | 2455 | 5 | 🚀 Active Development, 🛡️ Secure | 2025-07-23 | 0 | 3 | 0 |
 | [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 666 | 3 | 🏆 Hot Project, 🚀 Active Development, 🛡️ Secure | 2025-07-12 | 52 | 12 | 7 |
 | [resumeX](https://github.com/HappyHackingSpace/resumeX) | 299 | 2 | 🚀 Active Development, 🛡️ Secure | 2025-07-17 | 3 | 3 | 3 |
 | [vulnerable-target](https://github.com/HappyHackingSpace/vulnerable-target) | 213 | 2 | 🧑‍💻 Welcoming Issues, 🛡️ Secure | N/A | 20 | 7 | 11 |
-| [Kurdish-Dataset](https://github.com/HappyHackingSpace/Kurdish-Dataset) | 205 | 2 | 🚀 Active Development, 🛡️ Secure | 2025-07-21 | 2 | 1 | 0 |
 | [ZmapSDK](https://github.com/HappyHackingSpace/ZmapSDK) | 156 | 2 | 🛡️ Secure | 2025-07-03 | 7 | 2 | 2 |
 | [unfollows](https://github.com/HappyHackingSpace/unfollows) | 133 | 2 | 🛡️ Secure | N/A | 11 | 5 | 1 |
+| [Kurdish-Dataset](https://github.com/HappyHackingSpace/Kurdish-Dataset) | 125 | 2 | 🚀 Active Development, 🛡️ Secure | 2025-07-21 | 2 | 1 | 0 |
 | [mcp-hydra](https://github.com/HappyHackingSpace/mcp-hydra) | 105 | 2 | 🛡️ Secure | N/A | 7 | 7 | 0 |
 | [sql-translator-llama3](https://github.com/HappyHackingSpace/sql-translator-llama3) | 90 | 1 | 🛡️ Secure | 2025-07-20 | 1 | 0 | 0 |
 
