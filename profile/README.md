@@ -14,11 +14,11 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | [CommunityHub](https://github.com/HappyHackingSpace/CommunityHub) | 2455 | 5 | 🚀 Active Development, 🛡️ Secure | 2025-07-23 | 0 | 3 | 0 |
 | [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 666 | 3 | 🏆 Hot Project, 🚀 Active Development, 🛡️ Secure | 2025-07-12 | 52 | 12 | 7 |
 | [resumeX](https://github.com/HappyHackingSpace/resumeX) | 299 | 2 | 🚀 Active Development, 🛡️ Secure | 2025-07-17 | 3 | 3 | 3 |
-| [vulnerable-target](https://github.com/HappyHackingSpace/vulnerable-target) | 213 | 2 | 🧑‍💻 Welcoming Issues, 🛡️ Secure | N/A | 20 | 7 | 11 |
-| [ZmapSDK](https://github.com/HappyHackingSpace/ZmapSDK) | 156 | 2 | 🛡️ Secure | 2025-07-03 | 7 | 2 | 2 |
+| [vulnerable-target](https://github.com/HappyHackingSpace/vulnerable-target) | 215 | 2 | 🧑‍💻 Welcoming Issues, 🛡️ Secure | N/A | 20 | 7 | 10 |
+| [ZmapSDK](https://github.com/HappyHackingSpace/ZmapSDK) | 151 | 2 | 🛡️ Secure | 2025-07-03 | 7 | 1 | 2 |
 | [unfollows](https://github.com/HappyHackingSpace/unfollows) | 133 | 2 | 🛡️ Secure | N/A | 11 | 5 | 1 |
 | [Kurdish-Dataset](https://github.com/HappyHackingSpace/Kurdish-Dataset) | 125 | 2 | 🚀 Active Development, 🛡️ Secure | 2025-07-21 | 2 | 1 | 0 |
-| [mcp-hydra](https://github.com/HappyHackingSpace/mcp-hydra) | 105 | 2 | 🛡️ Secure | N/A | 7 | 7 | 0 |
+| [mcp-hydra](https://github.com/HappyHackingSpace/mcp-hydra) | 110 | 2 | 🛡️ Secure | N/A | 7 | 8 | 0 |
 | [sql-translator-llama3](https://github.com/HappyHackingSpace/sql-translator-llama3) | 90 | 1 | 🛡️ Secure | 2025-07-20 | 1 | 0 | 0 |
 
 
@@ -36,7 +36,7 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | [baranylcn](https://github.com/baranylcn) | 398 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 77 | 2 | 3 |
 | [HazarBakir](https://github.com/HazarBakir) | 377 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 59 | 5 | 24 |
 | [umutbasal](https://github.com/umutbasal) | 367 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 54 | 17 | 21 |
-| [recepgunes1](https://github.com/recepgunes1) | 271 | 2 | 🔀 PR Hero, 🐛 Issue Opener | 44 | 6 | 13 |
+| [recepgunes1](https://github.com/recepgunes1) | 281 | 2 | 🔀 PR Hero, 🐛 Issue Opener | 46 | 6 | 13 |
 | [ahsentekd](https://github.com/ahsentekd) | 227 | 2 | 🔀 PR Hero, 🐛 Issue Opener | 41 | 2 | 6 |
 
 
