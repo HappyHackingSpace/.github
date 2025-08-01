@@ -10,15 +10,15 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 <!-- PROJECTS_START -->
 | Project | XP | Level | Badges | Last Commit | Stars | Forks | Open Issues |
 |---------|-------|-------|--------|-------------|-------|-------|-------------|
-| [githubmon](https://github.com/HappyHackingSpace/githubmon) | 3712 | 5 | 🚀 Active Development, 🛡️ Secure | 2025-07-26 | 3 | 4 | 9 |
+| [githubmon](https://github.com/HappyHackingSpace/githubmon) | 3934 | 5 | 🚀 Active Development, 🛡️ Secure | 2025-07-31 | 3 | 4 | 8 |
 | [CommunityHub](https://github.com/HappyHackingSpace/CommunityHub) | 2455 | 5 | 🚀 Active Development, 🛡️ Secure | 2025-07-23 | 0 | 3 | 0 |
 | [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 681 | 3 | 🏆 Hot Project, 🚀 Active Development, 🛡️ Secure | 2025-07-12 | 54 | 11 | 7 |
 | [resumeX](https://github.com/HappyHackingSpace/resumeX) | 299 | 2 | 🚀 Active Development, 🛡️ Secure | 2025-07-17 | 3 | 3 | 3 |
 | [vulnerable-target](https://github.com/HappyHackingSpace/vulnerable-target) | 215 | 2 | 🧑‍💻 Welcoming Issues, 🛡️ Secure | N/A | 20 | 7 | 10 |
 | [unfollows](https://github.com/HappyHackingSpace/unfollows) | 133 | 2 | 🛡️ Secure | N/A | 11 | 5 | 1 |
-| [ZmapSDK](https://github.com/HappyHackingSpace/ZmapSDK) | 131 | 2 | 🛡️ Secure | 2025-07-03 | 7 | 1 | 2 |
 | [Kurdish-Dataset](https://github.com/HappyHackingSpace/Kurdish-Dataset) | 125 | 2 | 🚀 Active Development, 🛡️ Secure | 2025-07-21 | 2 | 1 | 0 |
 | [mcp-hydra](https://github.com/HappyHackingSpace/mcp-hydra) | 115 | 2 | 🛡️ Secure | N/A | 8 | 7 | 0 |
+| [ZmapSDK](https://github.com/HappyHackingSpace/ZmapSDK) | 111 | 2 | 🛡️ Secure | 2025-07-03 | 7 | 1 | 2 |
 | [sql-translator-llama3](https://github.com/HappyHackingSpace/sql-translator-llama3) | 90 | 1 | 🛡️ Secure | 2025-07-20 | 1 | 0 | 0 |
 
 
@@ -28,11 +28,11 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 <!-- CONTRIBUTORS_START -->
 | Contributor | XP | Level | Badges | Commits | Issues | PRs |
 |-------------|-------|-------|--------|---------|--------|---------|
-| [ArjinAlbay](https://github.com/ArjinAlbay) | 1127 | 4 | 🏆 Top Committer, 🔀 PR Hero, 🐛 Issue Opener | 203 | 14 | 28 |
+| [ArjinAlbay](https://github.com/ArjinAlbay) | 1132 | 4 | 🏆 Top Committer, 🔀 PR Hero, 🐛 Issue Opener | 204 | 14 | 28 |
 | [dogancanbakir](https://github.com/dogancanbakir) | 843 | 4 | 🔀 PR Hero, 🐛 Issue Opener | 146 | 43 | 9 |
 | [atiilla](https://github.com/atiilla) | 763 | 4 | 🔀 PR Hero, 🐛 Issue Opener | 136 | 1 | 27 |
+| [MuslimeKaya](https://github.com/MuslimeKaya) | 672 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 117 | 6 | 25 |
 | [ozantekin](https://github.com/ozantekin) | 631 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 107 | 9 | 26 |
-| [MuslimeKaya](https://github.com/MuslimeKaya) | 617 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 106 | 6 | 25 |
 | [baranylcn](https://github.com/baranylcn) | 398 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 77 | 2 | 3 |
 | [HazarBakir](https://github.com/HazarBakir) | 377 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 59 | 5 | 24 |
 | [umutbasal](https://github.com/umutbasal) | 367 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 54 | 17 | 21 |
