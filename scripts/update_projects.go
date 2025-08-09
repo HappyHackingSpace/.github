@@ -58,7 +58,14 @@ func fetchOrgRepos(client *gh.Client, ctx context.Context, org string) ([]*gh.Re
 		if err != nil {
 			return nil, err
 		}
-		allRepos = append(allRepos, repos...)
+
+		// Filter out archived repositories
+		for _, repo := range repos {
+			if !repo.GetArchived() {
+				allRepos = append(allRepos, repo)
+			}
+		}
+
 		if resp.NextPage == 0 {
 			break
 		}
@@ -183,16 +190,16 @@ func assignBadges(stats RepoStats, mostStars int) []string {
 
 func formatMarkdown(repos []GhProjects) string {
 	var b strings.Builder
-	
+
 	b.WriteString("| Project | XP | Level | Badges | Last Commit | Stars | Forks | Open Issues |\n")
 	b.WriteString("|---------|-------|-------|--------|-------------|-------|-------|-------------|\n")
-	
+
 	for _, r := range repos {
 		badges := strings.Join(r.Badges, ", ")
 		if badges == "" {
 			badges = "-"
 		}
-		
+
 		// Format last commit date to be more readable
 		lastCommit := r.LastCommit
 		if lastCommit != "N/A" {
@@ -200,18 +207,18 @@ func formatMarkdown(repos []GhProjects) string {
 				lastCommit = t.Format("2006-01-02")
 			}
 		}
-		
+
 		b.WriteString(fmt.Sprintf("| [%s](%s) | %d | %d | %s | %s | %d | %d | %d |\n",
 			r.Name, r.URL, r.XP, r.Level, badges, lastCommit, r.Stars, r.Forks, r.OpenIssues))
 	}
-	
+
 	return b.String()
 }
 
 func fetchContributors(client *gh.Client, ctx context.Context, org string, repos []*gh.Repository) []ContributorStats {
 	contribMap := map[string]*ContributorStats{}
 	for _, repo := range repos {
-		if slices.Contains(excludedProjects, repo.GetName()) {
+		if slices.Contains(excludedProjects, repo.GetName()) || repo.GetArchived() {
 			continue
 		}
 
@@ -332,20 +339,20 @@ func fetchContributors(client *gh.Client, ctx context.Context, org string, repos
 
 func formatContributorsMarkdown(contribs []ContributorStats) string {
 	var b strings.Builder
-	
+
 	b.WriteString("| Contributor | XP | Level | Badges | Commits | Issues | PRs |\n")
 	b.WriteString("|-------------|-------|-------|--------|---------|--------|---------|\n")
-	
+
 	for _, c := range contribs {
 		badges := strings.Join(c.Badges, ", ")
 		if badges == "" {
 			badges = "-"
 		}
-		
+
 		b.WriteString(fmt.Sprintf("| [%s](%s) | %d | %d | %s | %d | %d | %d |\n",
 			c.Login, c.ProfileURL, c.XP, c.Level, badges, c.Commits, c.Issues, c.PRs))
 	}
-	
+
 	return b.String()
 }
 
