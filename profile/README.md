@@ -10,10 +10,10 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 <!-- PROJECTS_START -->
 | Project | XP | Level | Badges | Last Commit | Stars | Forks | Open Issues |
 |---------|-------|-------|--------|-------------|-------|-------|-------------|
-| [githubmon](https://github.com/HappyHackingSpace/githubmon) | 5276 | 5 | 🚀 Active Development, 🛡️ Secure | 2025-08-08 | 3 | 4 | 7 |
-| [CommunityHub](https://github.com/HappyHackingSpace/CommunityHub) | 2455 | 5 | 🚀 Active Development, 🛡️ Secure | 2025-07-23 | 0 | 3 | 0 |
+| [githubmon](https://github.com/HappyHackingSpace/githubmon) | 4976 | 5 | 🚀 Active Development, 🛡️ Secure | 2025-08-08 | 3 | 4 | 7 |
+| [CommunityHub](https://github.com/HappyHackingSpace/CommunityHub) | 2035 | 5 | 🚀 Active Development, 🛡️ Secure | 2025-07-23 | 0 | 3 | 0 |
 | [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 681 | 3 | 🏆 Hot Project, 🚀 Active Development, 🛡️ Secure | 2025-07-12 | 54 | 11 | 7 |
-| [vulnerable-target](https://github.com/HappyHackingSpace/vulnerable-target) | 451 | 3 | 🚀 Active Development, 🧑‍💻 Welcoming Issues, 🛡️ Secure | 2025-08-08 | 21 | 7 | 7 |
+| [vulnerable-target](https://github.com/HappyHackingSpace/vulnerable-target) | 441 | 3 | 🚀 Active Development, 🧑‍💻 Welcoming Issues, 🛡️ Secure | 2025-08-08 | 21 | 7 | 12 |
 | [resumeX](https://github.com/HappyHackingSpace/resumeX) | 299 | 2 | 🚀 Active Development, 🛡️ Secure | 2025-07-17 | 3 | 3 | 3 |
 | [unfollows](https://github.com/HappyHackingSpace/unfollows) | 143 | 2 | 🛡️ Secure | N/A | 12 | 5 | 1 |
 | [Kurdish-Dataset](https://github.com/HappyHackingSpace/Kurdish-Dataset) | 125 | 2 | 🚀 Active Development, 🛡️ Secure | 2025-07-21 | 2 | 1 | 0 |
