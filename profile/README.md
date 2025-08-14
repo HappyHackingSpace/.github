@@ -10,16 +10,16 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 <!-- PROJECTS_START -->
 | Project | XP | Level | Badges | Last Commit | Stars | Forks | Open Issues |
 |---------|-------|-------|--------|-------------|-------|-------|-------------|
-| [githubmon](https://github.com/HappyHackingSpace/githubmon) | 4898 | 5 | 🚀 Active Development, 🛡️ Secure | 2025-08-10 | 3 | 4 | 6 |
-| [CommunityHub](https://github.com/HappyHackingSpace/CommunityHub) | 2035 | 5 | 🚀 Active Development, 🛡️ Secure | 2025-07-23 | 0 | 3 | 0 |
+| [githubmon](https://github.com/HappyHackingSpace/githubmon) | 4638 | 5 | 🚀 Active Development, 🛡️ Secure | 2025-08-10 | 3 | 4 | 6 |
+| [CommunityHub](https://github.com/HappyHackingSpace/CommunityHub) | 1855 | 5 | 🚀 Active Development, 🛡️ Secure | 2025-07-23 | 0 | 3 | 0 |
 | [vulnerable-target](https://github.com/HappyHackingSpace/vulnerable-target) | 837 | 4 | 🚀 Active Development, 🛡️ Secure | 2025-08-12 | 22 | 7 | 9 |
 | [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 581 | 3 | 🏆 Hot Project, 🛡️ Secure | N/A | 54 | 11 | 7 |
 | [mewo](https://github.com/HappyHackingSpace/mewo) | 312 | 3 | 🚀 Active Development, 🛡️ Secure | 2025-07-31 | 2 | 2 | 9 |
-| [resumeX](https://github.com/HappyHackingSpace/resumeX) | 259 | 2 | 🚀 Active Development, 🛡️ Secure | 2025-07-17 | 3 | 3 | 3 |
 | [unfollows](https://github.com/HappyHackingSpace/unfollows) | 143 | 2 | 🛡️ Secure | N/A | 12 | 5 | 1 |
-| [funURL](https://github.com/HappyHackingSpace/funURL) | 90 | 1 | 🛡️ Secure | 2025-08-10 | 2 | 2 | 0 |
 | [sql-translator-llama3](https://github.com/HappyHackingSpace/sql-translator-llama3) | 90 | 1 | 🛡️ Secure | 2025-07-20 | 1 | 0 | 0 |
+| [funURL](https://github.com/HappyHackingSpace/funURL) | 90 | 1 | 🛡️ Secure | 2025-08-10 | 2 | 2 | 0 |
 | [workable-spaces](https://github.com/HappyHackingSpace/workable-spaces) | 85 | 1 | 🛡️ Secure | N/A | 8 | 1 | 0 |
+| [Kurdish-Dataset](https://github.com/HappyHackingSpace/Kurdish-Dataset) | 83 | 1 | 🛡️ Secure | 2025-07-21 | 2 | 1 | 1 |
 
 
 [...and more projects](https://github.com/HappyHackingSpace?tab=repositories)<!-- PROJECTS_END -->
