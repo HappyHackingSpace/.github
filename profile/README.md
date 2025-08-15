@@ -11,15 +11,15 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | Project | XP | Level | Badges | Last Commit | Stars | Forks | Open Issues |
 |---------|-------|-------|--------|-------------|-------|-------|-------------|
 | [githubmon](https://github.com/HappyHackingSpace/githubmon) | 4638 | 5 | 🚀 Active Development, 🛡️ Secure | 2025-08-10 | 3 | 4 | 6 |
-| [CommunityHub](https://github.com/HappyHackingSpace/CommunityHub) | 1855 | 5 | 🚀 Active Development, 🛡️ Secure | 2025-07-23 | 0 | 3 | 0 |
+| [CommunityHub](https://github.com/HappyHackingSpace/CommunityHub) | 1775 | 5 | 🚀 Active Development, 🛡️ Secure | 2025-07-23 | 0 | 3 | 0 |
 | [vulnerable-target](https://github.com/HappyHackingSpace/vulnerable-target) | 837 | 4 | 🚀 Active Development, 🛡️ Secure | 2025-08-12 | 22 | 7 | 9 |
-| [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 581 | 3 | 🏆 Hot Project, 🛡️ Secure | N/A | 54 | 11 | 7 |
+| [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 571 | 3 | 🏆 Hot Project, 🛡️ Secure | N/A | 53 | 11 | 7 |
 | [mewo](https://github.com/HappyHackingSpace/mewo) | 312 | 3 | 🚀 Active Development, 🛡️ Secure | 2025-07-31 | 2 | 2 | 9 |
-| [unfollows](https://github.com/HappyHackingSpace/unfollows) | 143 | 2 | 🛡️ Secure | N/A | 12 | 5 | 1 |
 | [sql-translator-llama3](https://github.com/HappyHackingSpace/sql-translator-llama3) | 90 | 1 | 🛡️ Secure | 2025-07-20 | 1 | 0 | 0 |
-| [funURL](https://github.com/HappyHackingSpace/funURL) | 90 | 1 | 🛡️ Secure | 2025-08-10 | 2 | 2 | 0 |
 | [workable-spaces](https://github.com/HappyHackingSpace/workable-spaces) | 85 | 1 | 🛡️ Secure | N/A | 8 | 1 | 0 |
-| [Kurdish-Dataset](https://github.com/HappyHackingSpace/Kurdish-Dataset) | 83 | 1 | 🛡️ Secure | 2025-07-21 | 2 | 1 | 1 |
+| [unpage](https://github.com/HappyHackingSpace/unpage) | 70 | 1 | 🛡️ Secure | 2025-07-22 | 1 | 0 | 0 |
+| [funURL](https://github.com/HappyHackingSpace/funURL) | 70 | 1 | 🛡️ Secure | 2025-08-10 | 2 | 2 | 0 |
+| [landing-frontend-app](https://github.com/HappyHackingSpace/landing-frontend-app) | 63 | 1 | 🛡️ Secure | N/A | 9 | 3 | 21 |
 
 
 [...and more projects](https://github.com/HappyHackingSpace?tab=repositories)<!-- PROJECTS_END -->
@@ -28,14 +28,14 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 <!-- CONTRIBUTORS_START -->
 | Contributor | XP | Level | Badges | Commits | Issues | PRs |
 |-------------|-------|-------|--------|---------|--------|---------|
-| [ArjinAlbay](https://github.com/ArjinAlbay) | 1763 | 5 | 🏆 Top Committer, 🔀 PR Hero, 🐛 Issue Opener | 324 | 19 | 35 |
-| [dogancanbakir](https://github.com/dogancanbakir) | 827 | 4 | 🔀 PR Hero, 🐛 Issue Opener | 142 | 45 | 9 |
+| [ArjinAlbay](https://github.com/ArjinAlbay) | 1755 | 5 | 🏆 Top Committer, 🔀 PR Hero, 🐛 Issue Opener | 323 | 19 | 34 |
+| [dogancanbakir](https://github.com/dogancanbakir) | 822 | 4 | 🔀 PR Hero, 🐛 Issue Opener | 141 | 45 | 9 |
 | [MuslimeKaya](https://github.com/MuslimeKaya) | 789 | 4 | 🔀 PR Hero, 🐛 Issue Opener | 137 | 7 | 30 |
 | [ozantekin](https://github.com/ozantekin) | 631 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 107 | 9 | 26 |
-| [atiilla](https://github.com/atiilla) | 574 | 3 | 🔀 PR Hero | 101 | 0 | 23 |
+| [atiilla](https://github.com/atiilla) | 566 | 3 | 🔀 PR Hero | 100 | 0 | 22 |
 | [baranylcn](https://github.com/baranylcn) | 398 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 77 | 2 | 3 |
 | [recepgunes1](https://github.com/recepgunes1) | 397 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 67 | 7 | 16 |
-| [HazarBakir](https://github.com/HazarBakir) | 377 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 59 | 5 | 24 |
+| [HazarBakir](https://github.com/HazarBakir) | 369 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 58 | 5 | 23 |
 | [umutbasal](https://github.com/umutbasal) | 367 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 54 | 17 | 21 |
 | [MuhammedSenn](https://github.com/MuhammedSenn) | 182 | 2 | 🔀 PR Hero | 31 | 0 | 9 |
 
