@@ -11,8 +11,8 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | Project | XP | Level | Badges | Last Commit | Stars | Forks | Open Issues |
 |---------|-------|-------|--------|-------------|-------|-------|-------------|
 | [githubmon](https://github.com/HappyHackingSpace/githubmon) | 4638 | 5 | 🚀 Active Development, 🛡️ Secure | 2025-08-10 | 3 | 4 | 6 |
-| [CommunityHub](https://github.com/HappyHackingSpace/CommunityHub) | 1775 | 5 | 🚀 Active Development, 🛡️ Secure | 2025-07-23 | 0 | 3 | 0 |
-| [vulnerable-target](https://github.com/HappyHackingSpace/vulnerable-target) | 837 | 4 | 🚀 Active Development, 🛡️ Secure | 2025-08-12 | 22 | 7 | 9 |
+| [CommunityHub](https://github.com/HappyHackingSpace/CommunityHub) | 1735 | 5 | 🚀 Active Development, 🛡️ Secure | 2025-07-23 | 0 | 3 | 0 |
+| [vulnerable-target](https://github.com/HappyHackingSpace/vulnerable-target) | 939 | 4 | 🚀 Active Development, 🛡️ Secure | 2025-08-15 | 22 | 7 | 8 |
 | [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 571 | 3 | 🏆 Hot Project, 🛡️ Secure | N/A | 53 | 11 | 7 |
 | [mewo](https://github.com/HappyHackingSpace/mewo) | 312 | 3 | 🚀 Active Development, 🛡️ Secure | 2025-07-31 | 2 | 2 | 9 |
 | [sql-translator-llama3](https://github.com/HappyHackingSpace/sql-translator-llama3) | 90 | 1 | 🛡️ Secure | 2025-07-20 | 1 | 0 | 0 |
@@ -33,8 +33,8 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | [MuslimeKaya](https://github.com/MuslimeKaya) | 789 | 4 | 🔀 PR Hero, 🐛 Issue Opener | 137 | 7 | 30 |
 | [ozantekin](https://github.com/ozantekin) | 631 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 107 | 9 | 26 |
 | [atiilla](https://github.com/atiilla) | 566 | 3 | 🔀 PR Hero | 100 | 0 | 22 |
+| [recepgunes1](https://github.com/recepgunes1) | 409 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 69 | 8 | 16 |
 | [baranylcn](https://github.com/baranylcn) | 398 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 77 | 2 | 3 |
-| [recepgunes1](https://github.com/recepgunes1) | 397 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 67 | 7 | 16 |
 | [HazarBakir](https://github.com/HazarBakir) | 369 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 58 | 5 | 23 |
 | [umutbasal](https://github.com/umutbasal) | 367 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 54 | 17 | 21 |
 | [MuhammedSenn](https://github.com/MuhammedSenn) | 182 | 2 | 🔀 PR Hero | 31 | 0 | 9 |
