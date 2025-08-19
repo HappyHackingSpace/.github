@@ -10,10 +10,10 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 <!-- PROJECTS_START -->
 | Project | XP | Level | Badges | Last Commit | Stars | Forks | Open Issues |
 |---------|-------|-------|--------|-------------|-------|-------|-------------|
-| [githubmon](https://github.com/HappyHackingSpace/githubmon) | 4646 | 5 | 🚀 Active Development, 🛡️ Secure | 2025-08-10 | 4 | 4 | 7 |
-| [vulnerable-target](https://github.com/HappyHackingSpace/vulnerable-target) | 929 | 4 | 🚀 Active Development, 🛡️ Secure | 2025-08-15 | 21 | 7 | 8 |
-| [CommunityHub](https://github.com/HappyHackingSpace/CommunityHub) | 715 | 4 | 🚀 Active Development, 🛡️ Secure | 2025-07-23 | 0 | 3 | 0 |
-| [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 571 | 3 | 🏆 Hot Project, 🛡️ Secure | N/A | 53 | 11 | 7 |
+| [githubmon](https://github.com/HappyHackingSpace/githubmon) | 5400 | 5 | 🚀 Active Development, 🛡️ Secure | 2025-08-18 | 4 | 4 | 10 |
+| [vulnerable-target](https://github.com/HappyHackingSpace/vulnerable-target) | 869 | 4 | 🚀 Active Development, 🛡️ Secure | 2025-08-15 | 21 | 7 | 8 |
+| [CommunityHub](https://github.com/HappyHackingSpace/CommunityHub) | 675 | 3 | 🚀 Active Development, 🛡️ Secure | 2025-07-23 | 0 | 3 | 0 |
+| [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 563 | 3 | 🏆 Hot Project, 🛡️ Secure | N/A | 52 | 11 | 6 |
 | [mewo](https://github.com/HappyHackingSpace/mewo) | 312 | 3 | 🚀 Active Development, 🛡️ Secure | 2025-07-31 | 2 | 2 | 9 |
 | [workable-spaces](https://github.com/HappyHackingSpace/workable-spaces) | 85 | 1 | 🛡️ Secure | N/A | 8 | 1 | 0 |
 | [Kurdish-Dataset](https://github.com/HappyHackingSpace/Kurdish-Dataset) | 73 | 1 | 🛡️ Secure | 2025-07-21 | 3 | 1 | 1 |
@@ -28,9 +28,9 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 <!-- CONTRIBUTORS_START -->
 | Contributor | XP | Level | Badges | Commits | Issues | PRs |
 |-------------|-------|-------|--------|---------|--------|---------|
-| [ArjinAlbay](https://github.com/ArjinAlbay) | 1757 | 5 | 🏆 Top Committer, 🔀 PR Hero, 🐛 Issue Opener | 323 | 20 | 34 |
+| [ArjinAlbay](https://github.com/ArjinAlbay) | 1991 | 5 | 🏆 Top Committer, 🔀 PR Hero, 🐛 Issue Opener | 368 | 23 | 35 |
 | [dogancanbakir](https://github.com/dogancanbakir) | 822 | 4 | 🔀 PR Hero, 🐛 Issue Opener | 141 | 45 | 9 |
-| [MuslimeKaya](https://github.com/MuslimeKaya) | 789 | 4 | 🔀 PR Hero, 🐛 Issue Opener | 137 | 7 | 30 |
+| [MuslimeKaya](https://github.com/MuslimeKaya) | 791 | 4 | 🔀 PR Hero, 🐛 Issue Opener | 137 | 8 | 30 |
 | [ozantekin](https://github.com/ozantekin) | 631 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 107 | 9 | 26 |
 | [atiilla](https://github.com/atiilla) | 566 | 3 | 🔀 PR Hero | 100 | 0 | 22 |
 | [recepgunes1](https://github.com/recepgunes1) | 409 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 69 | 8 | 16 |
