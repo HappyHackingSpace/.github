@@ -10,9 +10,9 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 <!-- PROJECTS_START -->
 | Project | XP | Level | Badges | Last Commit | Stars | Forks | Open Issues |
 |---------|-------|-------|--------|-------------|-------|-------|-------------|
-| [githubmon](https://github.com/HappyHackingSpace/githubmon) | 5400 | 5 | 🚀 Active Development, 🛡️ Secure | 2025-08-18 | 4 | 4 | 10 |
+| [githubmon](https://github.com/HappyHackingSpace/githubmon) | 4740 | 5 | 🚀 Active Development, 🛡️ Secure | 2025-08-18 | 4 | 4 | 10 |
 | [vulnerable-target](https://github.com/HappyHackingSpace/vulnerable-target) | 869 | 4 | 🚀 Active Development, 🛡️ Secure | 2025-08-15 | 21 | 7 | 8 |
-| [CommunityHub](https://github.com/HappyHackingSpace/CommunityHub) | 675 | 3 | 🚀 Active Development, 🛡️ Secure | 2025-07-23 | 0 | 3 | 0 |
+| [CommunityHub](https://github.com/HappyHackingSpace/CommunityHub) | 575 | 3 | 🚀 Active Development, 🛡️ Secure | 2025-07-23 | 0 | 3 | 0 |
 | [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 563 | 3 | 🏆 Hot Project, 🛡️ Secure | N/A | 52 | 11 | 6 |
 | [mewo](https://github.com/HappyHackingSpace/mewo) | 312 | 3 | 🚀 Active Development, 🛡️ Secure | 2025-07-31 | 2 | 2 | 9 |
 | [workable-spaces](https://github.com/HappyHackingSpace/workable-spaces) | 85 | 1 | 🛡️ Secure | N/A | 8 | 1 | 0 |
