@@ -10,16 +10,16 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 <!-- PROJECTS_START -->
 | Project | XP | Level | Badges | Last Commit | Stars | Forks | Open Issues |
 |---------|-------|-------|--------|-------------|-------|-------|-------------|
-| [githubmon](https://github.com/HappyHackingSpace/githubmon) | 3598 | 5 | 🚀 Active Development, 🛡️ Secure | 2025-08-27 | 4 | 4 | 11 |
+| [githubmon](https://github.com/HappyHackingSpace/githubmon) | 3536 | 5 | 🚀 Active Development, 🛡️ Secure | 2025-08-27 | 4 | 4 | 12 |
 | [vulnerable-target](https://github.com/HappyHackingSpace/vulnerable-target) | 810 | 4 | 🚀 Active Development, 🧑‍💻 Welcoming Issues, 🛡️ Secure | 2025-08-15 | 21 | 8 | 10 |
 | [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 563 | 3 | 🏆 Hot Project, 🛡️ Secure | N/A | 52 | 11 | 6 |
-| [mewo](https://github.com/HappyHackingSpace/mewo) | 275 | 2 | 🚀 Active Development, 🛡️ Secure | 2025-07-31 | 2 | 3 | 10 |
 | [workable-spaces](https://github.com/HappyHackingSpace/workable-spaces) | 85 | 1 | 🛡️ Secure | N/A | 8 | 1 | 0 |
-| [landing-frontend-app](https://github.com/HappyHackingSpace/landing-frontend-app) | 63 | 1 | 🛡️ Secure | N/A | 9 | 3 | 21 |
+| [landing-frontend-app](https://github.com/HappyHackingSpace/landing-frontend-app) | 61 | 1 | 🛡️ Secure | N/A | 9 | 3 | 22 |
 | [funURL](https://github.com/HappyHackingSpace/funURL) | 58 | 1 | 🛡️ Secure | 2025-08-10 | 3 | 2 | 1 |
 | [ai-tools](https://github.com/HappyHackingSpace/ai-tools) | 50 | 1 | 🛡️ Secure | N/A | 4 | 2 | 0 |
 | [english-learning-resources](https://github.com/HappyHackingSpace/english-learning-resources) | 45 | 1 | 🛡️ Secure | N/A | 4 | 1 | 0 |
 | [Staj2025](https://github.com/HappyHackingSpace/Staj2025) | 40 | 1 | 🛡️ Secure | N/A | 4 | 4 | 10 |
+| [SkyBound-Quest](https://github.com/HappyHackingSpace/SkyBound-Quest) | 40 | 1 | 🛡️ Secure | N/A | 4 | 0 | 0 |
 
 
 [...and more projects](https://github.com/HappyHackingSpace?tab=repositories)<!-- PROJECTS_END -->
