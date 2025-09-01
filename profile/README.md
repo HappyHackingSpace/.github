@@ -11,7 +11,7 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | Project | XP | Level | Badges | Last Commit | Stars | Forks | Open Issues |
 |---------|-------|-------|--------|-------------|-------|-------|-------------|
 | [githubmon](https://github.com/HappyHackingSpace/githubmon) | 3536 | 5 | 🚀 Active Development, 🛡️ Secure | 2025-08-27 | 4 | 4 | 12 |
-| [vulnerable-target](https://github.com/HappyHackingSpace/vulnerable-target) | 810 | 4 | 🚀 Active Development, 🧑‍💻 Welcoming Issues, 🛡️ Secure | 2025-08-15 | 21 | 8 | 10 |
+| [vulnerable-target](https://github.com/HappyHackingSpace/vulnerable-target) | 1038 | 4 | 🚀 Active Development, 🛡️ Secure | 2025-08-31 | 21 | 8 | 6 |
 | [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 563 | 3 | 🏆 Hot Project, 🛡️ Secure | N/A | 52 | 11 | 6 |
 | [workable-spaces](https://github.com/HappyHackingSpace/workable-spaces) | 85 | 1 | 🛡️ Secure | N/A | 8 | 1 | 0 |
 | [landing-frontend-app](https://github.com/HappyHackingSpace/landing-frontend-app) | 61 | 1 | 🛡️ Secure | N/A | 9 | 3 | 22 |
@@ -33,7 +33,7 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | [MuslimeKaya](https://github.com/MuslimeKaya) | 809 | 4 | 🔀 PR Hero, 🐛 Issue Opener | 139 | 9 | 32 |
 | [ozantekin](https://github.com/ozantekin) | 631 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 107 | 9 | 26 |
 | [atiilla](https://github.com/atiilla) | 566 | 3 | 🔀 PR Hero | 100 | 0 | 22 |
-| [recepgunes1](https://github.com/recepgunes1) | 414 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 69 | 9 | 17 |
+| [recepgunes1](https://github.com/recepgunes1) | 464 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 78 | 10 | 18 |
 | [baranylcn](https://github.com/baranylcn) | 398 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 77 | 2 | 3 |
 | [HazarBakir](https://github.com/HazarBakir) | 369 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 58 | 5 | 23 |
 | [umutbasal](https://github.com/umutbasal) | 367 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 54 | 17 | 21 |
