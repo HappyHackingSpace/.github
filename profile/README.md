@@ -16,10 +16,10 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | [workable-spaces](https://github.com/HappyHackingSpace/workable-spaces) | 85 | 1 | 🛡️ Secure | N/A | 8 | 1 | 0 |
 | [landing-frontend-app](https://github.com/HappyHackingSpace/landing-frontend-app) | 61 | 1 | 🛡️ Secure | N/A | 9 | 3 | 22 |
 | [funURL](https://github.com/HappyHackingSpace/funURL) | 58 | 1 | 🛡️ Secure | 2025-08-10 | 3 | 2 | 1 |
+| [SkyBound-Quest](https://github.com/HappyHackingSpace/SkyBound-Quest) | 50 | 1 | 🛡️ Secure | N/A | 5 | 0 | 0 |
 | [ai-tools](https://github.com/HappyHackingSpace/ai-tools) | 50 | 1 | 🛡️ Secure | N/A | 4 | 2 | 0 |
 | [english-learning-resources](https://github.com/HappyHackingSpace/english-learning-resources) | 45 | 1 | 🛡️ Secure | N/A | 4 | 1 | 0 |
 | [Staj2025](https://github.com/HappyHackingSpace/Staj2025) | 40 | 1 | 🛡️ Secure | N/A | 4 | 4 | 10 |
-| [SkyBound-Quest](https://github.com/HappyHackingSpace/SkyBound-Quest) | 40 | 1 | 🛡️ Secure | N/A | 4 | 0 | 0 |
 
 
 [...and more projects](https://github.com/HappyHackingSpace?tab=repositories)<!-- PROJECTS_END -->
