@@ -10,8 +10,8 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 <!-- PROJECTS_START -->
 | Project | XP | Level | Badges | Last Commit | Stars | Forks | Open Issues |
 |---------|-------|-------|--------|-------------|-------|-------|-------------|
-| [githubmon](https://github.com/HappyHackingSpace/githubmon) | 3336 | 5 | 🚀 Active Development, 🛡️ Secure | 2025-08-27 | 4 | 4 | 12 |
-| [vulnerable-target](https://github.com/HappyHackingSpace/vulnerable-target) | 1036 | 4 | 🚀 Active Development, 🛡️ Secure | 2025-08-31 | 21 | 8 | 7 |
+| [githubmon](https://github.com/HappyHackingSpace/githubmon) | 2876 | 5 | 🚀 Active Development, 🛡️ Secure | 2025-08-27 | 4 | 4 | 12 |
+| [vulnerable-target](https://github.com/HappyHackingSpace/vulnerable-target) | 1092 | 4 | 🚀 Active Development, 🛡️ Secure | 2025-09-04 | 21 | 8 | 9 |
 | [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 563 | 3 | 🏆 Hot Project, 🛡️ Secure | N/A | 52 | 11 | 6 |
 | [workable-spaces](https://github.com/HappyHackingSpace/workable-spaces) | 85 | 1 | 🛡️ Secure | N/A | 8 | 1 | 0 |
 | [landing-frontend-app](https://github.com/HappyHackingSpace/landing-frontend-app) | 61 | 1 | 🛡️ Secure | N/A | 9 | 3 | 22 |
@@ -28,16 +28,16 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 <!-- CONTRIBUTORS_START -->
 | Contributor | XP | Level | Badges | Commits | Issues | PRs |
 |-------------|-------|-------|--------|---------|--------|---------|
-| [ArjinAlbay](https://github.com/ArjinAlbay) | 2001 | 5 | 🏆 Top Committer, 🔀 PR Hero, 🐛 Issue Opener | 370 | 23 | 35 |
+| [ArjinAlbay](https://github.com/ArjinAlbay) | 2004 | 5 | 🏆 Top Committer, 🔀 PR Hero, 🐛 Issue Opener | 370 | 23 | 36 |
 | [dogancanbakir](https://github.com/dogancanbakir) | 824 | 4 | 🔀 PR Hero, 🐛 Issue Opener | 141 | 46 | 9 |
 | [MuslimeKaya](https://github.com/MuslimeKaya) | 809 | 4 | 🔀 PR Hero, 🐛 Issue Opener | 139 | 9 | 32 |
 | [ozantekin](https://github.com/ozantekin) | 631 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 107 | 9 | 26 |
 | [atiilla](https://github.com/atiilla) | 566 | 3 | 🔀 PR Hero | 100 | 0 | 22 |
-| [recepgunes1](https://github.com/recepgunes1) | 467 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 78 | 10 | 19 |
+| [recepgunes1](https://github.com/recepgunes1) | 482 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 81 | 10 | 19 |
 | [baranylcn](https://github.com/baranylcn) | 398 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 77 | 2 | 3 |
 | [HazarBakir](https://github.com/HazarBakir) | 369 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 58 | 5 | 23 |
 | [umutbasal](https://github.com/umutbasal) | 367 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 54 | 17 | 21 |
-| [MuhammedSenn](https://github.com/MuhammedSenn) | 182 | 2 | 🔀 PR Hero | 31 | 0 | 9 |
+| [lachlanjc](https://github.com/lachlanjc) | 305 | 3 | - | 61 | 0 | 0 |
 
 
 [...and more contributors](https://github.com/orgs/HappyHackingSpace/people)<!-- CONTRIBUTORS_END -->
