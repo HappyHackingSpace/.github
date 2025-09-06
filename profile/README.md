@@ -10,16 +10,16 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 <!-- PROJECTS_START -->
 | Project | XP | Level | Badges | Last Commit | Stars | Forks | Open Issues |
 |---------|-------|-------|--------|-------------|-------|-------|-------------|
-| [githubmon](https://github.com/HappyHackingSpace/githubmon) | 2876 | 5 | 🚀 Active Development, 🛡️ Secure | 2025-08-27 | 4 | 4 | 12 |
-| [vulnerable-target](https://github.com/HappyHackingSpace/vulnerable-target) | 1092 | 4 | 🚀 Active Development, 🛡️ Secure | 2025-09-04 | 21 | 8 | 9 |
+| [githubmon](https://github.com/HappyHackingSpace/githubmon) | 2356 | 5 | 🚀 Active Development, 🛡️ Secure | 2025-08-27 | 4 | 4 | 12 |
+| [vulnerable-target](https://github.com/HappyHackingSpace/vulnerable-target) | 1070 | 4 | 🚀 Active Development, 🛡️ Secure | 2025-09-04 | 21 | 8 | 10 |
 | [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 563 | 3 | 🏆 Hot Project, 🛡️ Secure | N/A | 52 | 11 | 6 |
+| [privacy-policy](https://github.com/HappyHackingSpace/privacy-policy) | 121 | 2 | 🛡️ Secure | 2025-09-05 | 4 | 1 | 2 |
 | [workable-spaces](https://github.com/HappyHackingSpace/workable-spaces) | 85 | 1 | 🛡️ Secure | N/A | 8 | 1 | 0 |
 | [landing-frontend-app](https://github.com/HappyHackingSpace/landing-frontend-app) | 61 | 1 | 🛡️ Secure | N/A | 9 | 3 | 22 |
 | [funURL](https://github.com/HappyHackingSpace/funURL) | 58 | 1 | 🛡️ Secure | 2025-08-10 | 3 | 2 | 1 |
 | [SkyBound-Quest](https://github.com/HappyHackingSpace/SkyBound-Quest) | 50 | 1 | 🛡️ Secure | N/A | 5 | 0 | 0 |
 | [ai-tools](https://github.com/HappyHackingSpace/ai-tools) | 50 | 1 | 🛡️ Secure | N/A | 4 | 2 | 0 |
 | [english-learning-resources](https://github.com/HappyHackingSpace/english-learning-resources) | 45 | 1 | 🛡️ Secure | N/A | 4 | 1 | 0 |
-| [Staj2025](https://github.com/HappyHackingSpace/Staj2025) | 40 | 1 | 🛡️ Secure | N/A | 4 | 4 | 10 |
 
 
 [...and more projects](https://github.com/HappyHackingSpace?tab=repositories)<!-- PROJECTS_END -->
@@ -33,8 +33,8 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | [MuslimeKaya](https://github.com/MuslimeKaya) | 809 | 4 | 🔀 PR Hero, 🐛 Issue Opener | 139 | 9 | 32 |
 | [ozantekin](https://github.com/ozantekin) | 631 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 107 | 9 | 26 |
 | [atiilla](https://github.com/atiilla) | 566 | 3 | 🔀 PR Hero | 100 | 0 | 22 |
-| [recepgunes1](https://github.com/recepgunes1) | 482 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 81 | 10 | 19 |
-| [baranylcn](https://github.com/baranylcn) | 398 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 77 | 2 | 3 |
+| [recepgunes1](https://github.com/recepgunes1) | 484 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 81 | 11 | 19 |
+| [baranylcn](https://github.com/baranylcn) | 416 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 80 | 2 | 4 |
 | [HazarBakir](https://github.com/HazarBakir) | 369 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 58 | 5 | 23 |
 | [umutbasal](https://github.com/umutbasal) | 367 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 54 | 17 | 21 |
 | [lachlanjc](https://github.com/lachlanjc) | 305 | 3 | - | 61 | 0 | 0 |
