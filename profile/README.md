@@ -11,9 +11,9 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | Project | XP | Level | Badges | Last Commit | Stars | Forks | Open Issues |
 |---------|-------|-------|--------|-------------|-------|-------|-------------|
 | [githubmon](https://github.com/HappyHackingSpace/githubmon) | 1356 | 4 | 🚀 Active Development, 🛡️ Secure | 2025-08-27 | 4 | 4 | 12 |
-| [vulnerable-target](https://github.com/HappyHackingSpace/vulnerable-target) | 990 | 4 | 🚀 Active Development, 🛡️ Secure | 2025-09-04 | 21 | 8 | 10 |
+| [vulnerable-target](https://github.com/HappyHackingSpace/vulnerable-target) | 930 | 4 | 🚀 Active Development, 🛡️ Secure | 2025-09-04 | 21 | 8 | 10 |
 | [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 563 | 3 | 🏆 Hot Project, 🛡️ Secure | N/A | 52 | 11 | 6 |
-| [privacy-policy](https://github.com/HappyHackingSpace/privacy-policy) | 219 | 2 | 🚀 Active Development, 🛡️ Secure | 2025-09-07 | 4 | 1 | 3 |
+| [privacy-policy](https://github.com/HappyHackingSpace/privacy-policy) | 232 | 2 | 🚀 Active Development, 🛡️ Secure | 2025-09-07 | 5 | 2 | 4 |
 | [workable-spaces](https://github.com/HappyHackingSpace/workable-spaces) | 85 | 1 | 🛡️ Secure | N/A | 8 | 1 | 0 |
 | [landing-frontend-app](https://github.com/HappyHackingSpace/landing-frontend-app) | 61 | 1 | 🛡️ Secure | N/A | 9 | 3 | 22 |
 | [funURL](https://github.com/HappyHackingSpace/funURL) | 58 | 1 | 🛡️ Secure | 2025-08-10 | 3 | 2 | 1 |
@@ -34,7 +34,7 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | [ozantekin](https://github.com/ozantekin) | 631 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 107 | 9 | 26 |
 | [atiilla](https://github.com/atiilla) | 566 | 3 | 🔀 PR Hero | 100 | 0 | 22 |
 | [recepgunes1](https://github.com/recepgunes1) | 484 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 81 | 11 | 19 |
-| [baranylcn](https://github.com/baranylcn) | 416 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 80 | 2 | 4 |
+| [baranylcn](https://github.com/baranylcn) | 419 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 80 | 2 | 5 |
 | [HazarBakir](https://github.com/HazarBakir) | 369 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 58 | 5 | 23 |
 | [umutbasal](https://github.com/umutbasal) | 367 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 54 | 17 | 21 |
 | [lachlanjc](https://github.com/lachlanjc) | 305 | 3 | - | 61 | 0 | 0 |
