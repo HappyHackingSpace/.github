@@ -10,10 +10,10 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 <!-- PROJECTS_START -->
 | Project | XP | Level | Badges | Last Commit | Stars | Forks | Open Issues |
 |---------|-------|-------|--------|-------------|-------|-------|-------------|
-| [vulnerable-target](https://github.com/HappyHackingSpace/vulnerable-target) | 1382 | 4 | 🚀 Active Development, 🛡️ Secure | 2025-09-13 | 22 | 8 | 9 |
-| [githubmon](https://github.com/HappyHackingSpace/githubmon) | 656 | 3 | 🚀 Active Development, 🛡️ Secure | 2025-08-27 | 4 | 4 | 12 |
+| [vulnerable-target](https://github.com/HappyHackingSpace/vulnerable-target) | 1380 | 4 | 🚀 Active Development, 🛡️ Secure | 2025-09-13 | 22 | 8 | 10 |
 | [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 573 | 3 | 🏆 Hot Project, 🛡️ Secure | N/A | 53 | 11 | 6 |
 | [privacy-policy-analyzer](https://github.com/HappyHackingSpace/privacy-policy-analyzer) | 334 | 3 | 🚀 Active Development, 🛡️ Secure | 2025-09-11 | 5 | 2 | 3 |
+| [githubmon](https://github.com/HappyHackingSpace/githubmon) | 116 | 2 | 🛡️ Secure | 2025-08-27 | 4 | 4 | 12 |
 | [resumeX](https://github.com/HappyHackingSpace/resumeX) | 86 | 1 | 🛡️ Secure | 2025-09-13 | 3 | 4 | 2 |
 | [workable-spaces](https://github.com/HappyHackingSpace/workable-spaces) | 85 | 1 | 🛡️ Secure | N/A | 8 | 1 | 0 |
 | [Kurdish-Dataset](https://github.com/HappyHackingSpace/Kurdish-Dataset) | 83 | 1 | 🛡️ Secure | 2025-09-10 | 4 | 1 | 1 |
@@ -37,7 +37,7 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | [baranylcn](https://github.com/baranylcn) | 447 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 85 | 2 | 6 |
 | [HazarBakir](https://github.com/HazarBakir) | 369 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 58 | 5 | 23 |
 | [umutbasal](https://github.com/umutbasal) | 367 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 54 | 17 | 21 |
-| [ahsentekd](https://github.com/ahsentekd) | 319 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 58 | 4 | 7 |
+| [ahsentekd](https://github.com/ahsentekd) | 322 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 58 | 4 | 8 |
 
 
 [...and more contributors](https://github.com/orgs/HappyHackingSpace/people)<!-- CONTRIBUTORS_END -->
