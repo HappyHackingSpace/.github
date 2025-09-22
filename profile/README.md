@@ -14,12 +14,12 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 573 | 3 | 🏆 Hot Project, 🛡️ Secure | N/A | 53 | 11 | 6 |
 | [privacy-policy-analyzer](https://github.com/HappyHackingSpace/privacy-policy-analyzer) | 334 | 3 | 🚀 Active Development, 🛡️ Secure | 2025-09-11 | 5 | 2 | 3 |
 | [githubmon](https://github.com/HappyHackingSpace/githubmon) | 116 | 2 | 🛡️ Secure | 2025-08-27 | 4 | 4 | 12 |
+| [events](https://github.com/HappyHackingSpace/events) | 112 | 2 | 🚀 Active Development, 🛡️ Secure | 2025-09-21 | 0 | 0 | 4 |
 | [resumeX](https://github.com/HappyHackingSpace/resumeX) | 86 | 1 | 🛡️ Secure | 2025-09-13 | 3 | 4 | 2 |
 | [workable-spaces](https://github.com/HappyHackingSpace/workable-spaces) | 85 | 1 | 🛡️ Secure | N/A | 8 | 1 | 0 |
 | [Kurdish-Dataset](https://github.com/HappyHackingSpace/Kurdish-Dataset) | 83 | 1 | 🛡️ Secure | 2025-09-10 | 4 | 1 | 1 |
 | [landing-frontend-app](https://github.com/HappyHackingSpace/landing-frontend-app) | 61 | 1 | 🛡️ Secure | N/A | 9 | 3 | 22 |
 | [SkyBound-Quest](https://github.com/HappyHackingSpace/SkyBound-Quest) | 50 | 1 | 🛡️ Secure | N/A | 5 | 0 | 0 |
-| [ai-tools](https://github.com/HappyHackingSpace/ai-tools) | 50 | 1 | 🛡️ Secure | N/A | 4 | 2 | 0 |
 
 
 [...and more projects](https://github.com/HappyHackingSpace?tab=repositories)<!-- PROJECTS_END -->
@@ -28,8 +28,8 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 <!-- CONTRIBUTORS_START -->
 | Contributor | XP | Level | Badges | Commits | Issues | PRs |
 |-------------|-------|-------|--------|---------|--------|---------|
-| [ArjinAlbay](https://github.com/ArjinAlbay) | 2004 | 5 | 🏆 Top Committer, 🔀 PR Hero, 🐛 Issue Opener | 370 | 23 | 36 |
-| [dogancanbakir](https://github.com/dogancanbakir) | 824 | 4 | 🔀 PR Hero, 🐛 Issue Opener | 141 | 46 | 9 |
+| [ArjinAlbay](https://github.com/ArjinAlbay) | 2009 | 5 | 🏆 Top Committer, 🔀 PR Hero, 🐛 Issue Opener | 371 | 23 | 36 |
+| [dogancanbakir](https://github.com/dogancanbakir) | 851 | 4 | 🔀 PR Hero, 🐛 Issue Opener | 146 | 47 | 9 |
 | [MuslimeKaya](https://github.com/MuslimeKaya) | 809 | 4 | 🔀 PR Hero, 🐛 Issue Opener | 139 | 9 | 32 |
 | [ozantekin](https://github.com/ozantekin) | 631 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 107 | 9 | 26 |
 | [atiilla](https://github.com/atiilla) | 566 | 3 | 🔀 PR Hero | 100 | 0 | 22 |
