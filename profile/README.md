@@ -10,8 +10,8 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 <!-- PROJECTS_START -->
 | Project | XP | Level | Badges | Last Commit | Stars | Forks | Open Issues |
 |---------|-------|-------|--------|-------------|-------|-------|-------------|
-| [vulnerable-target](https://github.com/HappyHackingSpace/vulnerable-target) | 1462 | 4 | 🚀 Active Development, 🛡️ Secure | 2025-09-22 | 22 | 8 | 9 |
-| [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 573 | 3 | 🏆 Hot Project, 🛡️ Secure | N/A | 53 | 11 | 6 |
+| [vulnerable-target](https://github.com/HappyHackingSpace/vulnerable-target) | 1460 | 4 | 🚀 Active Development, 🛡️ Secure | 2025-09-22 | 22 | 8 | 10 |
+| [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 583 | 3 | 🏆 Hot Project, 🛡️ Secure | N/A | 54 | 11 | 6 |
 | [privacy-policy-analyzer](https://github.com/HappyHackingSpace/privacy-policy-analyzer) | 334 | 3 | 🚀 Active Development, 🛡️ Secure | 2025-09-11 | 5 | 2 | 3 |
 | [githubmon](https://github.com/HappyHackingSpace/githubmon) | 116 | 2 | 🛡️ Secure | 2025-08-27 | 4 | 4 | 12 |
 | [events](https://github.com/HappyHackingSpace/events) | 112 | 2 | 🚀 Active Development, 🛡️ Secure | 2025-09-21 | 0 | 0 | 4 |
@@ -33,7 +33,7 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | [MuslimeKaya](https://github.com/MuslimeKaya) | 809 | 4 | 🔀 PR Hero, 🐛 Issue Opener | 139 | 9 | 32 |
 | [ozantekin](https://github.com/ozantekin) | 631 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 107 | 9 | 26 |
 | [atiilla](https://github.com/atiilla) | 566 | 3 | 🔀 PR Hero | 100 | 0 | 22 |
-| [recepgunes1](https://github.com/recepgunes1) | 522 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 88 | 11 | 20 |
+| [recepgunes1](https://github.com/recepgunes1) | 525 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 88 | 11 | 21 |
 | [baranylcn](https://github.com/baranylcn) | 447 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 85 | 2 | 6 |
 | [HazarBakir](https://github.com/HazarBakir) | 369 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 58 | 5 | 23 |
 | [umutbasal](https://github.com/umutbasal) | 367 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 54 | 17 | 21 |
