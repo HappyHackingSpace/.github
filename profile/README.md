@@ -10,7 +10,7 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 <!-- PROJECTS_START -->
 | Project | XP | Level | Badges | Last Commit | Stars | Forks | Open Issues |
 |---------|-------|-------|--------|-------------|-------|-------|-------------|
-| [vulnerable-target](https://github.com/HappyHackingSpace/vulnerable-target) | 1440 | 4 | 🚀 Active Development, 🛡️ Secure | 2025-09-22 | 22 | 8 | 10 |
+| [vulnerable-target](https://github.com/HappyHackingSpace/vulnerable-target) | 1380 | 4 | 🚀 Active Development, 🛡️ Secure | 2025-09-22 | 22 | 8 | 10 |
 | [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 603 | 3 | 🏆 Hot Project, 🛡️ Secure | 2025-09-26 | 54 | 11 | 6 |
 | [privacy-policy-analyzer](https://github.com/HappyHackingSpace/privacy-policy-analyzer) | 334 | 3 | 🚀 Active Development, 🛡️ Secure | 2025-09-11 | 5 | 2 | 3 |
 | [events](https://github.com/HappyHackingSpace/events) | 112 | 2 | 🚀 Active Development, 🛡️ Secure | 2025-09-21 | 0 | 0 | 4 |
