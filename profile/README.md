@@ -16,7 +16,7 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | [events](https://github.com/HappyHackingSpace/events) | 112 | 2 | 🚀 Active Development, 🛡️ Secure | 2025-09-21 | 0 | 0 | 4 |
 | [resumeX](https://github.com/HappyHackingSpace/resumeX) | 86 | 1 | 🛡️ Secure | 2025-09-13 | 3 | 4 | 2 |
 | [workable-spaces](https://github.com/HappyHackingSpace/workable-spaces) | 85 | 1 | 🛡️ Secure | N/A | 8 | 1 | 0 |
-| [Kurdish-Dataset](https://github.com/HappyHackingSpace/Kurdish-Dataset) | 83 | 1 | 🛡️ Secure | 2025-09-10 | 4 | 1 | 1 |
+| [Kurdish-Dataset](https://github.com/HappyHackingSpace/Kurdish-Dataset) | 81 | 1 | 🛡️ Secure | 2025-09-10 | 4 | 1 | 2 |
 | [landing-frontend-app](https://github.com/HappyHackingSpace/landing-frontend-app) | 61 | 1 | 🛡️ Secure | N/A | 9 | 3 | 22 |
 | [SkyBound-Quest](https://github.com/HappyHackingSpace/SkyBound-Quest) | 50 | 1 | 🛡️ Secure | N/A | 5 | 0 | 0 |
 | [ai-tools](https://github.com/HappyHackingSpace/ai-tools) | 50 | 1 | 🛡️ Secure | N/A | 4 | 2 | 0 |
@@ -35,7 +35,7 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | [atiilla](https://github.com/atiilla) | 566 | 3 | 🔀 PR Hero | 100 | 0 | 22 |
 | [recepgunes1](https://github.com/recepgunes1) | 525 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 88 | 11 | 21 |
 | [baranylcn](https://github.com/baranylcn) | 447 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 85 | 2 | 6 |
-| [HazarBakir](https://github.com/HazarBakir) | 369 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 58 | 5 | 23 |
+| [HazarBakir](https://github.com/HazarBakir) | 375 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 58 | 5 | 25 |
 | [umutbasal](https://github.com/umutbasal) | 367 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 54 | 17 | 21 |
 | [ahsentekd](https://github.com/ahsentekd) | 337 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 61 | 4 | 8 |
 
