@@ -11,12 +11,12 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | Project | XP | Level | Badges | Last Commit | Stars | Forks | Open Issues |
 |---------|-------|-------|--------|-------------|-------|-------|-------------|
 | [vulnerable-target](https://github.com/HappyHackingSpace/vulnerable-target) | 1240 | 4 | 🚀 Active Development, 🛡️ Secure | 2025-09-22 | 22 | 8 | 10 |
-| [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 603 | 3 | 🏆 Hot Project, 🛡️ Secure | 2025-09-26 | 54 | 11 | 6 |
+| [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 613 | 3 | 🏆 Hot Project, 🛡️ Secure | 2025-09-26 | 55 | 11 | 6 |
 | [privacy-policy-analyzer](https://github.com/HappyHackingSpace/privacy-policy-analyzer) | 334 | 3 | 🚀 Active Development, 🛡️ Secure | 2025-09-11 | 5 | 2 | 3 |
+| [Kurdish-Dataset](https://github.com/HappyHackingSpace/Kurdish-Dataset) | 133 | 2 | 🛡️ Secure | 2025-10-02 | 5 | 1 | 1 |
 | [events](https://github.com/HappyHackingSpace/events) | 112 | 2 | 🚀 Active Development, 🛡️ Secure | 2025-09-21 | 0 | 0 | 4 |
 | [resumeX](https://github.com/HappyHackingSpace/resumeX) | 86 | 1 | 🛡️ Secure | 2025-09-13 | 3 | 4 | 2 |
 | [workable-spaces](https://github.com/HappyHackingSpace/workable-spaces) | 85 | 1 | 🛡️ Secure | N/A | 8 | 1 | 0 |
-| [Kurdish-Dataset](https://github.com/HappyHackingSpace/Kurdish-Dataset) | 81 | 1 | 🛡️ Secure | 2025-09-10 | 4 | 1 | 2 |
 | [landing-frontend-app](https://github.com/HappyHackingSpace/landing-frontend-app) | 61 | 1 | 🛡️ Secure | N/A | 9 | 3 | 22 |
 | [SkyBound-Quest](https://github.com/HappyHackingSpace/SkyBound-Quest) | 50 | 1 | 🛡️ Secure | N/A | 5 | 0 | 0 |
 | [ai-tools](https://github.com/HappyHackingSpace/ai-tools) | 50 | 1 | 🛡️ Secure | N/A | 4 | 2 | 0 |
