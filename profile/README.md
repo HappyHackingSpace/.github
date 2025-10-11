@@ -12,8 +12,8 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 |---------|-------|-------|--------|-------------|-------|-------|-------------|
 | [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 623 | 3 | 🏆 Hot Project, 🛡️ Secure | 2025-09-26 | 56 | 11 | 6 |
 | [vulnerable-target](https://github.com/HappyHackingSpace/vulnerable-target) | 620 | 3 | 🚀 Active Development, 🛡️ Secure | 2025-10-06 | 22 | 8 | 10 |
-| [Kurdish-Dataset](https://github.com/HappyHackingSpace/Kurdish-Dataset) | 133 | 2 | 🛡️ Secure | 2025-10-02 | 5 | 1 | 1 |
 | [privacy-policy-analyzer](https://github.com/HappyHackingSpace/privacy-policy-analyzer) | 94 | 1 | 🛡️ Secure | 2025-09-11 | 5 | 2 | 3 |
+| [Kurdish-Dataset](https://github.com/HappyHackingSpace/Kurdish-Dataset) | 93 | 1 | 🛡️ Secure | 2025-10-02 | 5 | 1 | 1 |
 | [events](https://github.com/HappyHackingSpace/events) | 92 | 1 | 🚀 Active Development, 🛡️ Secure | 2025-09-21 | 0 | 0 | 4 |
 | [resumeX](https://github.com/HappyHackingSpace/resumeX) | 86 | 1 | 🛡️ Secure | 2025-09-13 | 3 | 4 | 2 |
 | [workable-spaces](https://github.com/HappyHackingSpace/workable-spaces) | 85 | 1 | 🛡️ Secure | N/A | 8 | 1 | 0 |
@@ -29,7 +29,7 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | Contributor | XP | Level | Badges | Commits | Issues | PRs |
 |-------------|-------|-------|--------|---------|--------|---------|
 | [ArjinAlbay](https://github.com/ArjinAlbay) | 2009 | 5 | 🏆 Top Committer, 🔀 PR Hero, 🐛 Issue Opener | 371 | 23 | 36 |
-| [dogancanbakir](https://github.com/dogancanbakir) | 871 | 4 | 🔀 PR Hero, 🐛 Issue Opener | 149 | 48 | 10 |
+| [dogancanbakir](https://github.com/dogancanbakir) | 881 | 4 | 🔀 PR Hero, 🐛 Issue Opener | 151 | 48 | 10 |
 | [MuslimeKaya](https://github.com/MuslimeKaya) | 809 | 4 | 🔀 PR Hero, 🐛 Issue Opener | 139 | 9 | 32 |
 | [ozantekin](https://github.com/ozantekin) | 631 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 107 | 9 | 26 |
 | [atiilla](https://github.com/atiilla) | 566 | 3 | 🔀 PR Hero | 100 | 0 | 22 |
