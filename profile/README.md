@@ -11,15 +11,15 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | Project | XP | Level | Badges | Last Commit | Stars | Forks | Open Issues |
 |---------|-------|-------|--------|-------------|-------|-------|-------------|
 | [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 623 | 3 | 🏆 Hot Project, 🛡️ Secure | 2025-09-26 | 56 | 11 | 6 |
-| [vulnerable-target](https://github.com/HappyHackingSpace/vulnerable-target) | 520 | 3 | 🚀 Active Development, 🛡️ Secure | 2025-10-06 | 22 | 8 | 10 |
+| [vulnerable-target](https://github.com/HappyHackingSpace/vulnerable-target) | 460 | 3 | 🚀 Active Development, 🛡️ Secure | 2025-10-06 | 22 | 8 | 10 |
+| [privacy-policy-analyzer](https://github.com/HappyHackingSpace/privacy-policy-analyzer) | 114 | 2 | 🛡️ Secure | 2025-10-17 | 5 | 2 | 3 |
 | [Kurdish-Dataset](https://github.com/HappyHackingSpace/Kurdish-Dataset) | 93 | 1 | 🛡️ Secure | 2025-10-02 | 5 | 1 | 1 |
 | [events](https://github.com/HappyHackingSpace/events) | 92 | 1 | 🚀 Active Development, 🛡️ Secure | 2025-09-21 | 0 | 0 | 4 |
 | [workable-spaces](https://github.com/HappyHackingSpace/workable-spaces) | 85 | 1 | 🛡️ Secure | N/A | 8 | 1 | 0 |
 | [landing-frontend-app](https://github.com/HappyHackingSpace/landing-frontend-app) | 61 | 1 | 🛡️ Secure | N/A | 9 | 3 | 22 |
-| [privacy-policy-analyzer](https://github.com/HappyHackingSpace/privacy-policy-analyzer) | 54 | 1 | 🛡️ Secure | N/A | 5 | 2 | 3 |
+| [theme](https://github.com/HappyHackingSpace/theme) | 58 | 1 | 🛡️ Secure | 2025-10-17 | 0 | 0 | 1 |
 | [SkyBound-Quest](https://github.com/HappyHackingSpace/SkyBound-Quest) | 50 | 1 | 🛡️ Secure | N/A | 5 | 0 | 0 |
 | [ai-tools](https://github.com/HappyHackingSpace/ai-tools) | 50 | 1 | 🛡️ Secure | N/A | 4 | 2 | 0 |
-| [resumeX](https://github.com/HappyHackingSpace/resumeX) | 46 | 1 | 🛡️ Secure | N/A | 3 | 4 | 2 |
 
 
 [...and more projects](https://github.com/HappyHackingSpace?tab=repositories)<!-- PROJECTS_END -->
@@ -29,15 +29,15 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | Contributor | XP | Level | Badges | Commits | Issues | PRs |
 |-------------|-------|-------|--------|---------|--------|---------|
 | [ArjinAlbay](https://github.com/ArjinAlbay) | 2009 | 5 | 🏆 Top Committer, 🔀 PR Hero, 🐛 Issue Opener | 371 | 23 | 36 |
-| [dogancanbakir](https://github.com/dogancanbakir) | 881 | 4 | 🔀 PR Hero, 🐛 Issue Opener | 151 | 48 | 10 |
+| [dogancanbakir](https://github.com/dogancanbakir) | 903 | 4 | 🔀 PR Hero, 🐛 Issue Opener | 155 | 49 | 10 |
 | [MuslimeKaya](https://github.com/MuslimeKaya) | 809 | 4 | 🔀 PR Hero, 🐛 Issue Opener | 139 | 9 | 32 |
+| [lachlanjc](https://github.com/lachlanjc) | 655 | 3 | - | 131 | 0 | 0 |
 | [ozantekin](https://github.com/ozantekin) | 631 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 107 | 9 | 26 |
 | [atiilla](https://github.com/atiilla) | 566 | 3 | 🔀 PR Hero | 100 | 0 | 22 |
 | [recepgunes1](https://github.com/recepgunes1) | 535 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 90 | 11 | 21 |
-| [baranylcn](https://github.com/baranylcn) | 447 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 85 | 2 | 6 |
+| [baranylcn](https://github.com/baranylcn) | 460 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 87 | 2 | 7 |
 | [HazarBakir](https://github.com/HazarBakir) | 377 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 58 | 6 | 25 |
 | [umutbasal](https://github.com/umutbasal) | 367 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 54 | 17 | 21 |
-| [ahsentekd](https://github.com/ahsentekd) | 337 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 61 | 4 | 8 |
 
 
 [...and more contributors](https://github.com/orgs/HappyHackingSpace/people)<!-- CONTRIBUTORS_END -->
