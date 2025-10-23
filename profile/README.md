@@ -11,9 +11,9 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | Project | XP | Level | Badges | Last Commit | Stars | Forks | Open Issues |
 |---------|-------|-------|--------|-------------|-------|-------|-------------|
 | [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 623 | 3 | 🏆 Hot Project, 🛡️ Secure | 2025-09-26 | 56 | 11 | 6 |
-| [vulnerable-target](https://github.com/HappyHackingSpace/vulnerable-target) | 460 | 3 | 🚀 Active Development, 🛡️ Secure | 2025-10-06 | 22 | 8 | 10 |
+| [vulnerable-target](https://github.com/HappyHackingSpace/vulnerable-target) | 440 | 3 | 🚀 Active Development, 🛡️ Secure | 2025-10-06 | 22 | 8 | 10 |
+| [theme](https://github.com/HappyHackingSpace/theme) | 234 | 2 | 🚀 Active Development, 🛡️ Secure | 2025-10-22 | 0 | 0 | 3 |
 | [githubmon](https://github.com/HappyHackingSpace/githubmon) | 213 | 2 | 🚀 Active Development, 🛡️ Secure | 2025-10-19 | 4 | 5 | 16 |
-| [theme](https://github.com/HappyHackingSpace/theme) | 194 | 2 | 🚀 Active Development, 🛡️ Secure | 2025-10-19 | 0 | 0 | 3 |
 | [privacy-policy-analyzer](https://github.com/HappyHackingSpace/privacy-policy-analyzer) | 114 | 2 | 🛡️ Secure | 2025-10-17 | 5 | 2 | 3 |
 | [Kurdish-Dataset](https://github.com/HappyHackingSpace/Kurdish-Dataset) | 93 | 1 | 🛡️ Secure | 2025-10-02 | 5 | 1 | 1 |
 | [workable-spaces](https://github.com/HappyHackingSpace/workable-spaces) | 85 | 1 | 🛡️ Secure | N/A | 8 | 1 | 0 |
@@ -28,7 +28,7 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 <!-- CONTRIBUTORS_START -->
 | Contributor | XP | Level | Badges | Commits | Issues | PRs |
 |-------------|-------|-------|--------|---------|--------|---------|
-| [ArjinAlbay](https://github.com/ArjinAlbay) | 2019 | 5 | 🏆 Top Committer, 🔀 PR Hero, 🐛 Issue Opener | 373 | 23 | 36 |
+| [ArjinAlbay](https://github.com/ArjinAlbay) | 2029 | 5 | 🏆 Top Committer, 🔀 PR Hero, 🐛 Issue Opener | 375 | 23 | 36 |
 | [dogancanbakir](https://github.com/dogancanbakir) | 938 | 4 | 🔀 PR Hero, 🐛 Issue Opener | 162 | 49 | 10 |
 | [MuslimeKaya](https://github.com/MuslimeKaya) | 809 | 4 | 🔀 PR Hero, 🐛 Issue Opener | 139 | 9 | 32 |
 | [lachlanjc](https://github.com/lachlanjc) | 655 | 3 | - | 131 | 0 | 0 |
