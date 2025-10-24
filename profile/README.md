@@ -29,7 +29,7 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | Contributor | XP | Level | Badges | Commits | Issues | PRs |
 |-------------|-------|-------|--------|---------|--------|---------|
 | [ArjinAlbay](https://github.com/ArjinAlbay) | 2029 | 5 | 🏆 Top Committer, 🔀 PR Hero, 🐛 Issue Opener | 375 | 23 | 36 |
-| [dogancanbakir](https://github.com/dogancanbakir) | 938 | 4 | 🔀 PR Hero, 🐛 Issue Opener | 162 | 49 | 10 |
+| [dogancanbakir](https://github.com/dogancanbakir) | 943 | 4 | 🔀 PR Hero, 🐛 Issue Opener | 163 | 49 | 10 |
 | [MuslimeKaya](https://github.com/MuslimeKaya) | 809 | 4 | 🔀 PR Hero, 🐛 Issue Opener | 139 | 9 | 32 |
 | [lachlanjc](https://github.com/lachlanjc) | 655 | 3 | - | 131 | 0 | 0 |
 | [ozantekin](https://github.com/ozantekin) | 631 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 107 | 9 | 26 |
