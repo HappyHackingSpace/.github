@@ -10,7 +10,7 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 <!-- PROJECTS_START -->
 | Project | XP | Level | Badges | Last Commit | Stars | Forks | Open Issues |
 |---------|-------|-------|--------|-------------|-------|-------|-------------|
-| [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 623 | 3 | 🏆 Hot Project, 🛡️ Secure | 2025-09-26 | 56 | 11 | 6 |
+| [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 633 | 3 | 🏆 Hot Project, 🛡️ Secure | 2025-09-26 | 57 | 11 | 6 |
 | [vulnerable-target](https://github.com/HappyHackingSpace/vulnerable-target) | 440 | 3 | 🚀 Active Development, 🛡️ Secure | 2025-10-06 | 22 | 8 | 10 |
 | [theme](https://github.com/HappyHackingSpace/theme) | 234 | 2 | 🚀 Active Development, 🛡️ Secure | 2025-10-22 | 0 | 0 | 3 |
 | [githubmon](https://github.com/HappyHackingSpace/githubmon) | 213 | 2 | 🚀 Active Development, 🛡️ Secure | 2025-10-19 | 4 | 5 | 16 |
@@ -29,9 +29,9 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | Contributor | XP | Level | Badges | Commits | Issues | PRs |
 |-------------|-------|-------|--------|---------|--------|---------|
 | [ArjinAlbay](https://github.com/ArjinAlbay) | 2029 | 5 | 🏆 Top Committer, 🔀 PR Hero, 🐛 Issue Opener | 375 | 23 | 36 |
-| [dogancanbakir](https://github.com/dogancanbakir) | 943 | 4 | 🔀 PR Hero, 🐛 Issue Opener | 163 | 49 | 10 |
+| [dogancanbakir](https://github.com/dogancanbakir) | 948 | 4 | 🔀 PR Hero, 🐛 Issue Opener | 164 | 49 | 10 |
 | [MuslimeKaya](https://github.com/MuslimeKaya) | 809 | 4 | 🔀 PR Hero, 🐛 Issue Opener | 139 | 9 | 32 |
-| [lachlanjc](https://github.com/lachlanjc) | 655 | 3 | - | 131 | 0 | 0 |
+| [lachlanjc](https://github.com/lachlanjc) | 680 | 3 | - | 136 | 0 | 0 |
 | [ozantekin](https://github.com/ozantekin) | 631 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 107 | 9 | 26 |
 | [atiilla](https://github.com/atiilla) | 566 | 3 | 🔀 PR Hero | 100 | 0 | 22 |
 | [recepgunes1](https://github.com/recepgunes1) | 535 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 90 | 11 | 21 |
