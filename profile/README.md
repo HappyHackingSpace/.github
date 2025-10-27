@@ -10,8 +10,9 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 <!-- PROJECTS_START -->
 | Project | XP | Level | Badges | Last Commit | Stars | Forks | Open Issues |
 |---------|-------|-------|--------|-------------|-------|-------|-------------|
-| [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 633 | 3 | 🏆 Hot Project, 🛡️ Secure | 2025-09-26 | 57 | 11 | 6 |
+| [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 613 | 3 | 🏆 Hot Project, 🛡️ Secure | N/A | 57 | 11 | 6 |
 | [vulnerable-target](https://github.com/HappyHackingSpace/vulnerable-target) | 440 | 3 | 🚀 Active Development, 🛡️ Secure | 2025-10-06 | 22 | 8 | 10 |
+| [events](https://github.com/HappyHackingSpace/events) | 352 | 3 | 🚀 Active Development, 🛡️ Secure | 2025-10-26 | 0 | 0 | 4 |
 | [theme](https://github.com/HappyHackingSpace/theme) | 234 | 2 | 🚀 Active Development, 🛡️ Secure | 2025-10-22 | 0 | 0 | 3 |
 | [githubmon](https://github.com/HappyHackingSpace/githubmon) | 213 | 2 | 🚀 Active Development, 🛡️ Secure | 2025-10-19 | 4 | 5 | 16 |
 | [privacy-policy-analyzer](https://github.com/HappyHackingSpace/privacy-policy-analyzer) | 114 | 2 | 🛡️ Secure | 2025-10-17 | 5 | 2 | 3 |
@@ -19,7 +20,6 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | [workable-spaces](https://github.com/HappyHackingSpace/workable-spaces) | 85 | 1 | 🛡️ Secure | N/A | 8 | 1 | 0 |
 | [landing-frontend-app](https://github.com/HappyHackingSpace/landing-frontend-app) | 61 | 1 | 🛡️ Secure | N/A | 9 | 3 | 22 |
 | [SkyBound-Quest](https://github.com/HappyHackingSpace/SkyBound-Quest) | 50 | 1 | 🛡️ Secure | N/A | 5 | 0 | 0 |
-| [ai-tools](https://github.com/HappyHackingSpace/ai-tools) | 50 | 1 | 🛡️ Secure | N/A | 4 | 2 | 0 |
 
 
 [...and more projects](https://github.com/HappyHackingSpace?tab=repositories)<!-- PROJECTS_END -->
@@ -28,7 +28,7 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 <!-- CONTRIBUTORS_START -->
 | Contributor | XP | Level | Badges | Commits | Issues | PRs |
 |-------------|-------|-------|--------|---------|--------|---------|
-| [ArjinAlbay](https://github.com/ArjinAlbay) | 2029 | 5 | 🏆 Top Committer, 🔀 PR Hero, 🐛 Issue Opener | 375 | 23 | 36 |
+| [ArjinAlbay](https://github.com/ArjinAlbay) | 2120 | 5 | 🏆 Top Committer, 🔀 PR Hero, 🐛 Issue Opener | 392 | 23 | 38 |
 | [dogancanbakir](https://github.com/dogancanbakir) | 948 | 4 | 🔀 PR Hero, 🐛 Issue Opener | 164 | 49 | 10 |
 | [MuslimeKaya](https://github.com/MuslimeKaya) | 809 | 4 | 🔀 PR Hero, 🐛 Issue Opener | 139 | 9 | 32 |
 | [lachlanjc](https://github.com/lachlanjc) | 680 | 3 | - | 136 | 0 | 0 |
