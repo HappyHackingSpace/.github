@@ -12,14 +12,14 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 |---------|-------|-------|--------|-------------|-------|-------|-------------|
 | [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 628 | 3 | 🏆 Hot Project, 🛡️ Secure | N/A | 58 | 12 | 6 |
 | [vulnerable-target](https://github.com/HappyHackingSpace/vulnerable-target) | 438 | 3 | 🚀 Active Development, 🛡️ Secure | 2025-10-06 | 22 | 8 | 11 |
-| [githubmon](https://github.com/HappyHackingSpace/githubmon) | 417 | 3 | 🚀 Active Development, 🛡️ Secure | 2025-10-27 | 4 | 5 | 14 |
+| [githubmon](https://github.com/HappyHackingSpace/githubmon) | 357 | 3 | 🚀 Active Development, 🛡️ Secure | 2025-10-27 | 4 | 5 | 14 |
 | [events](https://github.com/HappyHackingSpace/events) | 352 | 3 | 🚀 Active Development, 🛡️ Secure | 2025-10-26 | 0 | 0 | 4 |
 | [theme](https://github.com/HappyHackingSpace/theme) | 276 | 2 | 🚀 Active Development, 🛡️ Secure | 2025-10-27 | 0 | 0 | 2 |
 | [privacy-policy-analyzer](https://github.com/HappyHackingSpace/privacy-policy-analyzer) | 114 | 2 | 🛡️ Secure | 2025-10-17 | 5 | 2 | 3 |
-| [Kurdish-Dataset](https://github.com/HappyHackingSpace/Kurdish-Dataset) | 93 | 1 | 🛡️ Secure | 2025-10-02 | 5 | 1 | 1 |
+| [Kurdish-Dataset](https://github.com/HappyHackingSpace/Kurdish-Dataset) | 113 | 2 | 🛡️ Secure | 2025-10-31 | 5 | 1 | 1 |
+| [assets](https://github.com/HappyHackingSpace/assets) | 100 | 2 | 🚀 Active Development, 🛡️ Secure | 2025-10-31 | 0 | 0 | 0 |
 | [workable-spaces](https://github.com/HappyHackingSpace/workable-spaces) | 85 | 1 | 🛡️ Secure | N/A | 8 | 1 | 0 |
 | [landing-frontend-app](https://github.com/HappyHackingSpace/landing-frontend-app) | 61 | 1 | 🛡️ Secure | N/A | 9 | 3 | 22 |
-| [SkyBound-Quest](https://github.com/HappyHackingSpace/SkyBound-Quest) | 50 | 1 | 🛡️ Secure | N/A | 5 | 0 | 0 |
 
 
 [...and more projects](https://github.com/HappyHackingSpace?tab=repositories)<!-- PROJECTS_END -->
@@ -29,13 +29,13 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | Contributor | XP | Level | Badges | Commits | Issues | PRs |
 |-------------|-------|-------|--------|---------|--------|---------|
 | [ArjinAlbay](https://github.com/ArjinAlbay) | 2150 | 5 | 🏆 Top Committer, 🔀 PR Hero, 🐛 Issue Opener | 398 | 23 | 38 |
-| [dogancanbakir](https://github.com/dogancanbakir) | 948 | 4 | 🔀 PR Hero, 🐛 Issue Opener | 164 | 49 | 10 |
+| [dogancanbakir](https://github.com/dogancanbakir) | 973 | 4 | 🔀 PR Hero, 🐛 Issue Opener | 169 | 49 | 10 |
 | [MuslimeKaya](https://github.com/MuslimeKaya) | 809 | 4 | 🔀 PR Hero, 🐛 Issue Opener | 139 | 9 | 32 |
-| [lachlanjc](https://github.com/lachlanjc) | 680 | 3 | - | 136 | 0 | 0 |
+| [lachlanjc](https://github.com/lachlanjc) | 740 | 4 | - | 148 | 0 | 0 |
 | [ozantekin](https://github.com/ozantekin) | 631 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 107 | 9 | 26 |
 | [atiilla](https://github.com/atiilla) | 566 | 3 | 🔀 PR Hero | 100 | 0 | 22 |
 | [recepgunes1](https://github.com/recepgunes1) | 535 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 90 | 11 | 21 |
-| [baranylcn](https://github.com/baranylcn) | 460 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 87 | 2 | 7 |
+| [baranylcn](https://github.com/baranylcn) | 470 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 89 | 2 | 7 |
 | [HazarBakir](https://github.com/HazarBakir) | 456 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 71 | 7 | 29 |
 | [umutbasal](https://github.com/umutbasal) | 367 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 54 | 17 | 21 |
 
