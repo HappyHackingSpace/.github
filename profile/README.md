@@ -13,9 +13,9 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 628 | 3 | 🏆 Hot Project, 🛡️ Secure | N/A | 58 | 12 | 6 |
 | [events](https://github.com/HappyHackingSpace/events) | 412 | 3 | 🚀 Active Development, 🛡️ Secure | 2025-11-03 | 0 | 0 | 4 |
 | [vulnerable-target](https://github.com/HappyHackingSpace/vulnerable-target) | 398 | 3 | 🚀 Active Development, 🛡️ Secure | 2025-10-06 | 22 | 8 | 11 |
-| [githubmon](https://github.com/HappyHackingSpace/githubmon) | 317 | 3 | 🚀 Active Development, 🛡️ Secure | 2025-10-27 | 4 | 5 | 14 |
+| [LevelUp](https://github.com/HappyHackingSpace/LevelUp) | 356 | 3 | 🚀 Active Development, 🛡️ Secure | 2025-11-04 | 4 | 4 | 12 |
+| [githubmon](https://github.com/HappyHackingSpace/githubmon) | 325 | 3 | 🚀 Active Development, 🛡️ Secure | 2025-10-27 | 4 | 5 | 10 |
 | [theme](https://github.com/HappyHackingSpace/theme) | 296 | 2 | 🚀 Active Development, 🛡️ Secure | 2025-11-01 | 0 | 0 | 2 |
-| [LevelUp](https://github.com/HappyHackingSpace/LevelUp) | 223 | 2 | 🚀 Active Development, 🛡️ Secure | 2025-11-01 | 4 | 3 | 16 |
 | [privacy-policy-analyzer](https://github.com/HappyHackingSpace/privacy-policy-analyzer) | 114 | 2 | 🛡️ Secure | 2025-10-17 | 5 | 2 | 3 |
 | [assets](https://github.com/HappyHackingSpace/assets) | 100 | 2 | 🚀 Active Development, 🛡️ Secure | 2025-10-31 | 0 | 0 | 0 |
 | [Kurdish-Dataset](https://github.com/HappyHackingSpace/Kurdish-Dataset) | 93 | 1 | 🛡️ Secure | 2025-10-31 | 5 | 1 | 1 |
@@ -28,7 +28,7 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 <!-- CONTRIBUTORS_START -->
 | Contributor | XP | Level | Badges | Commits | Issues | PRs |
 |-------------|-------|-------|--------|---------|--------|---------|
-| [ArjinAlbay](https://github.com/ArjinAlbay) | 2173 | 5 | 🏆 Top Committer, 🔀 PR Hero, 🐛 Issue Opener | 402 | 23 | 39 |
+| [ArjinAlbay](https://github.com/ArjinAlbay) | 2175 | 5 | 🏆 Top Committer, 🔀 PR Hero, 🐛 Issue Opener | 402 | 24 | 39 |
 | [lachlanjc](https://github.com/lachlanjc) | 1415 | 4 | - | 283 | 0 | 0 |
 | [dogancanbakir](https://github.com/dogancanbakir) | 994 | 4 | 🔀 PR Hero, 🐛 Issue Opener | 170 | 57 | 10 |
 | [MuslimeKaya](https://github.com/MuslimeKaya) | 809 | 4 | 🔀 PR Hero, 🐛 Issue Opener | 139 | 9 | 32 |
@@ -37,7 +37,7 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | [ozantekin](https://github.com/ozantekin) | 631 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 107 | 9 | 26 |
 | [atiilla](https://github.com/atiilla) | 566 | 3 | 🔀 PR Hero | 100 | 0 | 22 |
 | [recepgunes1](https://github.com/recepgunes1) | 535 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 90 | 11 | 21 |
-| [styfle](https://github.com/styfle) | 500 | 3 | - | 100 | 0 | 0 |
+| [baranylcn](https://github.com/baranylcn) | 513 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 95 | 7 | 8 |
 
 
 [...and more contributors](https://github.com/orgs/HappyHackingSpace/people)<!-- CONTRIBUTORS_END -->
