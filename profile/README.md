@@ -10,13 +10,13 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 <!-- PROJECTS_START -->
 | Project | XP | Level | Badges | Last Commit | Stars | Forks | Open Issues |
 |---------|-------|-------|--------|-------------|-------|-------|-------------|
-| [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 625 | 3 | 🏆 Hot Project, 🛡️ Secure | N/A | 58 | 11 | 5 |
+| [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 632 | 3 | 🏆 Hot Project, 🛡️ Secure | N/A | 59 | 12 | 9 |
 | [events](https://github.com/HappyHackingSpace/events) | 412 | 3 | 🚀 Active Development, 🛡️ Secure | 2025-11-03 | 0 | 0 | 4 |
-| [LevelUp](https://github.com/HappyHackingSpace/LevelUp) | 346 | 3 | 🚀 Active Development, 🛡️ Secure | 2025-11-04 | 3 | 4 | 12 |
+| [LevelUp](https://github.com/HappyHackingSpace/LevelUp) | 356 | 3 | 🚀 Active Development, 🛡️ Secure | 2025-11-04 | 4 | 4 | 12 |
 | [theme](https://github.com/HappyHackingSpace/theme) | 316 | 3 | 🚀 Active Development, 🛡️ Secure | 2025-11-06 | 0 | 0 | 2 |
-| [githubmon](https://github.com/HappyHackingSpace/githubmon) | 282 | 2 | 🚀 Active Development, 🛡️ Secure | 2025-10-27 | 4 | 4 | 9 |
+| [githubmon](https://github.com/HappyHackingSpace/githubmon) | 285 | 2 | 🚀 Active Development, 🛡️ Secure | 2025-10-27 | 4 | 5 | 10 |
 | [vulnerable-target](https://github.com/HappyHackingSpace/vulnerable-target) | 234 | 2 | 🛡️ Secure | N/A | 22 | 8 | 13 |
-| [privacy-policy-analyzer](https://github.com/HappyHackingSpace/privacy-policy-analyzer) | 104 | 2 | 🛡️ Secure | 2025-10-17 | 4 | 2 | 3 |
+| [privacy-policy-analyzer](https://github.com/HappyHackingSpace/privacy-policy-analyzer) | 114 | 2 | 🛡️ Secure | 2025-10-17 | 5 | 2 | 3 |
 | [assets](https://github.com/HappyHackingSpace/assets) | 100 | 2 | 🚀 Active Development, 🛡️ Secure | 2025-10-31 | 0 | 0 | 0 |
 | [Kurdish-Dataset](https://github.com/HappyHackingSpace/Kurdish-Dataset) | 93 | 1 | 🛡️ Secure | 2025-10-31 | 5 | 1 | 1 |
 | [workable-spaces](https://github.com/HappyHackingSpace/workable-spaces) | 85 | 1 | 🛡️ Secure | N/A | 8 | 1 | 0 |
@@ -28,7 +28,7 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 <!-- CONTRIBUTORS_START -->
 | Contributor | XP | Level | Badges | Commits | Issues | PRs |
 |-------------|-------|-------|--------|---------|--------|---------|
-| [ArjinAlbay](https://github.com/ArjinAlbay) | 2195 | 5 | 🏆 Top Committer, 🔀 PR Hero, 🐛 Issue Opener | 406 | 24 | 39 |
+| [ArjinAlbay](https://github.com/ArjinAlbay) | 2199 | 5 | 🏆 Top Committer, 🔀 PR Hero, 🐛 Issue Opener | 406 | 26 | 39 |
 | [lachlanjc](https://github.com/lachlanjc) | 1415 | 4 | - | 283 | 0 | 0 |
 | [dogancanbakir](https://github.com/dogancanbakir) | 994 | 4 | 🔀 PR Hero, 🐛 Issue Opener | 170 | 57 | 10 |
 | [MuslimeKaya](https://github.com/MuslimeKaya) | 809 | 4 | 🔀 PR Hero, 🐛 Issue Opener | 139 | 9 | 32 |
