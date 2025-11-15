@@ -10,7 +10,7 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 <!-- PROJECTS_START -->
 | Project | XP | Level | Badges | Last Commit | Stars | Forks | Open Issues |
 |---------|-------|-------|--------|-------------|-------|-------|-------------|
-| [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 632 | 3 | 🏆 Hot Project, 🛡️ Secure | N/A | 59 | 12 | 9 |
+| [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 678 | 3 | 🏆 Hot Project, 🛡️ Secure | 2025-11-14 | 59 | 12 | 6 |
 | [events](https://github.com/HappyHackingSpace/events) | 412 | 3 | 🚀 Active Development, 🛡️ Secure | 2025-11-03 | 0 | 0 | 4 |
 | [LevelUp](https://github.com/HappyHackingSpace/LevelUp) | 356 | 3 | 🚀 Active Development, 🛡️ Secure | 2025-11-04 | 4 | 4 | 12 |
 | [theme](https://github.com/HappyHackingSpace/theme) | 316 | 3 | 🚀 Active Development, 🛡️ Secure | 2025-11-06 | 0 | 0 | 2 |
@@ -28,7 +28,7 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 <!-- CONTRIBUTORS_START -->
 | Contributor | XP | Level | Badges | Commits | Issues | PRs |
 |-------------|-------|-------|--------|---------|--------|---------|
-| [ArjinAlbay](https://github.com/ArjinAlbay) | 2199 | 5 | 🏆 Top Committer, 🔀 PR Hero, 🐛 Issue Opener | 406 | 26 | 39 |
+| [ArjinAlbay](https://github.com/ArjinAlbay) | 2204 | 5 | 🏆 Top Committer, 🔀 PR Hero, 🐛 Issue Opener | 407 | 26 | 39 |
 | [lachlanjc](https://github.com/lachlanjc) | 1415 | 4 | - | 283 | 0 | 0 |
 | [dogancanbakir](https://github.com/dogancanbakir) | 996 | 4 | 🔀 PR Hero, 🐛 Issue Opener | 170 | 58 | 10 |
 | [MuslimeKaya](https://github.com/MuslimeKaya) | 809 | 4 | 🔀 PR Hero, 🐛 Issue Opener | 139 | 9 | 32 |
