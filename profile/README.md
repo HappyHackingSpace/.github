@@ -28,16 +28,14 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 <!-- CONTRIBUTORS_START -->
 | Contributor | XP | Level | Badges | Commits | Issues | PRs |
 |-------------|-------|-------|--------|---------|--------|---------|
-| [ArjinAlbay](https://github.com/ArjinAlbay) | 2474 | 5 | 🏆 Top Committer, 🔀 PR Hero, 🐛 Issue Opener | 442 | 48 | 56 |
-| [dogancanbakir](https://github.com/dogancanbakir) | 887 | 4 | 🔀 PR Hero, 🐛 Issue Opener | 149 | 56 | 10 |
-| [MuslimeKaya](https://github.com/MuslimeKaya) | 809 | 4 | 🔀 PR Hero, 🐛 Issue Opener | 139 | 9 | 32 |
-| [ozantekin](https://github.com/ozantekin) | 631 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 107 | 9 | 26 |
-| [recepgunes1](https://github.com/recepgunes1) | 582 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 99 | 12 | 21 |
-| [atiilla](https://github.com/atiilla) | 566 | 3 | 🔀 PR Hero | 100 | 0 | 22 |
-| [baranylcn](https://github.com/baranylcn) | 544 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 100 | 7 | 10 |
-| [styfle](https://github.com/styfle) | 500 | 3 | - | 100 | 0 | 0 |
-| [HazarBakir](https://github.com/HazarBakir) | 469 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 72 | 8 | 31 |
-| [omarkurt](https://github.com/omarkurt) | 404 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 59 | 8 | 31 |
+| [ArjinAlbay](https://github.com/ArjinAlbay) | 443 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 66 | 25 | 21 |
+| [claude](https://github.com/claude) | 390 | 3 | 🏆 Top Committer | 78 | 0 | 0 |
+| [omarkurt](https://github.com/omarkurt) | 187 | 2 | 🔀 PR Hero | 29 | 0 | 14 |
+| [baranylcn](https://github.com/baranylcn) | 84 | 1 | 🔀 PR Hero, 🐛 Issue Opener | 13 | 5 | 3 |
+| [ahsentekd](https://github.com/ahsentekd) | 50 | 1 | 🔀 PR Hero, 🐛 Issue Opener | 9 | 1 | 1 |
+| [recepgunes1](https://github.com/recepgunes1) | 35 | 1 | 🔀 PR Hero, 🐛 Issue Opener | 6 | 1 | 1 |
+| [dogancanbakir](https://github.com/dogancanbakir) | 33 | 1 | 🐛 Issue Opener | 3 | 9 | 0 |
+| [HazarBakir](https://github.com/HazarBakir) | 13 | 1 | 🔀 PR Hero, 🐛 Issue Opener | 1 | 1 | 2 |
 
 
 [...and more contributors](https://github.com/orgs/HappyHackingSpace/people)<!-- CONTRIBUTORS_END -->
