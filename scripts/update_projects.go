@@ -217,12 +217,17 @@ func formatMarkdown(repos []GhProjects) string {
 
 func fetchContributors(client *gh.Client, ctx context.Context, org string, repos []*gh.Repository) []ContributorStats {
 	contribMap := map[string]*ContributorStats{}
+	since := time.Now().AddDate(0, 0, -30)
+
 	for _, repo := range repos {
 		if slices.Contains(excludedProjects, repo.GetName()) || repo.GetArchived() {
 			continue
 		}
 
-		commitOpt := &gh.CommitsListOptions{ListOptions: gh.ListOptions{PerPage: 100}}
+		commitOpt := &gh.CommitsListOptions{
+			Since:       since,
+			ListOptions: gh.ListOptions{PerPage: 100},
+		}
 		for {
 			commits, resp, err := client.Repositories.ListCommits(ctx, org, repo.GetName(), commitOpt)
 			if err != nil {
@@ -230,6 +235,10 @@ func fetchContributors(client *gh.Client, ctx context.Context, org string, repos
 			}
 			for _, c := range commits {
 				if c.Author == nil {
+					continue
+				}
+				commitDate := c.GetCommit().GetAuthor().GetDate()
+				if commitDate.Before(since) {
 					continue
 				}
 				login := c.Author.GetLogin()
@@ -251,7 +260,10 @@ func fetchContributors(client *gh.Client, ctx context.Context, org string, repos
 			commitOpt.Page = resp.NextPage
 		}
 
-		issueOpt := &gh.IssueListByRepoOptions{State: "all", ListOptions: gh.ListOptions{PerPage: 100}}
+		issueOpt := &gh.IssueListByRepoOptions{
+			State:       "all",
+			ListOptions: gh.ListOptions{PerPage: 100},
+		}
 		for {
 			issues, resp, err := client.Issues.ListByRepo(ctx, org, repo.GetName(), issueOpt)
 			if err != nil {
@@ -260,6 +272,9 @@ func fetchContributors(client *gh.Client, ctx context.Context, org string, repos
 			for _, issue := range issues {
 				if issue.User == nil || issue.PullRequestLinks != nil {
 					continue // skip PRs here
+				}
+				if issue.GetCreatedAt().Before(since) {
+					continue
 				}
 				login := issue.User.GetLogin()
 				if login == "" || slices.Contains(excludedContributors, login) {
@@ -280,15 +295,25 @@ func fetchContributors(client *gh.Client, ctx context.Context, org string, repos
 			issueOpt.ListOptions.Page = resp.NextPage
 		}
 
-		prOpt := &gh.PullRequestListOptions{State: "all", ListOptions: gh.ListOptions{PerPage: 100}}
+		prOpt := &gh.PullRequestListOptions{
+			State:       "all",
+			Sort:        "updated",
+			Direction:   "desc",
+			ListOptions: gh.ListOptions{PerPage: 100},
+		}
 		for {
 			prs, resp, err := client.PullRequests.List(ctx, org, repo.GetName(), prOpt)
 			if err != nil {
 				break
 			}
+			shouldBreak := false
 			for _, pr := range prs {
 				if pr.User == nil {
 					continue
+				}
+				if pr.GetUpdatedAt().Before(since) {
+					shouldBreak = true
+					break
 				}
 				login := pr.User.GetLogin()
 				if login == "" || slices.Contains(excludedContributors, login) {
@@ -303,7 +328,7 @@ func fetchContributors(client *gh.Client, ctx context.Context, org string, repos
 				}
 				contribMap[login].PRs++
 			}
-			if resp.NextPage == 0 {
+			if shouldBreak || resp.NextPage == 0 {
 				break
 			}
 			prOpt.Page = resp.NextPage
@@ -313,6 +338,9 @@ func fetchContributors(client *gh.Client, ctx context.Context, org string, repos
 	var contribs []ContributorStats
 	mostCommits := 0
 	for _, c := range contribMap {
+		if c.Commits == 0 && c.Issues == 0 && c.PRs == 0 {
+			continue
+		}
 		c.XP = c.Commits*5 + c.Issues*2 + c.PRs*3
 		c.Level = calcLevel(c.XP)
 		if c.Commits > mostCommits {
@@ -322,7 +350,7 @@ func fetchContributors(client *gh.Client, ctx context.Context, org string, repos
 	}
 	for i := range contribs {
 		badges := []string{}
-		if contribs[i].Commits == mostCommits {
+		if contribs[i].Commits == mostCommits && mostCommits > 0 {
 			badges = append(badges, "🏆 Top Committer")
 		}
 		if contribs[i].PRs > 0 {
