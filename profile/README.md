@@ -13,13 +13,13 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | [githubmon](https://github.com/HappyHackingSpace/githubmon) | 2893 | 5 | 🚀 Active Development, 🛡️ Secure | 2025-11-23 | 4 | 5 | 6 |
 | [vulnerable-target](https://github.com/HappyHackingSpace/vulnerable-target) | 994 | 4 | 🚀 Active Development, 🛡️ Secure | 2025-11-25 | 27 | 8 | 8 |
 | [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 678 | 3 | 🏆 Hot Project, 🛡️ Secure | 2025-11-14 | 59 | 12 | 6 |
-| [LevelUp](https://github.com/HappyHackingSpace/LevelUp) | 242 | 2 | 🚀 Active Development, 🛡️ Secure | 2025-11-18 | 4 | 4 | 9 |
+| [LevelUp](https://github.com/HappyHackingSpace/LevelUp) | 142 | 2 | 🚀 Active Development, 🛡️ Secure | 2025-11-18 | 4 | 4 | 9 |
+| [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 105 | 2 | 🚀 Active Development, 🛡️ Secure | 2025-12-04 | 0 | 1 | 0 |
 | [workable-spaces](https://github.com/HappyHackingSpace/workable-spaces) | 85 | 1 | 🛡️ Secure | N/A | 8 | 1 | 0 |
 | [landing-frontend-app](https://github.com/HappyHackingSpace/landing-frontend-app) | 61 | 1 | 🛡️ Secure | N/A | 9 | 3 | 22 |
 | [privacy-policy-analyzer](https://github.com/HappyHackingSpace/privacy-policy-analyzer) | 54 | 1 | 🛡️ Secure | N/A | 5 | 2 | 3 |
 | [Kurdish-Dataset](https://github.com/HappyHackingSpace/Kurdish-Dataset) | 53 | 1 | 🛡️ Secure | N/A | 5 | 1 | 1 |
 | [SkyBound-Quest](https://github.com/HappyHackingSpace/SkyBound-Quest) | 50 | 1 | 🛡️ Secure | N/A | 5 | 0 | 0 |
-| [ai-tools](https://github.com/HappyHackingSpace/ai-tools) | 50 | 1 | 🛡️ Secure | N/A | 4 | 2 | 0 |
 
 
 [...and more projects](https://github.com/HappyHackingSpace?tab=repositories)<!-- PROJECTS_END -->
@@ -28,10 +28,10 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 <!-- CONTRIBUTORS_START -->
 | Contributor | XP | Level | Badges | Commits | Issues | PRs |
 |-------------|-------|-------|--------|---------|--------|---------|
-| [ArjinAlbay](https://github.com/ArjinAlbay) | 448 | 3 | 🏆 Top Committer, 🔀 PR Hero, 🐛 Issue Opener | 67 | 25 | 21 |
-| [omarkurt](https://github.com/omarkurt) | 187 | 2 | 🔀 PR Hero | 29 | 0 | 14 |
-| [baranylcn](https://github.com/baranylcn) | 59 | 1 | 🔀 PR Hero | 10 | 0 | 3 |
+| [ArjinAlbay](https://github.com/ArjinAlbay) | 446 | 3 | 🏆 Top Committer, 🔀 PR Hero, 🐛 Issue Opener | 67 | 24 | 21 |
+| [omarkurt](https://github.com/omarkurt) | 213 | 2 | 🔀 PR Hero | 33 | 0 | 16 |
 | [recepgunes1](https://github.com/recepgunes1) | 35 | 1 | 🔀 PR Hero, 🐛 Issue Opener | 6 | 1 | 1 |
+| [baranylcn](https://github.com/baranylcn) | 34 | 1 | 🔀 PR Hero | 5 | 0 | 3 |
 | [HazarBakir](https://github.com/HazarBakir) | 13 | 1 | 🔀 PR Hero, 🐛 Issue Opener | 1 | 1 | 2 |
 | [dogancanbakir](https://github.com/dogancanbakir) | 12 | 1 | 🐛 Issue Opener | 2 | 1 | 0 |
 
