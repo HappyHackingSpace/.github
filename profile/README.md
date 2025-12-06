@@ -11,7 +11,7 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | Project | XP | Level | Badges | Last Commit | Stars | Forks | Open Issues |
 |---------|-------|-------|--------|-------------|-------|-------|-------------|
 | [githubmon](https://github.com/HappyHackingSpace/githubmon) | 2893 | 5 | 🚀 Active Development, 🛡️ Secure | 2025-11-23 | 4 | 5 | 6 |
-| [vulnerable-target](https://github.com/HappyHackingSpace/vulnerable-target) | 994 | 4 | 🚀 Active Development, 🛡️ Secure | 2025-11-25 | 27 | 8 | 8 |
+| [vulnerable-target](https://github.com/HappyHackingSpace/vulnerable-target) | 992 | 4 | 🚀 Active Development, 🛡️ Secure | 2025-11-25 | 27 | 8 | 9 |
 | [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 678 | 3 | 🏆 Hot Project, 🛡️ Secure | 2025-11-14 | 59 | 12 | 6 |
 | [LevelUp](https://github.com/HappyHackingSpace/LevelUp) | 142 | 2 | 🚀 Active Development, 🛡️ Secure | 2025-11-18 | 4 | 4 | 9 |
 | [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 105 | 2 | 🚀 Active Development, 🛡️ Secure | 2025-12-04 | 0 | 1 | 0 |
@@ -28,9 +28,9 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 <!-- CONTRIBUTORS_START -->
 | Contributor | XP | Level | Badges | Commits | Issues | PRs |
 |-------------|-------|-------|--------|---------|--------|---------|
-| [ArjinAlbay](https://github.com/ArjinAlbay) | 446 | 3 | 🏆 Top Committer, 🔀 PR Hero, 🐛 Issue Opener | 67 | 24 | 21 |
+| [ArjinAlbay](https://github.com/ArjinAlbay) | 441 | 3 | 🏆 Top Committer, 🔀 PR Hero, 🐛 Issue Opener | 66 | 24 | 21 |
 | [omarkurt](https://github.com/omarkurt) | 213 | 2 | 🔀 PR Hero | 33 | 0 | 16 |
-| [recepgunes1](https://github.com/recepgunes1) | 35 | 1 | 🔀 PR Hero, 🐛 Issue Opener | 6 | 1 | 1 |
+| [recepgunes1](https://github.com/recepgunes1) | 38 | 1 | 🔀 PR Hero, 🐛 Issue Opener | 6 | 1 | 2 |
 | [baranylcn](https://github.com/baranylcn) | 34 | 1 | 🔀 PR Hero | 5 | 0 | 3 |
 | [HazarBakir](https://github.com/HazarBakir) | 13 | 1 | 🔀 PR Hero, 🐛 Issue Opener | 1 | 1 | 2 |
 | [dogancanbakir](https://github.com/dogancanbakir) | 12 | 1 | 🐛 Issue Opener | 2 | 1 | 0 |
