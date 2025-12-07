@@ -14,7 +14,7 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | [vulnerable-target](https://github.com/HappyHackingSpace/vulnerable-target) | 992 | 4 | 🚀 Active Development, 🛡️ Secure | 2025-11-25 | 27 | 8 | 9 |
 | [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 678 | 3 | 🏆 Hot Project, 🛡️ Secure | 2025-11-14 | 59 | 12 | 6 |
 | [LevelUp](https://github.com/HappyHackingSpace/LevelUp) | 142 | 2 | 🚀 Active Development, 🛡️ Secure | 2025-11-18 | 4 | 4 | 9 |
-| [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 105 | 2 | 🚀 Active Development, 🛡️ Secure | 2025-12-04 | 0 | 1 | 0 |
+| [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 103 | 2 | 🚀 Active Development, 🛡️ Secure | 2025-12-04 | 0 | 1 | 1 |
 | [workable-spaces](https://github.com/HappyHackingSpace/workable-spaces) | 85 | 1 | 🛡️ Secure | N/A | 8 | 1 | 0 |
 | [landing-frontend-app](https://github.com/HappyHackingSpace/landing-frontend-app) | 61 | 1 | 🛡️ Secure | N/A | 9 | 3 | 22 |
 | [privacy-policy-analyzer](https://github.com/HappyHackingSpace/privacy-policy-analyzer) | 54 | 1 | 🛡️ Secure | N/A | 5 | 2 | 3 |
@@ -29,7 +29,7 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | Contributor | XP | Level | Badges | Commits | Issues | PRs |
 |-------------|-------|-------|--------|---------|--------|---------|
 | [ArjinAlbay](https://github.com/ArjinAlbay) | 441 | 3 | 🏆 Top Committer, 🔀 PR Hero, 🐛 Issue Opener | 66 | 24 | 21 |
-| [omarkurt](https://github.com/omarkurt) | 213 | 2 | 🔀 PR Hero | 33 | 0 | 16 |
+| [omarkurt](https://github.com/omarkurt) | 215 | 2 | 🔀 PR Hero, 🐛 Issue Opener | 33 | 1 | 16 |
 | [recepgunes1](https://github.com/recepgunes1) | 38 | 1 | 🔀 PR Hero, 🐛 Issue Opener | 6 | 1 | 2 |
 | [baranylcn](https://github.com/baranylcn) | 34 | 1 | 🔀 PR Hero | 5 | 0 | 3 |
 | [HazarBakir](https://github.com/HazarBakir) | 13 | 1 | 🔀 PR Hero, 🐛 Issue Opener | 1 | 1 | 2 |
