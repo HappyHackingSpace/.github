@@ -28,7 +28,7 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 <!-- CONTRIBUTORS_START -->
 | Contributor | XP | Level | Badges | Commits | Issues | PRs |
 |-------------|-------|-------|--------|---------|--------|---------|
-| [ArjinAlbay](https://github.com/ArjinAlbay) | 441 | 3 | 🏆 Top Committer, 🔀 PR Hero, 🐛 Issue Opener | 66 | 24 | 21 |
+| [ArjinAlbay](https://github.com/ArjinAlbay) | 437 | 3 | 🏆 Top Committer, 🔀 PR Hero, 🐛 Issue Opener | 66 | 22 | 21 |
 | [omarkurt](https://github.com/omarkurt) | 215 | 2 | 🔀 PR Hero, 🐛 Issue Opener | 33 | 1 | 16 |
 | [baranylcn](https://github.com/baranylcn) | 47 | 1 | 🔀 PR Hero | 7 | 0 | 4 |
 | [recepgunes1](https://github.com/recepgunes1) | 28 | 1 | 🔀 PR Hero, 🐛 Issue Opener | 4 | 1 | 2 |
