@@ -32,7 +32,7 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | [omarkurt](https://github.com/omarkurt) | 215 | 2 | 🔀 PR Hero, 🐛 Issue Opener | 33 | 1 | 16 |
 | [baranylcn](https://github.com/baranylcn) | 47 | 1 | 🔀 PR Hero | 7 | 0 | 4 |
 | [recepgunes1](https://github.com/recepgunes1) | 28 | 1 | 🔀 PR Hero, 🐛 Issue Opener | 4 | 1 | 2 |
-| [dogancanbakir](https://github.com/dogancanbakir) | 12 | 1 | 🐛 Issue Opener | 2 | 1 | 0 |
+| [dogancanbakir](https://github.com/dogancanbakir) | 10 | 1 | - | 2 | 0 | 0 |
 | [HazarBakir](https://github.com/HazarBakir) | 6 | 1 | 🔀 PR Hero | 0 | 0 | 2 |
 
 
