@@ -10,8 +10,8 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 <!-- PROJECTS_START -->
 | Project | XP | Level | Badges | Last Commit | Stars | Forks | Open Issues |
 |---------|-------|-------|--------|-------------|-------|-------|-------------|
-| [githubmon](https://github.com/HappyHackingSpace/githubmon) | 2893 | 5 | 🚀 Active Development, 🛡️ Secure | 2025-11-23 | 4 | 5 | 6 |
-| [git-reads](https://github.com/HappyHackingSpace/git-reads) | 2066 | 5 | 🚀 Active Development, 🛡️ Secure | 2025-12-14 | 1 | 2 | 7 |
+| [git-reads](https://github.com/HappyHackingSpace/git-reads) | 1966 | 5 | 🚀 Active Development, 🛡️ Secure | 2025-12-14 | 1 | 2 | 7 |
+| [githubmon](https://github.com/HappyHackingSpace/githubmon) | 1613 | 5 | 🚀 Active Development, 🛡️ Secure | 2025-11-23 | 4 | 5 | 6 |
 | [vulnerable-target](https://github.com/HappyHackingSpace/vulnerable-target) | 942 | 4 | 🚀 Active Development, 🛡️ Secure | 2025-11-25 | 26 | 8 | 9 |
 | [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 658 | 3 | 🏆 Hot Project, 🛡️ Secure | N/A | 61 | 12 | 6 |
 | [landing-frontend-app](https://github.com/HappyHackingSpace/landing-frontend-app) | 143 | 2 | 🛡️ Secure | 2025-12-14 | 9 | 3 | 21 |
@@ -28,9 +28,9 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 <!-- CONTRIBUTORS_START -->
 | Contributor | XP | Level | Badges | Commits | Issues | PRs |
 |-------------|-------|-------|--------|---------|--------|---------|
-| [HazarBakir](https://github.com/HazarBakir) | 593 | 3 | 🏆 Top Committer, 🔀 PR Hero, 🐛 Issue Opener | 102 | 10 | 21 |
-| [ArjinAlbay](https://github.com/ArjinAlbay) | 388 | 3 | 🔀 PR Hero | 65 | 0 | 21 |
+| [HazarBakir](https://github.com/HazarBakir) | 568 | 3 | 🏆 Top Committer, 🔀 PR Hero, 🐛 Issue Opener | 97 | 10 | 21 |
 | [omarkurt](https://github.com/omarkurt) | 217 | 2 | 🔀 PR Hero, 🐛 Issue Opener | 33 | 2 | 16 |
+| [ArjinAlbay](https://github.com/ArjinAlbay) | 177 | 2 | 🔀 PR Hero | 30 | 0 | 9 |
 | [baranylcn](https://github.com/baranylcn) | 37 | 1 | 🔀 PR Hero | 5 | 0 | 4 |
 | [dogancanbakir](https://github.com/dogancanbakir) | 30 | 1 | - | 6 | 0 | 0 |
 | [recepgunes1](https://github.com/recepgunes1) | 28 | 1 | 🔀 PR Hero, 🐛 Issue Opener | 4 | 1 | 2 |
