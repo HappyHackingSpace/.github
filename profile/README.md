@@ -10,9 +10,9 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 <!-- PROJECTS_START -->
 | Project | XP | Level | Badges | Last Commit | Stars | Forks | Open Issues |
 |---------|-------|-------|--------|-------------|-------|-------|-------------|
-| [git-reads](https://github.com/HappyHackingSpace/git-reads) | 1466 | 4 | 🚀 Active Development, 🛡️ Secure | 2025-12-14 | 1 | 2 | 7 |
-| [vulnerable-target](https://github.com/HappyHackingSpace/vulnerable-target) | 816 | 4 | 🚀 Active Development, 🛡️ Secure | 2025-11-25 | 26 | 8 | 12 |
+| [git-reads](https://github.com/HappyHackingSpace/git-reads) | 1126 | 4 | 🚀 Active Development, 🛡️ Secure | 2025-12-14 | 1 | 2 | 7 |
 | [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 658 | 3 | 🏆 Hot Project, 🛡️ Secure | N/A | 61 | 12 | 6 |
+| [vulnerable-target](https://github.com/HappyHackingSpace/vulnerable-target) | 536 | 3 | 🚀 Active Development, 🛡️ Secure | 2025-11-25 | 26 | 8 | 12 |
 | [githubmon](https://github.com/HappyHackingSpace/githubmon) | 433 | 3 | 🚀 Active Development, 🛡️ Secure | 2025-11-23 | 4 | 5 | 6 |
 | [landing-frontend-app](https://github.com/HappyHackingSpace/landing-frontend-app) | 143 | 2 | 🛡️ Secure | 2025-12-14 | 9 | 3 | 21 |
 | [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 101 | 2 | 🚀 Active Development, 🛡️ Secure | 2025-12-04 | 0 | 1 | 2 |
@@ -28,12 +28,12 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 <!-- CONTRIBUTORS_START -->
 | Contributor | XP | Level | Badges | Commits | Issues | PRs |
 |-------------|-------|-------|--------|---------|--------|---------|
-| [HazarBakir](https://github.com/HazarBakir) | 420 | 3 | 🏆 Top Committer, 🔀 PR Hero, 🐛 Issue Opener | 72 | 9 | 14 |
-| [omarkurt](https://github.com/omarkurt) | 193 | 2 | 🔀 PR Hero, 🐛 Issue Opener | 28 | 4 | 15 |
+| [HazarBakir](https://github.com/HazarBakir) | 319 | 3 | 🏆 Top Committer, 🔀 PR Hero, 🐛 Issue Opener | 55 | 7 | 10 |
+| [omarkurt](https://github.com/omarkurt) | 107 | 2 | 🔀 PR Hero, 🐛 Issue Opener | 16 | 3 | 7 |
 | [ArjinAlbay](https://github.com/ArjinAlbay) | 46 | 1 | 🔀 PR Hero | 8 | 0 | 2 |
-| [dogancanbakir](https://github.com/dogancanbakir) | 34 | 1 | 🐛 Issue Opener | 6 | 2 | 0 |
-| [recepgunes1](https://github.com/recepgunes1) | 23 | 1 | 🔀 PR Hero, 🐛 Issue Opener | 3 | 1 | 2 |
+| [dogancanbakir](https://github.com/dogancanbakir) | 29 | 1 | 🐛 Issue Opener | 5 | 2 | 0 |
 | [baranylcn](https://github.com/baranylcn) | 22 | 1 | 🔀 PR Hero | 2 | 0 | 4 |
+| [recepgunes1](https://github.com/recepgunes1) | 18 | 1 | 🔀 PR Hero, 🐛 Issue Opener | 2 | 1 | 2 |
 
 
 [...and more contributors](https://github.com/orgs/HappyHackingSpace/people)<!-- CONTRIBUTORS_END -->
