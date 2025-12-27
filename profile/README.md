@@ -10,7 +10,7 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 <!-- PROJECTS_START -->
 | Project | XP | Level | Badges | Last Commit | Stars | Forks | Open Issues |
 |---------|-------|-------|--------|-------------|-------|-------|-------------|
-| [git-reads](https://github.com/HappyHackingSpace/git-reads) | 946 | 4 | 🚀 Active Development, 🛡️ Secure | 2025-12-14 | 1 | 2 | 7 |
+| [git-reads](https://github.com/HappyHackingSpace/git-reads) | 826 | 4 | 🚀 Active Development, 🛡️ Secure | 2025-12-14 | 1 | 2 | 7 |
 | [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 658 | 3 | 🏆 Hot Project, 🛡️ Secure | N/A | 61 | 12 | 6 |
 | [CommunityHub](https://github.com/HappyHackingSpace/CommunityHub) | 390 | 3 | 🚀 Active Development, 🛡️ Secure | 2025-12-23 | 1 | 4 | 0 |
 | [vulnerable-target](https://github.com/HappyHackingSpace/vulnerable-target) | 276 | 2 | 🛡️ Secure | N/A | 26 | 8 | 12 |
@@ -28,7 +28,7 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 <!-- CONTRIBUTORS_START -->
 | Contributor | XP | Level | Badges | Commits | Issues | PRs |
 |-------------|-------|-------|--------|---------|--------|---------|
-| [HazarBakir](https://github.com/HazarBakir) | 361 | 3 | 🏆 Top Committer, 🔀 PR Hero, 🐛 Issue Opener | 64 | 7 | 9 |
+| [HazarBakir](https://github.com/HazarBakir) | 325 | 3 | 🏆 Top Committer, 🔀 PR Hero, 🐛 Issue Opener | 58 | 7 | 7 |
 | [omarkurt](https://github.com/omarkurt) | 32 | 1 | 🔀 PR Hero, 🐛 Issue Opener | 4 | 3 | 2 |
 | [dogancanbakir](https://github.com/dogancanbakir) | 29 | 1 | 🐛 Issue Opener | 5 | 2 | 0 |
 | [baranylcn](https://github.com/baranylcn) | 19 | 1 | 🔀 PR Hero, 🐛 Issue Opener | 2 | 3 | 1 |
