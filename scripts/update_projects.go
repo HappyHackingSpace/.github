@@ -2,8 +2,10 @@ package main
 
 import (
 	context "context"
+	"encoding/json"
 	"fmt"
 	"os"
+	"path/filepath"
 	"regexp"
 	"slices"
 	"sort"
@@ -43,6 +45,10 @@ type ContributorStats struct {
 	XP         int
 	Level      int
 	Badges     []string
+}
+
+type DoorStatus struct {
+	Locked bool `json:"locked"`
 }
 
 var (
@@ -384,6 +390,24 @@ func formatContributorsMarkdown(contribs []ContributorStats) string {
 	return b.String()
 }
 
+func readDoorStatus() string {
+	statusPath := filepath.Join("scripts", ".door_status_cache", "last_status.json")
+	data, err := os.ReadFile(statusPath)
+	if err != nil {
+		return "⚠️ **Status Unknown**"
+	}
+
+	var status DoorStatus
+	if err := json.Unmarshal(data, &status); err != nil {
+		return "⚠️ **Status Unknown**"
+	}
+
+	if status.Locked {
+		return "🔒 **Locked**"
+	}
+	return "🔓 **Unlocked**"
+}
+
 func main() {
 	org := "HappyHackingSpace"
 
@@ -447,6 +471,10 @@ func main() {
 
 	re2 := regexp.MustCompile(`(?s)<!-- CONTRIBUTORS_START -->(.*?)<!-- CONTRIBUTORS_END -->`)
 	newReadme = re2.ReplaceAll(newReadme, []byte("<!-- CONTRIBUTORS_START -->\n"+contribMd+"<!-- CONTRIBUTORS_END -->"))
+
+	doorStatus := readDoorStatus()
+	re3 := regexp.MustCompile(`(?s)<!-- DOOR_STATUS_START -->(.*?)<!-- DOOR_STATUS_END -->`)
+	newReadme = re3.ReplaceAll(newReadme, []byte("<!-- DOOR_STATUS_START -->\n"+doorStatus+"\n<!-- DOOR_STATUS_END -->"))
 
 	if err := os.WriteFile(readmePath, newReadme, 0644); err != nil {
 		panic(err)

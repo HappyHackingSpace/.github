@@ -1,0 +1,49 @@
+name: HackerBell
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  check-status:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+      - name: Setup Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: '1.24'
+      - name: Restore last status cache
+        id: cache-restore
+        uses: actions/cache/restore@v4
+        with:
+          path: scripts/.door_status_cache
+          key: door-status-${{ github.run_id }}
+          restore-keys: |
+            door-status-
+      - name: Prepare Go module and install dependencies
+        run: |
+          cd scripts
+          go mod init tempmod || true
+          go get github.com/seamapi/go@v0.6.1
+          go mod tidy
+      - name: Build check-status
+        run: |
+          cd scripts
+          go build -o check-status check-status.go
+      - name: Run status check
+        env:
+          SEAM_API_KEY: ${{ secrets.SEAM_API_KEY }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          LOCK_DEVICE_ID: ${{ secrets.LOCK_DEVICE_ID }}
+        run: |
+          cd scripts
+          ./check-status
+      - name: Save last status cache
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: scripts/.door_status_cache
+          key: door-status-${{ github.run_id }}

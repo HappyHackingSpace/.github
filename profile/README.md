@@ -5,6 +5,11 @@ Welcome to a community of hackers. We’re artists, scientists, writers, enginee
 
 [Happy Hacking Space](https://happyhacking.space/) is a community that loves exploring boundaries with a playful spirit while crafting open source projects.
 
+## 🚪 Door Status
+<!-- DOOR_STATUS_START -->
+🔓 **Unlocked**
+<!-- DOOR_STATUS_END -->
+
 ## Projects (Auto-Updated)
 We develop a diverse range of projects spanning cybersecurity, gaming, AI-powered tools, documentation, and purely fun experiments. While we have many ongoing projects, below are some of our most popular and actively maintained repositories.
 <!-- PROJECTS_START -->

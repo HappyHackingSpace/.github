@@ -14,6 +14,13 @@ jobs:
         uses: actions/setup-go@v5
         with:
           go-version: '1.24'
+      - name: Restore door status cache
+        uses: actions/cache/restore@v4
+        with:
+          path: scripts/.door_status_cache
+          key: door-status-
+          restore-keys: |
+            door-status-
       - name: Prepare Go module and install dependencies
         run: |
           go mod init tempmod
