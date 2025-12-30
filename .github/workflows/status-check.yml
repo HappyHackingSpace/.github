@@ -1,0 +1,41 @@
+name: HackerBell
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  check-status:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+      - name: Setup Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: '1.22'
+      - name: Restore last status cache
+        id: cache-restore
+        uses: actions/cache/restore@v4
+        with:
+          path: .door_status_cache
+          key: door-status-${{ github.run_id }}
+          restore-keys: |
+            door-status-
+      - name: Download modules
+        run: go mod download
+      - name: Build check-status
+        run: go build -o check-status ./scripts/door_status/check-status.go
+      - name: Run status check
+        env:
+          SEAM_API_KEY: ${{ secrets.SEAM_API_KEY }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          LOCK_DEVICE_ID: ${{ secrets.LOCK_DEVICE_ID }}
+        run: ./check-status
+      - name: Save last status cache
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: .door_status_cache
+          key: door-status-${{ github.run_id }}
