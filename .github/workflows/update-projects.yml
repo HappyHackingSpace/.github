@@ -16,7 +16,9 @@ jobs:
           go-version: '1.24'
       - name: Prepare Go module and install dependencies
         run: |
+          if [ ! -f go.mod ]; then
           go mod init tempmod
+          fi
           go mod tidy
       - name: Run update_projects.go
         env:
