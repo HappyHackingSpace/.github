@@ -93,18 +93,10 @@ func main() {
 	}
 	if target == nil {
 		fmt.Fprintln(os.Stderr, "Device not found for provided LOCK_DEVICE_ID")
-		// More diagnostics for debugging
-		fmt.Fprintf(os.Stderr, "Available device IDs: ")
-		for _, d := range deviceList {
-			fmt.Fprintf(os.Stderr, "%s ", d.DeviceId)
-		}
-		fmt.Fprintln(os.Stderr)
 		os.Exit(1)
 	}
 	if target.Properties == nil || target.Properties.Locked == nil {
 		fmt.Fprintln(os.Stderr, "Could not determine lock status from device properties.")
-		fmt.Fprintf(os.Stderr, "Device properties: %+v\n", target.Properties)
-		// Exit gracefully if non-critical, or with error if required
 		os.Exit(1)
 	}
 	locked := *target.Properties.Locked
