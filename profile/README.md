@@ -14,7 +14,7 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | [vt](https://github.com/HappyHackingSpace/vt) | 623 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-01-02 | 26 | 7 | 6 |
 | [git-reads](https://github.com/HappyHackingSpace/git-reads) | 426 | 3 | 🚀 Active Development, 🛡️ Secure | 2025-12-14 | 1 | 2 | 7 |
 | [CommunityHub](https://github.com/HappyHackingSpace/CommunityHub) | 390 | 3 | 🚀 Active Development, 🛡️ Secure | 2025-12-23 | 1 | 4 | 0 |
-| [landing-frontend-app](https://github.com/HappyHackingSpace/landing-frontend-app) | 138 | 2 | 🛡️ Secure | 2025-12-14 | 9 | 2 | 21 |
+| [landing-frontend-app](https://github.com/HappyHackingSpace/landing-frontend-app) | 118 | 2 | 🛡️ Secure | 2025-12-14 | 9 | 2 | 21 |
 | [hacker-taboo-web](https://github.com/HappyHackingSpace/hacker-taboo-web) | 94 | 1 | 🚀 Active Development, 🛡️ Secure | 2025-12-14 | 0 | 0 | 3 |
 | [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 81 | 1 | 🛡️ Secure | 2025-12-04 | 0 | 1 | 2 |
 | [be-excellent-to-each-other](https://github.com/HappyHackingSpace/be-excellent-to-each-other) | 80 | 1 | 🛡️ Secure | 2025-12-14 | 0 | 0 | 0 |
