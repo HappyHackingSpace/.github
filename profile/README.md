@@ -10,7 +10,7 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 <!-- PROJECTS_START -->
 | Project | XP | Level | Badges | Last Commit | Stars | Forks | Open Issues |
 |---------|-------|-------|--------|-------------|-------|-------|-------------|
-| [vt](https://github.com/HappyHackingSpace/vt) | 665 | 3 | 🚀 Active Development, 🧑‍💻 Welcoming Issues, 🛡️ Secure | 2026-01-03 | 26 | 7 | 5 |
+| [vt](https://github.com/HappyHackingSpace/vt) | 663 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-01-05 | 26 | 7 | 6 |
 | [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 653 | 3 | 🏆 Hot Project, 🛡️ Secure | N/A | 61 | 11 | 6 |
 | [CommunityHub](https://github.com/HappyHackingSpace/CommunityHub) | 510 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-01-04 | 1 | 4 | 0 |
 | [git-reads](https://github.com/HappyHackingSpace/git-reads) | 426 | 3 | 🚀 Active Development, 🛡️ Secure | 2025-12-14 | 1 | 2 | 7 |
@@ -29,10 +29,10 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | Contributor | XP | Level | Badges | Commits | Issues | PRs |
 |-------------|-------|-------|--------|---------|--------|---------|
 | [HazarBakir](https://github.com/HazarBakir) | 238 | 2 | 🏆 Top Committer, 🔀 PR Hero | 44 | 0 | 6 |
-| [dogancanbakir](https://github.com/dogancanbakir) | 69 | 1 | 🔀 PR Hero, 🐛 Issue Opener | 12 | 3 | 1 |
-| [recepgunes1](https://github.com/recepgunes1) | 56 | 1 | 🔀 PR Hero | 10 | 0 | 2 |
+| [dogancanbakir](https://github.com/dogancanbakir) | 86 | 1 | 🔀 PR Hero, 🐛 Issue Opener | 13 | 6 | 3 |
+| [recepgunes1](https://github.com/recepgunes1) | 58 | 1 | 🔀 PR Hero, 🐛 Issue Opener | 10 | 1 | 2 |
 | [baranylcn](https://github.com/baranylcn) | 19 | 1 | 🔀 PR Hero, 🐛 Issue Opener | 2 | 3 | 1 |
-| [omarkurt](https://github.com/omarkurt) | 11 | 1 | 🐛 Issue Opener | 1 | 3 | 0 |
+| [omarkurt](https://github.com/omarkurt) | 4 | 1 | 🐛 Issue Opener | 0 | 2 | 0 |
 | [Hakan-kuru](https://github.com/Hakan-kuru) | 2 | 1 | 🐛 Issue Opener | 0 | 1 | 0 |
 | [ArjinAlbay](https://github.com/ArjinAlbay) | 2 | 1 | 🐛 Issue Opener | 0 | 1 | 0 |
 
