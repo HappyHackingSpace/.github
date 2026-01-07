@@ -10,16 +10,16 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 <!-- PROJECTS_START -->
 | Project | XP | Level | Badges | Last Commit | Stars | Forks | Open Issues |
 |---------|-------|-------|--------|-------------|-------|-------|-------------|
-| [vt](https://github.com/HappyHackingSpace/vt) | 663 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-01-05 | 26 | 7 | 6 |
+| [vt](https://github.com/HappyHackingSpace/vt) | 867 | 4 | 🚀 Active Development, 🛡️ Secure | 2026-01-06 | 26 | 7 | 24 |
 | [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 653 | 3 | 🏆 Hot Project, 🛡️ Secure | N/A | 61 | 11 | 6 |
 | [CommunityHub](https://github.com/HappyHackingSpace/CommunityHub) | 510 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-01-04 | 1 | 4 | 0 |
 | [git-reads](https://github.com/HappyHackingSpace/git-reads) | 426 | 3 | 🚀 Active Development, 🛡️ Secure | 2025-12-14 | 1 | 2 | 7 |
-| [landing-frontend-app](https://github.com/HappyHackingSpace/landing-frontend-app) | 118 | 2 | 🛡️ Secure | 2025-12-14 | 9 | 2 | 21 |
 | [hacker-taboo-web](https://github.com/HappyHackingSpace/hacker-taboo-web) | 94 | 1 | 🚀 Active Development, 🛡️ Secure | 2025-12-14 | 0 | 0 | 3 |
-| [LevelUp](https://github.com/HappyHackingSpace/LevelUp) | 81 | 1 | 🛡️ Secure | 2025-12-07 | 4 | 5 | 12 |
 | [be-excellent-to-each-other](https://github.com/HappyHackingSpace/be-excellent-to-each-other) | 80 | 1 | 🛡️ Secure | 2025-12-14 | 0 | 0 | 0 |
 | [workable-spaces](https://github.com/HappyHackingSpace/workable-spaces) | 75 | 1 | 🛡️ Secure | N/A | 7 | 1 | 0 |
 | [Kurdish-Dataset](https://github.com/HappyHackingSpace/Kurdish-Dataset) | 53 | 1 | 🛡️ Secure | N/A | 5 | 1 | 1 |
+| [githubmon](https://github.com/HappyHackingSpace/githubmon) | 51 | 1 | 🛡️ Secure | N/A | 4 | 5 | 7 |
+| [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 49 | 1 | 🛡️ Secure | 2026-01-06 | 0 | 1 | 8 |
 
 
 [...and more projects](https://github.com/HappyHackingSpace?tab=repositories)<!-- PROJECTS_END -->
@@ -29,11 +29,10 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | Contributor | XP | Level | Badges | Commits | Issues | PRs |
 |-------------|-------|-------|--------|---------|--------|---------|
 | [HazarBakir](https://github.com/HazarBakir) | 238 | 2 | 🏆 Top Committer, 🔀 PR Hero | 44 | 0 | 6 |
-| [dogancanbakir](https://github.com/dogancanbakir) | 86 | 1 | 🔀 PR Hero, 🐛 Issue Opener | 13 | 6 | 3 |
-| [recepgunes1](https://github.com/recepgunes1) | 58 | 1 | 🔀 PR Hero, 🐛 Issue Opener | 10 | 1 | 2 |
-| [baranylcn](https://github.com/baranylcn) | 19 | 1 | 🔀 PR Hero, 🐛 Issue Opener | 2 | 3 | 1 |
+| [dogancanbakir](https://github.com/dogancanbakir) | 155 | 2 | 🔀 PR Hero, 🐛 Issue Opener | 20 | 14 | 9 |
+| [recepgunes1](https://github.com/recepgunes1) | 97 | 1 | 🔀 PR Hero, 🐛 Issue Opener | 16 | 4 | 3 |
+| [baranylcn](https://github.com/baranylcn) | 6 | 1 | 🐛 Issue Opener | 0 | 3 | 0 |
 | [omarkurt](https://github.com/omarkurt) | 4 | 1 | 🐛 Issue Opener | 0 | 2 | 0 |
-| [Hakan-kuru](https://github.com/Hakan-kuru) | 2 | 1 | 🐛 Issue Opener | 0 | 1 | 0 |
 | [ArjinAlbay](https://github.com/ArjinAlbay) | 2 | 1 | 🐛 Issue Opener | 0 | 1 | 0 |
 
 
