@@ -14,8 +14,8 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 653 | 3 | 🏆 Hot Project, 🛡️ Secure | N/A | 61 | 11 | 6 |
 | [CommunityHub](https://github.com/HappyHackingSpace/CommunityHub) | 510 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-01-04 | 1 | 4 | 0 |
 | [git-reads](https://github.com/HappyHackingSpace/git-reads) | 324 | 3 | 🚀 Active Development, 🛡️ Secure | 2025-12-14 | 1 | 2 | 8 |
+| [sindoq](https://github.com/HappyHackingSpace/sindoq) | 97 | 1 | 🚀 Active Development, 🛡️ Secure | 2026-01-08 | 1 | 1 | 9 |
 | [hacker-taboo-web](https://github.com/HappyHackingSpace/hacker-taboo-web) | 94 | 1 | 🚀 Active Development, 🛡️ Secure | 2025-12-14 | 0 | 0 | 3 |
-| [sindoq](https://github.com/HappyHackingSpace/sindoq) | 89 | 1 | 🚀 Active Development, 🛡️ Secure | 2026-01-08 | 0 | 1 | 8 |
 | [be-excellent-to-each-other](https://github.com/HappyHackingSpace/be-excellent-to-each-other) | 80 | 1 | 🛡️ Secure | 2025-12-14 | 0 | 0 | 0 |
 | [workable-spaces](https://github.com/HappyHackingSpace/workable-spaces) | 75 | 1 | 🛡️ Secure | N/A | 7 | 1 | 0 |
 | [Kurdish-Dataset](https://github.com/HappyHackingSpace/Kurdish-Dataset) | 53 | 1 | 🛡️ Secure | N/A | 5 | 1 | 1 |
@@ -33,6 +33,7 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | [recepgunes1](https://github.com/recepgunes1) | 112 | 2 | 🔀 PR Hero, 🐛 Issue Opener | 19 | 4 | 3 |
 | [baranylcn](https://github.com/baranylcn) | 6 | 1 | 🐛 Issue Opener | 0 | 3 | 0 |
 | [omarkurt](https://github.com/omarkurt) | 4 | 1 | 🐛 Issue Opener | 0 | 2 | 0 |
+| [myz21](https://github.com/myz21) | 3 | 1 | 🔀 PR Hero | 0 | 0 | 1 |
 | [ahsentekd](https://github.com/ahsentekd) | 3 | 1 | 🔀 PR Hero | 0 | 0 | 1 |
 | [ArjinAlbay](https://github.com/ArjinAlbay) | 2 | 1 | 🐛 Issue Opener | 0 | 1 | 0 |
 
