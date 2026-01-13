@@ -10,16 +10,16 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 <!-- PROJECTS_START -->
 | Project | XP | Level | Badges | Last Commit | Stars | Forks | Open Issues |
 |---------|-------|-------|--------|-------------|-------|-------|-------------|
-| [vt](https://github.com/HappyHackingSpace/vt) | 1375 | 4 | 🚀 Active Development, 🛡️ Secure | 2026-01-07 | 27 | 7 | 15 |
-| [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 653 | 3 | 🏆 Hot Project, 🛡️ Secure | N/A | 61 | 11 | 6 |
+| [vt](https://github.com/HappyHackingSpace/vt) | 1545 | 5 | 🚀 Active Development, 🛡️ Secure | 2026-01-12 | 28 | 7 | 15 |
+| [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 663 | 3 | 🏆 Hot Project, 🛡️ Secure | N/A | 62 | 11 | 6 |
 | [CommunityHub](https://github.com/HappyHackingSpace/CommunityHub) | 510 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-01-04 | 1 | 4 | 0 |
-| [git-reads](https://github.com/HappyHackingSpace/git-reads) | 244 | 2 | 🚀 Active Development, 🛡️ Secure | 2025-12-14 | 1 | 2 | 8 |
+| [git-reads](https://github.com/HappyHackingSpace/git-reads) | 164 | 2 | 🚀 Active Development, 🛡️ Secure | 2025-12-14 | 1 | 2 | 8 |
 | [sindoq](https://github.com/HappyHackingSpace/sindoq) | 107 | 2 | 🚀 Active Development, 🛡️ Secure | 2026-01-08 | 2 | 1 | 9 |
+| [ai-tools](https://github.com/HappyHackingSpace/ai-tools) | 85 | 1 | 🛡️ Secure | 2026-01-12 | 3 | 3 | 0 |
 | [workable-spaces](https://github.com/HappyHackingSpace/workable-spaces) | 75 | 1 | 🛡️ Secure | N/A | 7 | 1 | 0 |
 | [hacker-taboo-web](https://github.com/HappyHackingSpace/hacker-taboo-web) | 74 | 1 | 🛡️ Secure | 2025-12-14 | 0 | 0 | 3 |
 | [be-excellent-to-each-other](https://github.com/HappyHackingSpace/be-excellent-to-each-other) | 60 | 1 | 🛡️ Secure | 2025-12-14 | 0 | 0 | 0 |
 | [Kurdish-Dataset](https://github.com/HappyHackingSpace/Kurdish-Dataset) | 53 | 1 | 🛡️ Secure | N/A | 5 | 1 | 1 |
-| [githubmon](https://github.com/HappyHackingSpace/githubmon) | 49 | 1 | 🛡️ Secure | N/A | 4 | 5 | 8 |
 
 
 [...and more projects](https://github.com/HappyHackingSpace?tab=repositories)<!-- PROJECTS_END -->
@@ -28,13 +28,13 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 <!-- CONTRIBUTORS_START -->
 | Contributor | XP | Level | Badges | Commits | Issues | PRs |
 |-------------|-------|-------|--------|---------|--------|---------|
-| [dogancanbakir](https://github.com/dogancanbakir) | 241 | 2 | 🔀 PR Hero, 🐛 Issue Opener | 34 | 22 | 9 |
-| [HazarBakir](https://github.com/HazarBakir) | 190 | 2 | 🏆 Top Committer, 🔀 PR Hero | 35 | 0 | 5 |
-| [recepgunes1](https://github.com/recepgunes1) | 112 | 2 | 🔀 PR Hero, 🐛 Issue Opener | 19 | 4 | 3 |
-| [baranylcn](https://github.com/baranylcn) | 6 | 1 | 🐛 Issue Opener | 0 | 3 | 0 |
-| [ArjinAlbay](https://github.com/ArjinAlbay) | 4 | 1 | 🐛 Issue Opener | 0 | 2 | 0 |
+| [dogancanbakir](https://github.com/dogancanbakir) | 246 | 2 | 🏆 Top Committer, 🔀 PR Hero, 🐛 Issue Opener | 35 | 22 | 9 |
+| [HazarBakir](https://github.com/HazarBakir) | 172 | 2 | 🔀 PR Hero | 32 | 0 | 4 |
+| [recepgunes1](https://github.com/recepgunes1) | 122 | 2 | 🔀 PR Hero, 🐛 Issue Opener | 21 | 4 | 3 |
+| [ahsentekd](https://github.com/ahsentekd) | 28 | 1 | 🔀 PR Hero | 5 | 0 | 1 |
+| [baranylcn](https://github.com/baranylcn) | 16 | 1 | 🐛 Issue Opener | 2 | 3 | 0 |
 | [omarkurt](https://github.com/omarkurt) | 4 | 1 | 🐛 Issue Opener | 0 | 2 | 0 |
-| [ahsentekd](https://github.com/ahsentekd) | 3 | 1 | 🔀 PR Hero | 0 | 0 | 1 |
+| [ArjinAlbay](https://github.com/ArjinAlbay) | 4 | 1 | 🐛 Issue Opener | 0 | 2 | 0 |
 | [myz21](https://github.com/myz21) | 3 | 1 | 🔀 PR Hero | 0 | 0 | 1 |
 
 
