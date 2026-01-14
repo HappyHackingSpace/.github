@@ -13,13 +13,13 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | [vt](https://github.com/HappyHackingSpace/vt) | 1545 | 5 | 🚀 Active Development, 🛡️ Secure | 2026-01-12 | 28 | 7 | 15 |
 | [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 663 | 3 | 🏆 Hot Project, 🛡️ Secure | N/A | 62 | 11 | 6 |
 | [CommunityHub](https://github.com/HappyHackingSpace/CommunityHub) | 510 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-01-04 | 1 | 4 | 0 |
-| [git-reads](https://github.com/HappyHackingSpace/git-reads) | 164 | 2 | 🚀 Active Development, 🛡️ Secure | 2025-12-14 | 1 | 2 | 8 |
 | [sindoq](https://github.com/HappyHackingSpace/sindoq) | 107 | 2 | 🚀 Active Development, 🛡️ Secure | 2026-01-08 | 2 | 1 | 9 |
 | [ai-tools](https://github.com/HappyHackingSpace/ai-tools) | 85 | 1 | 🛡️ Secure | 2026-01-12 | 3 | 3 | 0 |
 | [workable-spaces](https://github.com/HappyHackingSpace/workable-spaces) | 75 | 1 | 🛡️ Secure | N/A | 7 | 1 | 0 |
-| [hacker-taboo-web](https://github.com/HappyHackingSpace/hacker-taboo-web) | 74 | 1 | 🛡️ Secure | 2025-12-14 | 0 | 0 | 3 |
-| [be-excellent-to-each-other](https://github.com/HappyHackingSpace/be-excellent-to-each-other) | 60 | 1 | 🛡️ Secure | 2025-12-14 | 0 | 0 | 0 |
 | [Kurdish-Dataset](https://github.com/HappyHackingSpace/Kurdish-Dataset) | 53 | 1 | 🛡️ Secure | N/A | 5 | 1 | 1 |
+| [githubmon](https://github.com/HappyHackingSpace/githubmon) | 49 | 1 | 🛡️ Secure | N/A | 4 | 5 | 8 |
+| [english-learning-resources](https://github.com/HappyHackingSpace/english-learning-resources) | 45 | 1 | 🛡️ Secure | N/A | 4 | 1 | 0 |
+| [privacy-policy-analyzer](https://github.com/HappyHackingSpace/privacy-policy-analyzer) | 44 | 1 | 🛡️ Secure | N/A | 4 | 2 | 3 |
 
 
 [...and more projects](https://github.com/HappyHackingSpace?tab=repositories)<!-- PROJECTS_END -->
@@ -28,8 +28,8 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 <!-- CONTRIBUTORS_START -->
 | Contributor | XP | Level | Badges | Commits | Issues | PRs |
 |-------------|-------|-------|--------|---------|--------|---------|
-| [dogancanbakir](https://github.com/dogancanbakir) | 246 | 2 | 🏆 Top Committer, 🔀 PR Hero, 🐛 Issue Opener | 35 | 22 | 9 |
-| [HazarBakir](https://github.com/HazarBakir) | 172 | 2 | 🔀 PR Hero | 32 | 0 | 4 |
+| [dogancanbakir](https://github.com/dogancanbakir) | 236 | 2 | 🏆 Top Committer, 🔀 PR Hero, 🐛 Issue Opener | 33 | 22 | 9 |
+| [HazarBakir](https://github.com/HazarBakir) | 129 | 2 | 🔀 PR Hero | 24 | 0 | 3 |
 | [recepgunes1](https://github.com/recepgunes1) | 122 | 2 | 🔀 PR Hero, 🐛 Issue Opener | 21 | 4 | 3 |
 | [ahsentekd](https://github.com/ahsentekd) | 28 | 1 | 🔀 PR Hero | 5 | 0 | 1 |
 | [baranylcn](https://github.com/baranylcn) | 16 | 1 | 🐛 Issue Opener | 2 | 3 | 0 |
