@@ -18,8 +18,8 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | [workable-spaces](https://github.com/HappyHackingSpace/workable-spaces) | 75 | 1 | 🛡️ Secure | N/A | 7 | 1 | 0 |
 | [Kurdish-Dataset](https://github.com/HappyHackingSpace/Kurdish-Dataset) | 53 | 1 | 🛡️ Secure | N/A | 5 | 1 | 1 |
 | [githubmon](https://github.com/HappyHackingSpace/githubmon) | 49 | 1 | 🛡️ Secure | N/A | 4 | 5 | 8 |
+| [privacy-policy-analyzer](https://github.com/HappyHackingSpace/privacy-policy-analyzer) | 47 | 1 | 🛡️ Secure | N/A | 4 | 3 | 4 |
 | [english-learning-resources](https://github.com/HappyHackingSpace/english-learning-resources) | 45 | 1 | 🛡️ Secure | N/A | 4 | 1 | 0 |
-| [privacy-policy-analyzer](https://github.com/HappyHackingSpace/privacy-policy-analyzer) | 44 | 1 | 🛡️ Secure | N/A | 4 | 2 | 3 |
 
 
 [...and more projects](https://github.com/HappyHackingSpace?tab=repositories)<!-- PROJECTS_END -->
@@ -33,9 +33,9 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | [recepgunes1](https://github.com/recepgunes1) | 122 | 2 | 🔀 PR Hero, 🐛 Issue Opener | 21 | 4 | 3 |
 | [ahsentekd](https://github.com/ahsentekd) | 28 | 1 | 🔀 PR Hero | 5 | 0 | 1 |
 | [baranylcn](https://github.com/baranylcn) | 16 | 1 | 🐛 Issue Opener | 2 | 3 | 0 |
+| [myz21](https://github.com/myz21) | 5 | 1 | 🔀 PR Hero, 🐛 Issue Opener | 0 | 1 | 1 |
 | [omarkurt](https://github.com/omarkurt) | 4 | 1 | 🐛 Issue Opener | 0 | 2 | 0 |
 | [ArjinAlbay](https://github.com/ArjinAlbay) | 4 | 1 | 🐛 Issue Opener | 0 | 2 | 0 |
-| [myz21](https://github.com/myz21) | 3 | 1 | 🔀 PR Hero | 0 | 0 | 1 |
 
 
 [...and more contributors](https://github.com/orgs/HappyHackingSpace/people)<!-- CONTRIBUTORS_END -->
