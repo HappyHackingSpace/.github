@@ -34,8 +34,8 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | [ahsentekd](https://github.com/ahsentekd) | 28 | 1 | 🔀 PR Hero | 5 | 0 | 1 |
 | [baranylcn](https://github.com/baranylcn) | 16 | 1 | 🐛 Issue Opener | 2 | 3 | 0 |
 | [myz21](https://github.com/myz21) | 5 | 1 | 🔀 PR Hero, 🐛 Issue Opener | 0 | 1 | 1 |
-| [omarkurt](https://github.com/omarkurt) | 4 | 1 | 🐛 Issue Opener | 0 | 2 | 0 |
 | [ArjinAlbay](https://github.com/ArjinAlbay) | 4 | 1 | 🐛 Issue Opener | 0 | 2 | 0 |
+| [omarkurt](https://github.com/omarkurt) | 4 | 1 | 🐛 Issue Opener | 0 | 2 | 0 |
 
 
 [...and more contributors](https://github.com/orgs/HappyHackingSpace/people)<!-- CONTRIBUTORS_END -->
