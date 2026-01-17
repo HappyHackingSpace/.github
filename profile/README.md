@@ -12,7 +12,7 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 |---------|-------|-------|--------|-------------|-------|-------|-------------|
 | [vt](https://github.com/HappyHackingSpace/vt) | 1545 | 5 | 🚀 Active Development, 🛡️ Secure | 2026-01-12 | 28 | 7 | 15 |
 | [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 663 | 3 | 🏆 Hot Project, 🛡️ Secure | N/A | 62 | 11 | 6 |
-| [CommunityHub](https://github.com/HappyHackingSpace/CommunityHub) | 510 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-01-04 | 1 | 4 | 0 |
+| [CommunityHub](https://github.com/HappyHackingSpace/CommunityHub) | 450 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-01-04 | 1 | 4 | 0 |
 | [sindoq](https://github.com/HappyHackingSpace/sindoq) | 107 | 2 | 🚀 Active Development, 🛡️ Secure | 2026-01-08 | 2 | 1 | 9 |
 | [ai-tools](https://github.com/HappyHackingSpace/ai-tools) | 85 | 1 | 🛡️ Secure | 2026-01-12 | 3 | 3 | 0 |
 | [workable-spaces](https://github.com/HappyHackingSpace/workable-spaces) | 75 | 1 | 🛡️ Secure | N/A | 7 | 1 | 0 |
@@ -29,13 +29,13 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | Contributor | XP | Level | Badges | Commits | Issues | PRs |
 |-------------|-------|-------|--------|---------|--------|---------|
 | [dogancanbakir](https://github.com/dogancanbakir) | 236 | 2 | 🏆 Top Committer, 🔀 PR Hero, 🐛 Issue Opener | 33 | 22 | 9 |
-| [HazarBakir](https://github.com/HazarBakir) | 129 | 2 | 🔀 PR Hero | 24 | 0 | 3 |
 | [recepgunes1](https://github.com/recepgunes1) | 122 | 2 | 🔀 PR Hero, 🐛 Issue Opener | 21 | 4 | 3 |
+| [HazarBakir](https://github.com/HazarBakir) | 114 | 2 | 🔀 PR Hero | 21 | 0 | 3 |
 | [ahsentekd](https://github.com/ahsentekd) | 28 | 1 | 🔀 PR Hero | 5 | 0 | 1 |
 | [baranylcn](https://github.com/baranylcn) | 16 | 1 | 🐛 Issue Opener | 2 | 3 | 0 |
 | [myz21](https://github.com/myz21) | 5 | 1 | 🔀 PR Hero, 🐛 Issue Opener | 0 | 1 | 1 |
-| [ArjinAlbay](https://github.com/ArjinAlbay) | 4 | 1 | 🐛 Issue Opener | 0 | 2 | 0 |
 | [omarkurt](https://github.com/omarkurt) | 4 | 1 | 🐛 Issue Opener | 0 | 2 | 0 |
+| [ArjinAlbay](https://github.com/ArjinAlbay) | 4 | 1 | 🐛 Issue Opener | 0 | 2 | 0 |
 
 
 [...and more contributors](https://github.com/orgs/HappyHackingSpace/people)<!-- CONTRIBUTORS_END -->
