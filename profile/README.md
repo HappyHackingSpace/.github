@@ -10,12 +10,12 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 <!-- PROJECTS_START -->
 | Project | XP | Level | Badges | Last Commit | Stars | Forks | Open Issues |
 |---------|-------|-------|--------|-------------|-------|-------|-------------|
-| [vt](https://github.com/HappyHackingSpace/vt) | 1539 | 5 | 🚀 Active Development, 🛡️ Secure | 2026-01-18 | 28 | 7 | 18 |
-| [gakido](https://github.com/HappyHackingSpace/gakido) | 1064 | 4 | 🚀 Active Development, 🛡️ Secure | 2026-01-21 | 6 | 0 | 8 |
+| [vt](https://github.com/HappyHackingSpace/vt) | 1544 | 5 | 🚀 Active Development, 🛡️ Secure | 2026-01-18 | 28 | 8 | 18 |
+| [gakido](https://github.com/HappyHackingSpace/gakido) | 1074 | 4 | 🚀 Active Development, 🛡️ Secure | 2026-01-21 | 7 | 0 | 8 |
 | [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 653 | 3 | 🏆 Hot Project, 🛡️ Secure | N/A | 61 | 11 | 6 |
-| [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 321 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-01-20 | 0 | 1 | 12 |
-| [CommunityHub](https://github.com/HappyHackingSpace/CommunityHub) | 210 | 2 | 🚀 Active Development, 🛡️ Secure | 2026-01-04 | 1 | 4 | 0 |
+| [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 317 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-01-20 | 0 | 1 | 14 |
 | [vt-site](https://github.com/HappyHackingSpace/vt-site) | 198 | 2 | 🚀 Active Development, 🛡️ Secure | 2026-01-20 | 0 | 0 | 1 |
+| [CommunityHub](https://github.com/HappyHackingSpace/CommunityHub) | 150 | 2 | 🚀 Active Development, 🛡️ Secure | 2026-01-04 | 1 | 4 | 0 |
 | [sindoq](https://github.com/HappyHackingSpace/sindoq) | 107 | 2 | 🚀 Active Development, 🛡️ Secure | 2026-01-08 | 2 | 1 | 9 |
 | [ai-tools](https://github.com/HappyHackingSpace/ai-tools) | 85 | 1 | 🛡️ Secure | 2026-01-12 | 3 | 3 | 0 |
 | [workable-spaces](https://github.com/HappyHackingSpace/workable-spaces) | 75 | 1 | 🛡️ Secure | N/A | 7 | 1 | 0 |
@@ -32,7 +32,7 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | [dogancanbakir](https://github.com/dogancanbakir) | 240 | 2 | 🔀 PR Hero, 🐛 Issue Opener | 34 | 20 | 10 |
 | [omarkurt](https://github.com/omarkurt) | 121 | 2 | 🔀 PR Hero, 🐛 Issue Opener | 22 | 1 | 3 |
 | [recepgunes1](https://github.com/recepgunes1) | 119 | 2 | 🔀 PR Hero, 🐛 Issue Opener | 20 | 5 | 3 |
-| [HazarBakir](https://github.com/HazarBakir) | 51 | 1 | 🔀 PR Hero | 9 | 0 | 2 |
+| [HazarBakir](https://github.com/HazarBakir) | 33 | 1 | 🔀 PR Hero | 6 | 0 | 1 |
 | [baranylcn](https://github.com/baranylcn) | 16 | 1 | 🐛 Issue Opener | 2 | 3 | 0 |
 | [actions-user](https://github.com/actions-user) | 10 | 1 | - | 2 | 0 | 0 |
 | [myz21](https://github.com/myz21) | 8 | 1 | 🔀 PR Hero, 🐛 Issue Opener | 0 | 1 | 2 |
