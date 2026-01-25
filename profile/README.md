@@ -11,7 +11,7 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | Project | XP | Level | Badges | Last Commit | Stars | Forks | Open Issues |
 |---------|-------|-------|--------|-------------|-------|-------|-------------|
 | [vt](https://github.com/HappyHackingSpace/vt) | 1544 | 5 | 🚀 Active Development, 🛡️ Secure | 2026-01-18 | 28 | 8 | 18 |
-| [gakido](https://github.com/HappyHackingSpace/gakido) | 1074 | 4 | 🚀 Active Development, 🛡️ Secure | 2026-01-21 | 7 | 0 | 8 |
+| [gakido](https://github.com/HappyHackingSpace/gakido) | 1084 | 4 | 🚀 Active Development, 🛡️ Secure | 2026-01-21 | 8 | 0 | 8 |
 | [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 653 | 3 | 🏆 Hot Project, 🛡️ Secure | N/A | 61 | 11 | 6 |
 | [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 315 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-01-20 | 0 | 1 | 15 |
 | [vt-site](https://github.com/HappyHackingSpace/vt-site) | 198 | 2 | 🚀 Active Development, 🛡️ Secure | 2026-01-20 | 0 | 0 | 1 |
@@ -36,7 +36,7 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | [actions-user](https://github.com/actions-user) | 10 | 1 | - | 2 | 0 | 0 |
 | [baranylcn](https://github.com/baranylcn) | 10 | 1 | - | 2 | 0 | 0 |
 | [myz21](https://github.com/myz21) | 8 | 1 | 🔀 PR Hero, 🐛 Issue Opener | 0 | 1 | 2 |
-| [ArjinAlbay](https://github.com/ArjinAlbay) | 6 | 1 | 🐛 Issue Opener | 0 | 3 | 0 |
+| [ArjinAlbay](https://github.com/ArjinAlbay) | 4 | 1 | 🐛 Issue Opener | 0 | 2 | 0 |
 
 
 [...and more contributors](https://github.com/orgs/HappyHackingSpace/people)<!-- CONTRIBUTORS_END -->
