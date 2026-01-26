@@ -10,8 +10,8 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 <!-- PROJECTS_START -->
 | Project | XP | Level | Badges | Last Commit | Stars | Forks | Open Issues |
 |---------|-------|-------|--------|-------------|-------|-------|-------------|
+| [gakido](https://github.com/HappyHackingSpace/gakido) | 1639 | 5 | 🚀 Active Development, 🛡️ Secure | 2026-01-25 | 9 | 1 | 8 |
 | [vt](https://github.com/HappyHackingSpace/vt) | 1544 | 5 | 🚀 Active Development, 🛡️ Secure | 2026-01-18 | 28 | 8 | 18 |
-| [gakido](https://github.com/HappyHackingSpace/gakido) | 1084 | 4 | 🚀 Active Development, 🛡️ Secure | 2026-01-21 | 8 | 0 | 8 |
 | [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 653 | 3 | 🏆 Hot Project, 🛡️ Secure | N/A | 61 | 11 | 6 |
 | [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 315 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-01-20 | 0 | 1 | 15 |
 | [vt-site](https://github.com/HappyHackingSpace/vt-site) | 198 | 2 | 🚀 Active Development, 🛡️ Secure | 2026-01-20 | 0 | 0 | 1 |
@@ -28,9 +28,9 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 <!-- CONTRIBUTORS_START -->
 | Contributor | XP | Level | Badges | Commits | Issues | PRs |
 |-------------|-------|-------|--------|---------|--------|---------|
-| [ahsentekd](https://github.com/ahsentekd) | 303 | 3 | 🏆 Top Committer, 🔀 PR Hero, 🐛 Issue Opener | 52 | 14 | 5 |
+| [ahsentekd](https://github.com/ahsentekd) | 447 | 3 | 🏆 Top Committer, 🔀 PR Hero, 🐛 Issue Opener | 79 | 14 | 8 |
 | [dogancanbakir](https://github.com/dogancanbakir) | 240 | 2 | 🔀 PR Hero, 🐛 Issue Opener | 34 | 20 | 10 |
-| [omarkurt](https://github.com/omarkurt) | 121 | 2 | 🔀 PR Hero, 🐛 Issue Opener | 22 | 1 | 3 |
+| [omarkurt](https://github.com/omarkurt) | 123 | 2 | 🔀 PR Hero, 🐛 Issue Opener | 22 | 2 | 3 |
 | [recepgunes1](https://github.com/recepgunes1) | 119 | 2 | 🔀 PR Hero, 🐛 Issue Opener | 20 | 5 | 3 |
 | [HazarBakir](https://github.com/HazarBakir) | 33 | 1 | 🔀 PR Hero | 6 | 0 | 1 |
 | [actions-user](https://github.com/actions-user) | 10 | 1 | - | 2 | 0 | 0 |
