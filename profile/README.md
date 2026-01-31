@@ -16,7 +16,7 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 321 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-01-20 | 1 | 1 | 17 |
 | [vt-site](https://github.com/HappyHackingSpace/vt-site) | 198 | 2 | 🚀 Active Development, 🛡️ Secure | 2026-01-20 | 0 | 0 | 1 |
 | [CommunityHub](https://github.com/HappyHackingSpace/CommunityHub) | 148 | 2 | 🚀 Active Development, 🛡️ Secure | 2026-01-04 | 1 | 4 | 1 |
-| [sindoq](https://github.com/HappyHackingSpace/sindoq) | 105 | 2 | 🚀 Active Development, 🛡️ Secure | 2026-01-08 | 2 | 1 | 10 |
+| [sindoq](https://github.com/HappyHackingSpace/sindoq) | 147 | 2 | 🚀 Active Development, 🛡️ Secure | 2026-01-30 | 2 | 1 | 9 |
 | [ai-tools](https://github.com/HappyHackingSpace/ai-tools) | 85 | 1 | 🛡️ Secure | 2026-01-12 | 3 | 3 | 0 |
 | [workable-spaces](https://github.com/HappyHackingSpace/workable-spaces) | 75 | 1 | 🛡️ Secure | N/A | 7 | 1 | 0 |
 | [LevelUp](https://github.com/HappyHackingSpace/LevelUp) | 71 | 1 | 🛡️ Secure | 2026-01-28 | 4 | 5 | 17 |
@@ -29,7 +29,7 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | Contributor | XP | Level | Badges | Commits | Issues | PRs |
 |-------------|-------|-------|--------|---------|--------|---------|
 | [ahsentekd](https://github.com/ahsentekd) | 520 | 3 | 🏆 Top Committer, 🔀 PR Hero, 🐛 Issue Opener | 93 | 14 | 9 |
-| [dogancanbakir](https://github.com/dogancanbakir) | 323 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 47 | 20 | 16 |
+| [dogancanbakir](https://github.com/dogancanbakir) | 328 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 48 | 20 | 16 |
 | [recepgunes1](https://github.com/recepgunes1) | 149 | 2 | 🔀 PR Hero, 🐛 Issue Opener | 25 | 6 | 4 |
 | [omarkurt](https://github.com/omarkurt) | 123 | 2 | 🔀 PR Hero, 🐛 Issue Opener | 22 | 2 | 3 |
 | [HazarBakir](https://github.com/HazarBakir) | 33 | 1 | 🔀 PR Hero | 6 | 0 | 1 |
