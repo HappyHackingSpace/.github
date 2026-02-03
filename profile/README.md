@@ -11,7 +11,7 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | Project | XP | Level | Badges | Last Commit | Stars | Forks | Open Issues |
 |---------|-------|-------|--------|-------------|-------|-------|-------------|
 | [gakido](https://github.com/HappyHackingSpace/gakido) | 2031 | 5 | 🚀 Active Development, 🛡️ Secure | 2026-01-28 | 9 | 1 | 2 |
-| [vt](https://github.com/HappyHackingSpace/vt) | 1694 | 5 | 🚀 Active Development, 🛡️ Secure | 2026-01-29 | 28 | 8 | 13 |
+| [vt](https://github.com/HappyHackingSpace/vt) | 1614 | 5 | 🚀 Active Development, 🛡️ Secure | 2026-01-29 | 28 | 8 | 13 |
 | [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 653 | 3 | 🏆 Hot Project, 🛡️ Secure | N/A | 61 | 11 | 6 |
 | [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 321 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-01-20 | 1 | 1 | 17 |
 | [vt-site](https://github.com/HappyHackingSpace/vt-site) | 198 | 2 | 🚀 Active Development, 🛡️ Secure | 2026-01-20 | 0 | 0 | 1 |
@@ -29,9 +29,9 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | Contributor | XP | Level | Badges | Commits | Issues | PRs |
 |-------------|-------|-------|--------|---------|--------|---------|
 | [ahsentekd](https://github.com/ahsentekd) | 520 | 3 | 🏆 Top Committer, 🔀 PR Hero, 🐛 Issue Opener | 93 | 14 | 9 |
-| [dogancanbakir](https://github.com/dogancanbakir) | 285 | 2 | 🔀 PR Hero, 🐛 Issue Opener | 40 | 20 | 15 |
-| [recepgunes1](https://github.com/recepgunes1) | 131 | 2 | 🔀 PR Hero, 🐛 Issue Opener | 22 | 6 | 3 |
+| [dogancanbakir](https://github.com/dogancanbakir) | 283 | 2 | 🔀 PR Hero, 🐛 Issue Opener | 40 | 19 | 15 |
 | [omarkurt](https://github.com/omarkurt) | 123 | 2 | 🔀 PR Hero, 🐛 Issue Opener | 22 | 2 | 3 |
+| [recepgunes1](https://github.com/recepgunes1) | 108 | 2 | 🔀 PR Hero, 🐛 Issue Opener | 18 | 6 | 2 |
 | [HazarBakir](https://github.com/HazarBakir) | 23 | 1 | 🔀 PR Hero | 4 | 0 | 1 |
 | [actions-user](https://github.com/actions-user) | 10 | 1 | - | 2 | 0 | 0 |
 | [baranylcn](https://github.com/baranylcn) | 10 | 1 | - | 2 | 0 | 0 |
