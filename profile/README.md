@@ -10,16 +10,16 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 <!-- PROJECTS_START -->
 | Project | XP | Level | Badges | Last Commit | Stars | Forks | Open Issues |
 |---------|-------|-------|--------|-------------|-------|-------|-------------|
-| [gakido](https://github.com/HappyHackingSpace/gakido) | 2133 | 5 | 🚀 Active Development, 🛡️ Secure | 2026-02-04 | 15 | 1 | 1 |
-| [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 969 | 4 | 🚀 Active Development, 🛡️ Secure | 2026-02-07 | 2 | 1 | 18 |
+| [gakido](https://github.com/HappyHackingSpace/gakido) | 2131 | 5 | 🚀 Active Development, 🛡️ Secure | 2026-02-04 | 15 | 1 | 2 |
+| [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 967 | 4 | 🚀 Active Development, 🛡️ Secure | 2026-02-07 | 2 | 1 | 19 |
 | [vt](https://github.com/HappyHackingSpace/vt) | 776 | 4 | 🚀 Active Development, 🛡️ Secure | 2026-01-29 | 31 | 8 | 17 |
 | [vt-site](https://github.com/HappyHackingSpace/vt-site) | 718 | 4 | 🚀 Active Development, 🛡️ Secure | 2026-02-07 | 2 | 0 | 1 |
 | [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 713 | 4 | 🏆 Hot Project, 🛡️ Secure | N/A | 67 | 11 | 6 |
-| [dit](https://github.com/HappyHackingSpace/dit) | 643 | 3 | 🚀 Active Development, 🧑‍💻 Welcoming Issues, 🛡️ Secure | 2026-02-09 | 8 | 3 | 16 |
-| [ai-tools](https://github.com/HappyHackingSpace/ai-tools) | 143 | 2 | 🛡️ Secure | 2026-02-07 | 5 | 3 | 1 |
+| [dit](https://github.com/HappyHackingSpace/dit) | 707 | 4 | 🚀 Active Development, 🧑‍💻 Welcoming Issues, 🛡️ Secure | 2026-02-10 | 8 | 3 | 14 |
+| [ai-tools](https://github.com/HappyHackingSpace/ai-tools) | 205 | 2 | 🚀 Active Development, 🛡️ Secure | 2026-02-10 | 5 | 3 | 0 |
 | [sindoq](https://github.com/HappyHackingSpace/sindoq) | 143 | 2 | 🚀 Active Development, 🛡️ Secure | 2026-02-06 | 5 | 1 | 6 |
-| [LevelUp](https://github.com/HappyHackingSpace/LevelUp) | 99 | 1 | 🛡️ Secure | 2026-01-28 | 7 | 5 | 18 |
-| [workable-spaces](https://github.com/HappyHackingSpace/workable-spaces) | 85 | 1 | 🛡️ Secure | N/A | 8 | 1 | 0 |
+| [metamaska](https://github.com/HappyHackingSpace/metamaska) | 120 | 2 | 🚀 Active Development, 🛡️ Secure | 2026-02-10 | 0 | 0 | 0 |
+| [LevelUp](https://github.com/HappyHackingSpace/LevelUp) | 97 | 1 | 🛡️ Secure | 2026-01-28 | 7 | 5 | 19 |
 
 
 [...and more projects](https://github.com/HappyHackingSpace?tab=repositories)<!-- PROJECTS_END -->
@@ -30,14 +30,13 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 |-------------|-------|-------|--------|---------|--------|---------|
 | [ahsentekd](https://github.com/ahsentekd) | 500 | 3 | 🏆 Top Committer, 🔀 PR Hero, 🐛 Issue Opener | 89 | 14 | 9 |
 | [omarkurt](https://github.com/omarkurt) | 414 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 67 | 8 | 21 |
-| [dogancanbakir](https://github.com/dogancanbakir) | 267 | 2 | 🔀 PR Hero, 🐛 Issue Opener | 43 | 11 | 10 |
-| [actions-user](https://github.com/actions-user) | 75 | 1 | - | 15 | 0 | 0 |
-| [recepgunes1](https://github.com/recepgunes1) | 59 | 1 | 🔀 PR Hero, 🐛 Issue Opener | 9 | 4 | 2 |
-| [github-actions[bot]](https://github.com/apps/github-actions) | 20 | 1 | - | 4 | 0 | 0 |
-| [baranylcn](https://github.com/baranylcn) | 16 | 1 | 🔀 PR Hero | 2 | 0 | 2 |
+| [dogancanbakir](https://github.com/dogancanbakir) | 302 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 50 | 11 | 10 |
+| [recepgunes1](https://github.com/recepgunes1) | 74 | 1 | 🔀 PR Hero, 🐛 Issue Opener | 12 | 4 | 2 |
+| [MuhammedSenn](https://github.com/MuhammedSenn) | 23 | 1 | 🔀 PR Hero | 4 | 0 | 1 |
+| [baranylcn](https://github.com/baranylcn) | 21 | 1 | 🔀 PR Hero | 3 | 0 | 2 |
 | [myz21](https://github.com/myz21) | 13 | 1 | 🔀 PR Hero, 🐛 Issue Opener | 1 | 1 | 2 |
-| [MuhammedSenn](https://github.com/MuhammedSenn) | 13 | 1 | 🔀 PR Hero | 2 | 0 | 1 |
 | [aditi-agrawal12](https://github.com/aditi-agrawal12) | 3 | 1 | 🔀 PR Hero | 0 | 0 | 1 |
+| [ArjinAlbay](https://github.com/ArjinAlbay) | 2 | 1 | 🐛 Issue Opener | 0 | 1 | 0 |
 
 
 [...and more contributors](https://github.com/orgs/HappyHackingSpace/people)<!-- CONTRIBUTORS_END -->
