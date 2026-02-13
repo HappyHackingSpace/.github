@@ -16,10 +16,10 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | [dit](https://github.com/HappyHackingSpace/dit) | 727 | 4 | 🚀 Active Development, 🧑‍💻 Welcoming Issues, 🛡️ Secure | 2026-02-10 | 10 | 3 | 14 |
 | [vt](https://github.com/HappyHackingSpace/vt) | 726 | 4 | 🚀 Active Development, 🛡️ Secure | 2026-01-29 | 32 | 8 | 17 |
 | [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 723 | 4 | 🏆 Hot Project, 🛡️ Secure | N/A | 68 | 11 | 6 |
-| [pirebok](https://github.com/HappyHackingSpace/pirebok) | 195 | 2 | 🚀 Active Development, 🛡️ Secure | 2026-02-11 | 3 | 1 | 0 |
+| [pirebok](https://github.com/HappyHackingSpace/pirebok) | 205 | 2 | 🚀 Active Development, 🛡️ Secure | 2026-02-11 | 4 | 1 | 0 |
 | [ai-tools](https://github.com/HappyHackingSpace/ai-tools) | 185 | 2 | 🚀 Active Development, 🛡️ Secure | 2026-02-10 | 7 | 3 | 0 |
 | [sindoq](https://github.com/HappyHackingSpace/sindoq) | 163 | 2 | 🚀 Active Development, 🛡️ Secure | 2026-02-06 | 7 | 1 | 6 |
-| [metamaska](https://github.com/HappyHackingSpace/metamaska) | 130 | 2 | 🚀 Active Development, 🛡️ Secure | 2026-02-10 | 1 | 0 | 0 |
+| [metamaska](https://github.com/HappyHackingSpace/metamaska) | 140 | 2 | 🚀 Active Development, 🛡️ Secure | 2026-02-10 | 2 | 0 | 0 |
 
 
 [...and more projects](https://github.com/HappyHackingSpace?tab=repositories)<!-- PROJECTS_END -->
