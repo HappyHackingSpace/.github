@@ -10,10 +10,10 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 <!-- PROJECTS_START -->
 | Project | XP | Level | Badges | Last Commit | Stars | Forks | Open Issues |
 |---------|-------|-------|--------|-------------|-------|-------|-------------|
-| [gakido](https://github.com/HappyHackingSpace/gakido) | 2151 | 5 | 🚀 Active Development, 🛡️ Secure | 2026-02-04 | 17 | 1 | 2 |
-| [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 1053 | 4 | 🚀 Active Development, 🛡️ Secure | 2026-02-13 | 3 | 1 | 21 |
-| [dit](https://github.com/HappyHackingSpace/dit) | 867 | 4 | 🚀 Active Development, 🧑‍💻 Welcoming Issues, 🛡️ Secure | 2026-02-13 | 10 | 3 | 14 |
-| [vt-site](https://github.com/HappyHackingSpace/vt-site) | 748 | 4 | 🚀 Active Development, 🛡️ Secure | 2026-02-13 | 3 | 0 | 1 |
+| [gakido](https://github.com/HappyHackingSpace/gakido) | 2161 | 5 | 🚀 Active Development, 🛡️ Secure | 2026-02-04 | 18 | 1 | 2 |
+| [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 1193 | 4 | 🚀 Active Development, 🛡️ Secure | 2026-02-14 | 3 | 1 | 21 |
+| [dit](https://github.com/HappyHackingSpace/dit) | 889 | 4 | 🚀 Active Development, 🧑‍💻 Welcoming Issues, 🛡️ Secure | 2026-02-14 | 10 | 3 | 13 |
+| [vt-site](https://github.com/HappyHackingSpace/vt-site) | 828 | 4 | 🚀 Active Development, 🛡️ Secure | 2026-02-14 | 3 | 0 | 1 |
 | [vt](https://github.com/HappyHackingSpace/vt) | 726 | 4 | 🚀 Active Development, 🛡️ Secure | 2026-01-29 | 32 | 8 | 17 |
 | [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 721 | 4 | 🏆 Hot Project, 🛡️ Secure | N/A | 68 | 11 | 7 |
 | [pirebok](https://github.com/HappyHackingSpace/pirebok) | 195 | 2 | 🚀 Active Development, 🛡️ Secure | 2026-02-11 | 3 | 1 | 0 |
@@ -29,7 +29,7 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | Contributor | XP | Level | Badges | Commits | Issues | PRs |
 |-------------|-------|-------|--------|---------|--------|---------|
 | [ahsentekd](https://github.com/ahsentekd) | 497 | 3 | 🏆 Top Committer, 🔀 PR Hero, 🐛 Issue Opener | 89 | 14 | 8 |
-| [omarkurt](https://github.com/omarkurt) | 432 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 70 | 8 | 22 |
+| [omarkurt](https://github.com/omarkurt) | 475 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 78 | 8 | 23 |
 | [dogancanbakir](https://github.com/dogancanbakir) | 332 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 56 | 11 | 10 |
 | [recepgunes1](https://github.com/recepgunes1) | 72 | 1 | 🔀 PR Hero, 🐛 Issue Opener | 11 | 4 | 3 |
 | [baranylcn](https://github.com/baranylcn) | 36 | 1 | 🔀 PR Hero | 6 | 0 | 2 |
@@ -37,7 +37,7 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | [myz21](https://github.com/myz21) | 11 | 1 | 🔀 PR Hero | 1 | 0 | 2 |
 | [gitbutler-client](https://github.com/gitbutler-client) | 5 | 1 | - | 1 | 0 | 0 |
 | [aditi-agrawal12](https://github.com/aditi-agrawal12) | 3 | 1 | 🔀 PR Hero | 0 | 0 | 1 |
-| [ArjinAlbay](https://github.com/ArjinAlbay) | 2 | 1 | 🐛 Issue Opener | 0 | 1 | 0 |
+| [venkat22022202](https://github.com/venkat22022202) | 2 | 1 | 🐛 Issue Opener | 0 | 1 | 0 |
 
 
 [...and more contributors](https://github.com/orgs/HappyHackingSpace/people)<!-- CONTRIBUTORS_END -->
