@@ -11,15 +11,15 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | Project | XP | Level | Badges | Last Commit | Stars | Forks | Open Issues |
 |---------|-------|-------|--------|-------------|-------|-------|-------------|
 | [gakido](https://github.com/HappyHackingSpace/gakido) | 2161 | 5 | 🚀 Active Development, 🛡️ Secure | 2026-02-04 | 18 | 1 | 2 |
-| [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 1193 | 4 | 🚀 Active Development, 🛡️ Secure | 2026-02-14 | 3 | 1 | 21 |
-| [dit](https://github.com/HappyHackingSpace/dit) | 889 | 4 | 🚀 Active Development, 🧑‍💻 Welcoming Issues, 🛡️ Secure | 2026-02-14 | 10 | 3 | 13 |
+| [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 1189 | 4 | 🚀 Active Development, 🛡️ Secure | 2026-02-14 | 3 | 1 | 23 |
+| [dit](https://github.com/HappyHackingSpace/dit) | 892 | 4 | 🚀 Active Development, 🧑‍💻 Welcoming Issues, 🛡️ Secure | 2026-02-14 | 10 | 4 | 14 |
 | [vt-site](https://github.com/HappyHackingSpace/vt-site) | 828 | 4 | 🚀 Active Development, 🛡️ Secure | 2026-02-14 | 3 | 0 | 1 |
 | [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 721 | 4 | 🏆 Hot Project, 🛡️ Secure | N/A | 68 | 11 | 7 |
 | [vt](https://github.com/HappyHackingSpace/vt) | 720 | 4 | 🚀 Active Development, 🛡️ Secure | 2026-01-29 | 32 | 8 | 20 |
-| [funURL](https://github.com/HappyHackingSpace/funURL) | 353 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-02-15 | 3 | 1 | 1 |
+| [funURL](https://github.com/HappyHackingSpace/funURL) | 351 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-02-15 | 3 | 1 | 2 |
 | [pirebok](https://github.com/HappyHackingSpace/pirebok) | 205 | 2 | 🚀 Active Development, 🛡️ Secure | 2026-02-11 | 4 | 1 | 0 |
 | [ai-tools](https://github.com/HappyHackingSpace/ai-tools) | 185 | 2 | 🚀 Active Development, 🛡️ Secure | 2026-02-10 | 7 | 3 | 0 |
-| [sindoq](https://github.com/HappyHackingSpace/sindoq) | 163 | 2 | 🚀 Active Development, 🛡️ Secure | 2026-02-06 | 7 | 1 | 6 |
+| [metamaska](https://github.com/HappyHackingSpace/metamaska) | 150 | 2 | 🚀 Active Development, 🛡️ Secure | 2026-02-10 | 3 | 0 | 0 |
 
 
 [...and more projects](https://github.com/HappyHackingSpace?tab=repositories)<!-- PROJECTS_END -->
@@ -29,15 +29,15 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | Contributor | XP | Level | Badges | Commits | Issues | PRs |
 |-------------|-------|-------|--------|---------|--------|---------|
 | [ahsentekd](https://github.com/ahsentekd) | 497 | 3 | 🏆 Top Committer, 🔀 PR Hero, 🐛 Issue Opener | 89 | 14 | 8 |
-| [omarkurt](https://github.com/omarkurt) | 475 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 78 | 8 | 23 |
+| [omarkurt](https://github.com/omarkurt) | 481 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 78 | 11 | 23 |
 | [dogancanbakir](https://github.com/dogancanbakir) | 347 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 59 | 11 | 10 |
 | [recepgunes1](https://github.com/recepgunes1) | 140 | 2 | 🔀 PR Hero, 🐛 Issue Opener | 24 | 4 | 4 |
 | [baranylcn](https://github.com/baranylcn) | 36 | 1 | 🔀 PR Hero | 6 | 0 | 2 |
 | [MuhammedSenn](https://github.com/MuhammedSenn) | 23 | 1 | 🔀 PR Hero | 4 | 0 | 1 |
-| [myz21](https://github.com/myz21) | 11 | 1 | 🔀 PR Hero | 1 | 0 | 2 |
+| [myz21](https://github.com/myz21) | 6 | 1 | 🔀 PR Hero | 0 | 0 | 2 |
 | [gitbutler-client](https://github.com/gitbutler-client) | 5 | 1 | - | 1 | 0 | 0 |
+| [ezyasin](https://github.com/ezyasin) | 3 | 1 | 🔀 PR Hero | 0 | 0 | 1 |
 | [aditi-agrawal12](https://github.com/aditi-agrawal12) | 3 | 1 | 🔀 PR Hero | 0 | 0 | 1 |
-| [ArjinAlbay](https://github.com/ArjinAlbay) | 2 | 1 | 🐛 Issue Opener | 0 | 1 | 0 |
 
 
 [...and more contributors](https://github.com/orgs/HappyHackingSpace/people)<!-- CONTRIBUTORS_END -->
