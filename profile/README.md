@@ -11,12 +11,12 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | Project | XP | Level | Badges | Last Commit | Stars | Forks | Open Issues |
 |---------|-------|-------|--------|-------------|-------|-------|-------------|
 | [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 1505 | 5 | 🚀 Active Development, 🛡️ Secure | 2026-02-20 | 3 | 1 | 5 |
-| [gakido](https://github.com/HappyHackingSpace/gakido) | 1139 | 4 | 🚀 Active Development, 🛡️ Secure | 2026-02-04 | 18 | 1 | 3 |
+| [gakido](https://github.com/HappyHackingSpace/gakido) | 1181 | 4 | 🚀 Active Development, 🛡️ Secure | 2026-02-21 | 18 | 1 | 2 |
 | [dit](https://github.com/HappyHackingSpace/dit) | 922 | 4 | 🚀 Active Development, 🧑‍💻 Welcoming Issues, 🛡️ Secure | 2026-02-20 | 11 | 4 | 14 |
 | [vt](https://github.com/HappyHackingSpace/vt) | 786 | 4 | 🚀 Active Development, 🛡️ Secure | 2026-02-19 | 33 | 8 | 22 |
 | [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 731 | 4 | 🏆 Hot Project, 🛡️ Secure | N/A | 69 | 11 | 7 |
 | [vt-site](https://github.com/HappyHackingSpace/vt-site) | 648 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-02-20 | 3 | 0 | 1 |
-| [funURL](https://github.com/HappyHackingSpace/funURL) | 353 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-02-15 | 4 | 1 | 6 |
+| [funURL](https://github.com/HappyHackingSpace/funURL) | 415 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-02-21 | 4 | 1 | 5 |
 | [pirebok](https://github.com/HappyHackingSpace/pirebok) | 215 | 2 | 🚀 Active Development, 🛡️ Secure | 2026-02-11 | 5 | 1 | 0 |
 | [ai-tools](https://github.com/HappyHackingSpace/ai-tools) | 195 | 2 | 🚀 Active Development, 🛡️ Secure | 2026-02-10 | 8 | 3 | 0 |
 | [metamaska](https://github.com/HappyHackingSpace/metamaska) | 150 | 2 | 🚀 Active Development, 🛡️ Secure | 2026-02-10 | 3 | 0 | 0 |
@@ -30,8 +30,8 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 |-------------|-------|-------|--------|---------|--------|---------|
 | [omarkurt](https://github.com/omarkurt) | 531 | 3 | 🏆 Top Committer, 🔀 PR Hero, 🐛 Issue Opener | 83 | 13 | 30 |
 | [dogancanbakir](https://github.com/dogancanbakir) | 346 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 60 | 11 | 8 |
-| [ahsentekd](https://github.com/ahsentekd) | 234 | 2 | 🔀 PR Hero | 42 | 0 | 8 |
-| [recepgunes1](https://github.com/recepgunes1) | 144 | 2 | 🔀 PR Hero, 🐛 Issue Opener | 23 | 7 | 5 |
+| [ahsentekd](https://github.com/ahsentekd) | 239 | 2 | 🔀 PR Hero | 43 | 0 | 8 |
+| [recepgunes1](https://github.com/recepgunes1) | 159 | 2 | 🔀 PR Hero, 🐛 Issue Opener | 26 | 7 | 5 |
 | [baranylcn](https://github.com/baranylcn) | 36 | 1 | 🔀 PR Hero | 6 | 0 | 2 |
 | [MuhammedSenn](https://github.com/MuhammedSenn) | 23 | 1 | 🔀 PR Hero | 4 | 0 | 1 |
 | [myz21](https://github.com/myz21) | 6 | 1 | 🔀 PR Hero | 0 | 0 | 2 |
