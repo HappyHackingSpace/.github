@@ -42,27 +42,5 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 
 [...and more contributors](https://github.com/orgs/HappyHackingSpace/people)<!-- CONTRIBUTORS_END -->
 
-## Join Us
-Become a part of this movement by joining us [here](https://discord.happyhacking.space)
-
-## Events
-Discover our upcoming events and activities by visiting our [Events Page](https://happyhacking.space/events).
-
-## Follow Us
-Stay updated with our latest activities and projects by following us on our social media channels:
-* [LinkedIn](https://www.linkedin.com/company/happyhackingspace)
-* [X / Twitter](https://x.com/happyhackings)
-* [Instagram](https://www.instagram.com/happyhackingspace)
-* [YouTube](https://www.youtube.com/@HappyHackingSpace)
-* [Bluesky](https://bsky.app/profile/happyhackingspace.bsky.social)
-* [Mastodon](https://mastodon.social/@happyhackingspace)
-* [Reddit](https://www.reddit.com/r/HappyHackingSpace/hot/)
-* [TikTok](https://www.tiktok.com/@happyhackingspace)
-* [Twitch](https://www.twitch.tv/happyhackingspace)
-* [Kick](https://kick.com/happyhackingspace)
-
-## Read Our Blog
-Explore our thoughts and insights on various topics by visiting our [Blog](https://happyhackingspace.blog).
-
-## Contact
-For any inquiries or further information, please reach out to us at [team@happyhacking.space](mailto:team@happyhacking.space).
+## Contact Us / Follow Us / Become Member
+Become a part of this movement by joining us [here](https://happyhacking.space/contact)
