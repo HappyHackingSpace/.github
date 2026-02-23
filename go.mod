@@ -1,6 +1,6 @@
 module tempproject
 
-go 1.24.2
+go 1.26
 
 require (
 	github.com/google/go-github/v73 v73.0.0
