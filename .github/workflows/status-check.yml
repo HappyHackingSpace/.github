@@ -33,6 +33,14 @@ jobs:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
           LOCK_DEVICE_ID: ${{ secrets.LOCK_DEVICE_ID }}
         run: ./check-status
+      - name: Commit door status to repo
+        run: |
+          mkdir -p scripts/.door_status_cache
+          cp .door_status_cache/last_status.json scripts/.door_status_cache/last_status.json
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add scripts/.door_status_cache/last_status.json
+          git diff --cached --quiet || git commit -m "chore: update door status [auto]" && git push
       - name: Save last status cache
         if: always()
         uses: actions/cache/save@v4
