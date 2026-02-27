@@ -47,7 +47,7 @@ type ContributorStats struct {
 
 var (
 	excludedProjects     = []string{".github", "CTFd", "site", "assets", "theme", "events", "banner", "workshops-cards", "workshops"}
-	excludedContributors = []string{"dependabot[bot]", "claude", "coderabbitai","actions-user","github-actions[bot]"}
+	excludedContributors = []string{"dependabot[bot]", "claude", "coderabbitai","actions-user","github-actions[bot]","gitbutler-client"}
 )
 
 func fetchOrgRepos(client *gh.Client, ctx context.Context, org string) ([]*gh.Repository, error) {
