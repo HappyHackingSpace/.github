@@ -10,16 +10,16 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 <!-- PROJECTS_START -->
 | Project | XP | Level | Badges | Last Commit | Stars | Forks | Open Issues |
 |---------|-------|-------|--------|-------------|-------|-------|-------------|
-| [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 2029 | 5 | 🚀 Active Development, 🛡️ Secure | 2026-03-14 | 4 | 1 | 8 |
+| [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 2067 | 5 | 🚀 Active Development, 🛡️ Secure | 2026-03-15 | 6 | 1 | 9 |
 | [vt](https://github.com/HappyHackingSpace/vt) | 1293 | 4 | 🚀 Active Development, 🛡️ Secure | 2026-03-13 | 35 | 9 | 21 |
-| [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 798 | 4 | 🏆 Hot Project, 🛡️ Secure | 2026-02-26 | 71 | 12 | 6 |
+| [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 808 | 4 | 🏆 Hot Project, 🛡️ Secure | 2026-02-26 | 72 | 12 | 6 |
+| [funURL](https://github.com/HappyHackingSpace/funURL) | 551 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-03-13 | 5 | 1 | 2 |
 | [dit](https://github.com/HappyHackingSpace/dit) | 547 | 3 | 🚀 Active Development, 🧑‍💻 Welcoming Issues, 🛡️ Secure | 2026-03-13 | 12 | 3 | 14 |
-| [funURL](https://github.com/HappyHackingSpace/funURL) | 541 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-03-13 | 4 | 1 | 2 |
-| [vt-site](https://github.com/HappyHackingSpace/vt-site) | 495 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-03-02 | 3 | 1 | 0 |
+| [vt-site](https://github.com/HappyHackingSpace/vt-site) | 505 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-03-02 | 4 | 1 | 0 |
 | [gakido](https://github.com/HappyHackingSpace/gakido) | 217 | 2 | 🛡️ Secure | 2026-02-21 | 20 | 1 | 4 |
-| [scorecard](https://github.com/HappyHackingSpace/scorecard) | 206 | 2 | 🚀 Active Development, 🛡️ Secure | 2026-03-04 | 1 | 0 | 2 |
+| [scorecard](https://github.com/HappyHackingSpace/scorecard) | 216 | 2 | 🚀 Active Development, 🛡️ Secure | 2026-03-04 | 2 | 0 | 2 |
 | [sindoq](https://github.com/HappyHackingSpace/sindoq) | 191 | 2 | 🚀 Active Development, 🛡️ Secure | 2026-03-06 | 10 | 1 | 7 |
-| [githubmon](https://github.com/HappyHackingSpace/githubmon) | 177 | 2 | 🚀 Active Development, 🛡️ Secure | 2026-02-27 | 7 | 5 | 9 |
+| [gitbaz](https://github.com/HappyHackingSpace/gitbaz) | 186 | 2 | 🚀 Active Development, 🛡️ Secure | 2026-03-11 | 3 | 0 | 2 |
 
 
 [...and more projects](https://github.com/HappyHackingSpace?tab=repositories)<!-- PROJECTS_END -->
@@ -35,8 +35,8 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | [ezyasin](https://github.com/ezyasin) | 48 | 1 | 🔀 PR Hero | 9 | 0 | 1 |
 | [baranylcn](https://github.com/baranylcn) | 28 | 1 | 🔀 PR Hero | 5 | 0 | 1 |
 | [Sidilya-Gunes](https://github.com/Sidilya-Gunes) | 10 | 1 | 🔀 PR Hero, 🐛 Issue Opener | 1 | 1 | 1 |
-| [ahsentekd](https://github.com/ahsentekd) | 5 | 1 | - | 1 | 0 | 0 |
 | [LeafdTK](https://github.com/LeafdTK) | 5 | 1 | - | 1 | 0 | 0 |
+| [ahsentekd](https://github.com/ahsentekd) | 5 | 1 | - | 1 | 0 | 0 |
 | [myz21](https://github.com/myz21) | 3 | 1 | 🔀 PR Hero | 0 | 0 | 1 |
 
 
