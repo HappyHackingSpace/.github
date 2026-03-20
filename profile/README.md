@@ -10,7 +10,7 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 <!-- PROJECTS_START -->
 | Project | XP | Level | Badges | Last Commit | Stars | Forks | Open Issues |
 |---------|-------|-------|--------|-------------|-------|-------|-------------|
-| [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 1797 | 5 | 🚀 Active Development, 🛡️ Secure | 2026-03-19 | 6 | 1 | 14 |
+| [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 1817 | 5 | 🚀 Active Development, 🛡️ Secure | 2026-03-20 | 6 | 1 | 14 |
 | [vt](https://github.com/HappyHackingSpace/vt) | 1281 | 4 | 🚀 Active Development, 🛡️ Secure | 2026-03-13 | 36 | 9 | 22 |
 | [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 818 | 4 | 🏆 Hot Project, 🛡️ Secure | 2026-02-26 | 73 | 12 | 6 |
 | [dit](https://github.com/HappyHackingSpace/dit) | 427 | 3 | 🚀 Active Development, 🧑‍💻 Welcoming Issues, 🛡️ Secure | 2026-03-13 | 12 | 3 | 14 |
@@ -34,9 +34,9 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | [ArjinAlbay](https://github.com/ArjinAlbay) | 66 | 1 | 🔀 PR Hero, 🐛 Issue Opener | 8 | 1 | 8 |
 | [ezyasin](https://github.com/ezyasin) | 43 | 1 | 🔀 PR Hero | 8 | 0 | 1 |
 | [baranylcn](https://github.com/baranylcn) | 20 | 1 | - | 4 | 0 | 0 |
+| [myz21](https://github.com/myz21) | 15 | 1 | 🔀 PR Hero, 🐛 Issue Opener | 0 | 6 | 1 |
 | [Sidilya-Gunes](https://github.com/Sidilya-Gunes) | 10 | 1 | 🔀 PR Hero, 🐛 Issue Opener | 1 | 1 | 1 |
 | [ahsentekd](https://github.com/ahsentekd) | 5 | 1 | - | 1 | 0 | 0 |
-| [myz21](https://github.com/myz21) | 3 | 1 | 🔀 PR Hero | 0 | 0 | 1 |
 | [aditi-agrawal12](https://github.com/aditi-agrawal12) | 3 | 1 | 🔀 PR Hero | 0 | 0 | 1 |
 
 
