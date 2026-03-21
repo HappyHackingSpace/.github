@@ -10,10 +10,10 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 <!-- PROJECTS_START -->
 | Project | XP | Level | Badges | Last Commit | Stars | Forks | Open Issues |
 |---------|-------|-------|--------|-------------|-------|-------|-------------|
-| [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 1817 | 5 | 🚀 Active Development, 🛡️ Secure | 2026-03-20 | 6 | 1 | 14 |
+| [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 1837 | 5 | 🚀 Active Development, 🛡️ Secure | 2026-03-21 | 6 | 1 | 14 |
 | [vt](https://github.com/HappyHackingSpace/vt) | 1281 | 4 | 🚀 Active Development, 🛡️ Secure | 2026-03-13 | 36 | 9 | 22 |
 | [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 818 | 4 | 🏆 Hot Project, 🛡️ Secure | 2026-02-26 | 73 | 12 | 6 |
-| [dit](https://github.com/HappyHackingSpace/dit) | 427 | 3 | 🚀 Active Development, 🧑‍💻 Welcoming Issues, 🛡️ Secure | 2026-03-13 | 12 | 3 | 14 |
+| [dit](https://github.com/HappyHackingSpace/dit) | 447 | 3 | 🚀 Active Development, 🧑‍💻 Welcoming Issues, 🛡️ Secure | 2026-03-20 | 12 | 3 | 14 |
 | [vt-site](https://github.com/HappyHackingSpace/vt-site) | 405 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-03-02 | 4 | 1 | 0 |
 | [funURL](https://github.com/HappyHackingSpace/funURL) | 231 | 2 | 🚀 Active Development, 🛡️ Secure | 2026-03-13 | 5 | 1 | 2 |
 | [scorecard](https://github.com/HappyHackingSpace/scorecard) | 216 | 2 | 🚀 Active Development, 🛡️ Secure | 2026-03-04 | 2 | 0 | 2 |
@@ -30,7 +30,7 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 |-------------|-------|-------|--------|---------|--------|---------|
 | [omarkurt](https://github.com/omarkurt) | 469 | 3 | 🏆 Top Committer, 🔀 PR Hero, 🐛 Issue Opener | 75 | 5 | 28 |
 | [dogancanbakir](https://github.com/dogancanbakir) | 236 | 2 | 🔀 PR Hero, 🐛 Issue Opener | 42 | 4 | 6 |
-| [recepgunes1](https://github.com/recepgunes1) | 199 | 2 | 🔀 PR Hero, 🐛 Issue Opener | 30 | 5 | 13 |
+| [recepgunes1](https://github.com/recepgunes1) | 191 | 2 | 🔀 PR Hero, 🐛 Issue Opener | 30 | 1 | 13 |
 | [ArjinAlbay](https://github.com/ArjinAlbay) | 66 | 1 | 🔀 PR Hero, 🐛 Issue Opener | 8 | 1 | 8 |
 | [ezyasin](https://github.com/ezyasin) | 43 | 1 | 🔀 PR Hero | 8 | 0 | 1 |
 | [baranylcn](https://github.com/baranylcn) | 20 | 1 | - | 4 | 0 | 0 |
