@@ -11,15 +11,15 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | Project | XP | Level | Badges | Last Commit | Stars | Forks | Open Issues |
 |---------|-------|-------|--------|-------------|-------|-------|-------------|
 | [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 845 | 4 | 🏆 Hot Project, 🛡️ Secure | 2026-04-04 | 73 | 13 | 5 |
-| [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 693 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-04-09 | 6 | 1 | 26 |
 | [vt](https://github.com/HappyHackingSpace/vt) | 665 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-03-13 | 39 | 9 | 25 |
+| [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 613 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-04-10 | 6 | 1 | 26 |
 | [dit](https://github.com/HappyHackingSpace/dit) | 334 | 3 | 🚀 Active Development, 🧑‍💻 Welcoming Issues, 🛡️ Secure | 2026-04-03 | 14 | 4 | 13 |
 | [gakido](https://github.com/HappyHackingSpace/gakido) | 197 | 2 | 🛡️ Secure | N/A | 21 | 1 | 9 |
 | [funURL](https://github.com/HappyHackingSpace/funURL) | 171 | 2 | 🚀 Active Development, 🛡️ Secure | 2026-03-13 | 5 | 1 | 2 |
-| [CommunityHub](https://github.com/HappyHackingSpace/CommunityHub) | 124 | 2 | 🛡️ Secure | 2026-03-26 | 3 | 4 | 3 |
 | [privacy-policy-analyzer](https://github.com/HappyHackingSpace/privacy-policy-analyzer) | 113 | 2 | 🛡️ Secure | 2026-03-21 | 5 | 3 | 16 |
 | [sql-translator-llama3](https://github.com/HappyHackingSpace/sql-translator-llama3) | 110 | 2 | 🛡️ Secure | 2026-03-14 | 3 | 0 | 0 |
 | [ai-tools](https://github.com/HappyHackingSpace/ai-tools) | 95 | 1 | 🛡️ Secure | N/A | 8 | 3 | 0 |
+| [sindoq](https://github.com/HappyHackingSpace/sindoq) | 89 | 1 | 🛡️ Secure | N/A | 10 | 1 | 8 |
 
 
 [...and more projects](https://github.com/HappyHackingSpace?tab=repositories)<!-- PROJECTS_END -->
@@ -29,14 +29,13 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | Contributor | XP | Level | Badges | Commits | Issues | PRs |
 |-------------|-------|-------|--------|---------|--------|---------|
 | [recepgunes1](https://github.com/recepgunes1) | 109 | 2 | 🏆 Top Committer, 🔀 PR Hero | 17 | 0 | 8 |
-| [dogancanbakir](https://github.com/dogancanbakir) | 51 | 1 | 🔀 PR Hero | 9 | 0 | 2 |
+| [dogancanbakir](https://github.com/dogancanbakir) | 46 | 1 | 🔀 PR Hero | 8 | 0 | 2 |
 | [baranylcn](https://github.com/baranylcn) | 45 | 1 | - | 9 | 0 | 0 |
-| [ArjinAlbay](https://github.com/ArjinAlbay) | 32 | 1 | 🐛 Issue Opener | 6 | 1 | 0 |
-| [omarkurt](https://github.com/omarkurt) | 18 | 1 | 🔀 PR Hero | 3 | 0 | 1 |
+| [ArjinAlbay](https://github.com/ArjinAlbay) | 22 | 1 | 🐛 Issue Opener | 4 | 1 | 0 |
 | [bucksh0tdev](https://github.com/bucksh0tdev) | 13 | 1 | 🔀 PR Hero | 2 | 0 | 1 |
 | [myz21](https://github.com/myz21) | 12 | 1 | 🐛 Issue Opener | 0 | 6 | 0 |
-| [MuhammedSenn](https://github.com/MuhammedSenn) | 8 | 1 | 🔀 PR Hero | 1 | 0 | 1 |
 | [luizmlo](https://github.com/luizmlo) | 8 | 1 | 🔀 PR Hero | 1 | 0 | 1 |
+| [MuhammedSenn](https://github.com/MuhammedSenn) | 8 | 1 | 🔀 PR Hero | 1 | 0 | 1 |
 
 
 [...and more contributors](https://github.com/orgs/HappyHackingSpace/people)<!-- CONTRIBUTORS_END -->
