@@ -12,8 +12,8 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 |---------|-------|-------|--------|-------------|-------|-------|-------------|
 | [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 845 | 4 | 🏆 Hot Project, 🛡️ Secure | 2026-04-04 | 73 | 13 | 5 |
 | [vt](https://github.com/HappyHackingSpace/vt) | 665 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-03-13 | 39 | 9 | 25 |
-| [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 613 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-04-10 | 6 | 1 | 26 |
-| [dit](https://github.com/HappyHackingSpace/dit) | 334 | 3 | 🚀 Active Development, 🧑‍💻 Welcoming Issues, 🛡️ Secure | 2026-04-03 | 14 | 4 | 13 |
+| [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 613 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-04-11 | 6 | 1 | 26 |
+| [dit](https://github.com/HappyHackingSpace/dit) | 354 | 3 | 🚀 Active Development, 🧑‍💻 Welcoming Issues, 🛡️ Secure | 2026-04-10 | 14 | 4 | 13 |
 | [gakido](https://github.com/HappyHackingSpace/gakido) | 197 | 2 | 🛡️ Secure | N/A | 21 | 1 | 9 |
 | [funURL](https://github.com/HappyHackingSpace/funURL) | 171 | 2 | 🚀 Active Development, 🛡️ Secure | 2026-03-13 | 5 | 1 | 2 |
 | [privacy-policy-analyzer](https://github.com/HappyHackingSpace/privacy-policy-analyzer) | 113 | 2 | 🛡️ Secure | 2026-03-21 | 5 | 3 | 16 |
