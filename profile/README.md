@@ -11,7 +11,7 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | Project | XP | Level | Badges | Last Commit | Stars | Forks | Open Issues |
 |---------|-------|-------|--------|-------------|-------|-------|-------------|
 | [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 865 | 4 | 🏆 Hot Project, 🛡️ Secure | 2026-04-04 | 75 | 13 | 5 |
-| [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 613 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-04-14 | 6 | 1 | 26 |
+| [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 613 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-04-15 | 6 | 1 | 26 |
 | [vt](https://github.com/HappyHackingSpace/vt) | 385 | 3 | 🛡️ Secure | N/A | 39 | 9 | 25 |
 | [dit](https://github.com/HappyHackingSpace/dit) | 334 | 3 | 🚀 Active Development, 🧑‍💻 Welcoming Issues, 🛡️ Secure | 2026-04-10 | 14 | 4 | 13 |
 | [gakido](https://github.com/HappyHackingSpace/gakido) | 191 | 2 | 🛡️ Secure | N/A | 21 | 1 | 12 |
@@ -28,10 +28,10 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 <!-- CONTRIBUTORS_START -->
 | Contributor | XP | Level | Badges | Commits | Issues | PRs |
 |-------------|-------|-------|--------|---------|--------|---------|
-| [dogancanbakir](https://github.com/dogancanbakir) | 36 | 1 | 🏆 Top Committer, 🔀 PR Hero | 6 | 0 | 2 |
+| [dogancanbakir](https://github.com/dogancanbakir) | 33 | 1 | 🏆 Top Committer, 🔀 PR Hero | 6 | 0 | 1 |
 | [baranylcn](https://github.com/baranylcn) | 25 | 1 | - | 5 | 0 | 0 |
-| [ArjinAlbay](https://github.com/ArjinAlbay) | 20 | 1 | - | 4 | 0 | 0 |
-| [bucksh0tdev](https://github.com/bucksh0tdev) | 13 | 1 | 🔀 PR Hero | 2 | 0 | 1 |
+| [ArjinAlbay](https://github.com/ArjinAlbay) | 15 | 1 | - | 3 | 0 | 0 |
+| [kilicdev](https://github.com/kilicdev) | 13 | 1 | 🔀 PR Hero | 2 | 0 | 1 |
 | [myz21](https://github.com/myz21) | 12 | 1 | 🐛 Issue Opener | 0 | 6 | 0 |
 | [luizmlo](https://github.com/luizmlo) | 8 | 1 | 🔀 PR Hero | 1 | 0 | 1 |
 | [MuhammedSenn](https://github.com/MuhammedSenn) | 8 | 1 | 🔀 PR Hero | 1 | 0 | 1 |
