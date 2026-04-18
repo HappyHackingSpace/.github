@@ -11,14 +11,14 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | Project | XP | Level | Badges | Last Commit | Stars | Forks | Open Issues |
 |---------|-------|-------|--------|-------------|-------|-------|-------------|
 | [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 865 | 4 | 🏆 Hot Project, 🛡️ Secure | 2026-04-04 | 75 | 13 | 5 |
-| [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 607 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-04-17 | 6 | 1 | 29 |
+| [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 607 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-04-18 | 6 | 1 | 29 |
 | [vt](https://github.com/HappyHackingSpace/vt) | 385 | 3 | 🛡️ Secure | N/A | 39 | 9 | 25 |
-| [dit](https://github.com/HappyHackingSpace/dit) | 344 | 3 | 🚀 Active Development, 🧑‍💻 Welcoming Issues, 🛡️ Secure | 2026-04-10 | 15 | 4 | 13 |
+| [dit](https://github.com/HappyHackingSpace/dit) | 364 | 3 | 🚀 Active Development, 🧑‍💻 Welcoming Issues, 🛡️ Secure | 2026-04-17 | 15 | 4 | 13 |
 | [gakido](https://github.com/HappyHackingSpace/gakido) | 191 | 2 | 🛡️ Secure | N/A | 21 | 1 | 12 |
-| [ai-tools](https://github.com/HappyHackingSpace/ai-tools) | 95 | 1 | 🛡️ Secure | N/A | 8 | 3 | 0 |
+| [ai-tools](https://github.com/HappyHackingSpace/ai-tools) | 105 | 2 | 🛡️ Secure | N/A | 9 | 3 | 0 |
+| [workable-spaces](https://github.com/HappyHackingSpace/workable-spaces) | 95 | 1 | 🛡️ Secure | N/A | 9 | 1 | 0 |
 | [privacy-policy-analyzer](https://github.com/HappyHackingSpace/privacy-policy-analyzer) | 89 | 1 | 🛡️ Secure | 2026-03-21 | 5 | 3 | 18 |
 | [sindoq](https://github.com/HappyHackingSpace/sindoq) | 87 | 1 | 🛡️ Secure | N/A | 10 | 1 | 9 |
-| [workable-spaces](https://github.com/HappyHackingSpace/workable-spaces) | 85 | 1 | 🛡️ Secure | N/A | 8 | 1 | 0 |
 | [CommunityHub](https://github.com/HappyHackingSpace/CommunityHub) | 80 | 1 | 🛡️ Secure | 2026-03-26 | 3 | 4 | 5 |
 
 
