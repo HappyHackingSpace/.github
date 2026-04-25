@@ -11,14 +11,14 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | Project | XP | Level | Badges | Last Commit | Stars | Forks | Open Issues |
 |---------|-------|-------|--------|-------------|-------|-------|-------------|
 | [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 875 | 4 | 🏆 Hot Project, 🛡️ Secure | 2026-04-04 | 76 | 13 | 5 |
-| [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 605 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-04-24 | 6 | 1 | 30 |
+| [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 605 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-04-25 | 6 | 1 | 30 |
 | [vt](https://github.com/HappyHackingSpace/vt) | 467 | 3 | 🛡️ Secure | 2026-04-21 | 39 | 9 | 24 |
 | [dit](https://github.com/HappyHackingSpace/dit) | 264 | 2 | 🚀 Active Development, 🧑‍💻 Welcoming Issues, 🛡️ Secure | 2026-04-17 | 15 | 4 | 13 |
 | [gakido](https://github.com/HappyHackingSpace/gakido) | 191 | 2 | 🛡️ Secure | N/A | 21 | 1 | 12 |
 | [ai-tools](https://github.com/HappyHackingSpace/ai-tools) | 105 | 2 | 🛡️ Secure | N/A | 9 | 3 | 0 |
 | [workable-spaces](https://github.com/HappyHackingSpace/workable-spaces) | 95 | 1 | 🛡️ Secure | N/A | 9 | 1 | 0 |
 | [witness](https://github.com/HappyHackingSpace/witness) | 92 | 1 | 🚀 Active Development, 🛡️ Secure | 2026-04-20 | 1 | 0 | 9 |
-| [sindoq](https://github.com/HappyHackingSpace/sindoq) | 87 | 1 | 🛡️ Secure | N/A | 10 | 1 | 9 |
+| [sindoq](https://github.com/HappyHackingSpace/sindoq) | 85 | 1 | 🛡️ Secure | N/A | 10 | 1 | 10 |
 | [githubmon](https://github.com/HappyHackingSpace/githubmon) | 77 | 1 | 🛡️ Secure | N/A | 7 | 5 | 9 |
 
 
