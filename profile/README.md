@@ -10,16 +10,16 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 <!-- PROJECTS_START -->
 | Project | XP | Level | Badges | Last Commit | Stars | Forks | Open Issues |
 |---------|-------|-------|--------|-------------|-------|-------|-------------|
-| [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 875 | 4 | 🏆 Hot Project, 🛡️ Secure | 2026-04-04 | 76 | 13 | 5 |
-| [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 605 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-04-26 | 6 | 1 | 30 |
+| [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 873 | 4 | 🏆 Hot Project, 🛡️ Secure | 2026-04-04 | 76 | 13 | 6 |
+| [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 605 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-04-27 | 6 | 1 | 30 |
 | [vt](https://github.com/HappyHackingSpace/vt) | 487 | 3 | 🛡️ Secure | 2026-04-21 | 41 | 9 | 24 |
-| [dit](https://github.com/HappyHackingSpace/dit) | 264 | 2 | 🚀 Active Development, 🧑‍💻 Welcoming Issues, 🛡️ Secure | 2026-04-17 | 15 | 4 | 13 |
+| [dit](https://github.com/HappyHackingSpace/dit) | 244 | 2 | 🚀 Active Development, 🧑‍💻 Welcoming Issues, 🛡️ Secure | 2026-04-17 | 15 | 4 | 13 |
 | [gakido](https://github.com/HappyHackingSpace/gakido) | 199 | 2 | 🛡️ Secure | N/A | 22 | 1 | 13 |
 | [ai-tools](https://github.com/HappyHackingSpace/ai-tools) | 105 | 2 | 🛡️ Secure | N/A | 9 | 3 | 0 |
 | [workable-spaces](https://github.com/HappyHackingSpace/workable-spaces) | 95 | 1 | 🛡️ Secure | N/A | 9 | 1 | 0 |
 | [witness](https://github.com/HappyHackingSpace/witness) | 92 | 1 | 🚀 Active Development, 🛡️ Secure | 2026-04-20 | 1 | 0 | 9 |
 | [sindoq](https://github.com/HappyHackingSpace/sindoq) | 85 | 1 | 🛡️ Secure | N/A | 10 | 1 | 10 |
-| [githubmon](https://github.com/HappyHackingSpace/githubmon) | 77 | 1 | 🛡️ Secure | N/A | 7 | 5 | 9 |
+| [english-learning-resources](https://github.com/HappyHackingSpace/english-learning-resources) | 85 | 1 | 🛡️ Secure | N/A | 8 | 1 | 0 |
 
 
 [...and more projects](https://github.com/HappyHackingSpace?tab=repositories)<!-- PROJECTS_END -->
@@ -31,7 +31,6 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | [recepgunes1](https://github.com/recepgunes1) | 26 | 1 | 🏆 Top Committer, 🔀 PR Hero | 4 | 0 | 2 |
 | [dogancanbakir](https://github.com/dogancanbakir) | 10 | 1 | - | 2 | 0 | 0 |
 | [luizmlo](https://github.com/luizmlo) | 8 | 1 | 🔀 PR Hero | 1 | 0 | 1 |
-| [ArjinAlbay](https://github.com/ArjinAlbay) | 5 | 1 | - | 1 | 0 | 0 |
 | [kilicdev](https://github.com/kilicdev) | 3 | 1 | 🔀 PR Hero | 0 | 0 | 1 |
 
 
