@@ -12,9 +12,9 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 |---------|-------|-------|--------|-------------|-------|-------|-------------|
 | [gakido](https://github.com/HappyHackingSpace/gakido) | 951 | 4 | 🚀 Active Development, 🛡️ Secure | 2026-05-02 | 22 | 1 | 7 |
 | [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 856 | 4 | 🏆 Hot Project, 🛡️ Secure | 2026-04-04 | 76 | 14 | 7 |
-| [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 605 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-05-03 | 6 | 1 | 30 |
-| [vt](https://github.com/HappyHackingSpace/vt) | 487 | 3 | 🛡️ Secure | 2026-04-21 | 41 | 9 | 24 |
-| [dit](https://github.com/HappyHackingSpace/dit) | 244 | 2 | 🚀 Active Development, 🧑‍💻 Welcoming Issues, 🛡️ Secure | 2026-05-01 | 15 | 4 | 13 |
+| [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 605 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-05-04 | 6 | 1 | 30 |
+| [vt](https://github.com/HappyHackingSpace/vt) | 497 | 3 | 🛡️ Secure | 2026-04-21 | 42 | 9 | 24 |
+| [dit](https://github.com/HappyHackingSpace/dit) | 214 | 2 | 🧑‍💻 Welcoming Issues, 🛡️ Secure | 2026-05-01 | 16 | 4 | 13 |
 | [witness](https://github.com/HappyHackingSpace/witness) | 112 | 2 | 🚀 Active Development, 🛡️ Secure | 2026-04-27 | 1 | 0 | 9 |
 | [ai-tools](https://github.com/HappyHackingSpace/ai-tools) | 105 | 2 | 🛡️ Secure | N/A | 9 | 3 | 0 |
 | [workable-spaces](https://github.com/HappyHackingSpace/workable-spaces) | 95 | 1 | 🛡️ Secure | N/A | 9 | 1 | 0 |
@@ -30,10 +30,9 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 |-------------|-------|-------|--------|---------|--------|---------|
 | [ahsentekd](https://github.com/ahsentekd) | 180 | 2 | 🏆 Top Committer, 🔀 PR Hero, 🐛 Issue Opener | 30 | 9 | 4 |
 | [recepgunes1](https://github.com/recepgunes1) | 26 | 1 | 🔀 PR Hero | 4 | 0 | 2 |
-| [dogancanbakir](https://github.com/dogancanbakir) | 10 | 1 | - | 2 | 0 | 0 |
-| [kbmjj123](https://github.com/kbmjj123) | 3 | 1 | 🔀 PR Hero | 0 | 0 | 1 |
+| [dogancanbakir](https://github.com/dogancanbakir) | 5 | 1 | - | 1 | 0 | 0 |
 | [kilicdev](https://github.com/kilicdev) | 3 | 1 | 🔀 PR Hero | 0 | 0 | 1 |
-| [luizmlo](https://github.com/luizmlo) | 3 | 1 | 🔀 PR Hero | 0 | 0 | 1 |
+| [kbmjj123](https://github.com/kbmjj123) | 3 | 1 | 🔀 PR Hero | 0 | 0 | 1 |
 
 
 [...and more contributors](https://github.com/orgs/HappyHackingSpace/people)<!-- CONTRIBUTORS_END -->
