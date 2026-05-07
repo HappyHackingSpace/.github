@@ -11,11 +11,11 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | Project | XP | Level | Badges | Last Commit | Stars | Forks | Open Issues |
 |---------|-------|-------|--------|-------------|-------|-------|-------------|
 | [gakido](https://github.com/HappyHackingSpace/gakido) | 931 | 4 | 🚀 Active Development, 🛡️ Secure | 2026-05-02 | 22 | 1 | 7 |
-| [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 826 | 4 | 🏆 Hot Project, 🛡️ Secure | N/A | 77 | 14 | 7 |
-| [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 603 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-05-06 | 6 | 1 | 31 |
+| [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 868 | 4 | 🏆 Hot Project, 🛡️ Secure | 2026-05-06 | 77 | 14 | 6 |
+| [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 601 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-05-07 | 6 | 1 | 32 |
 | [vt](https://github.com/HappyHackingSpace/vt) | 497 | 3 | 🛡️ Secure | 2026-04-21 | 42 | 9 | 24 |
 | [dit](https://github.com/HappyHackingSpace/dit) | 204 | 2 | 🧑‍💻 Welcoming Issues, 🛡️ Secure | 2026-05-01 | 15 | 4 | 13 |
-| [witness](https://github.com/HappyHackingSpace/witness) | 132 | 2 | 🚀 Active Development, 🛡️ Secure | 2026-05-04 | 1 | 0 | 9 |
+| [witness](https://github.com/HappyHackingSpace/witness) | 112 | 2 | 🚀 Active Development, 🛡️ Secure | 2026-05-04 | 1 | 0 | 9 |
 | [ai-tools](https://github.com/HappyHackingSpace/ai-tools) | 105 | 2 | 🛡️ Secure | N/A | 9 | 3 | 0 |
 | [workable-spaces](https://github.com/HappyHackingSpace/workable-spaces) | 95 | 1 | 🛡️ Secure | N/A | 9 | 1 | 0 |
 | [sindoq](https://github.com/HappyHackingSpace/sindoq) | 85 | 1 | 🛡️ Secure | N/A | 10 | 1 | 10 |
@@ -29,8 +29,8 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | Contributor | XP | Level | Badges | Commits | Issues | PRs |
 |-------------|-------|-------|--------|---------|--------|---------|
 | [ahsentekd](https://github.com/ahsentekd) | 180 | 2 | 🏆 Top Committer, 🔀 PR Hero, 🐛 Issue Opener | 30 | 9 | 4 |
-| [recepgunes1](https://github.com/recepgunes1) | 26 | 1 | 🔀 PR Hero | 4 | 0 | 2 |
-| [kbmjj123](https://github.com/kbmjj123) | 3 | 1 | 🔀 PR Hero | 0 | 0 | 1 |
+| [recepgunes1](https://github.com/recepgunes1) | 31 | 1 | 🔀 PR Hero | 5 | 0 | 2 |
+| [kbmjj123](https://github.com/kbmjj123) | 8 | 1 | 🔀 PR Hero | 1 | 0 | 1 |
 
 
 [...and more contributors](https://github.com/orgs/HappyHackingSpace/people)<!-- CONTRIBUTORS_END -->
