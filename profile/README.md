@@ -12,11 +12,11 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 |---------|-------|-------|--------|-------------|-------|-------|-------------|
 | [gakido](https://github.com/HappyHackingSpace/gakido) | 927 | 4 | 🚀 Active Development, 🛡️ Secure | 2026-05-19 | 22 | 1 | 9 |
 | [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 893 | 4 | 🏆 Hot Project, 🛡️ Secure | 2026-05-06 | 79 | 15 | 6 |
-| [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 627 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-05-20 | 6 | 1 | 39 |
+| [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 625 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-05-21 | 6 | 1 | 40 |
 | [vt](https://github.com/HappyHackingSpace/vt) | 583 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-05-17 | 42 | 9 | 21 |
 | [LevelUp](https://github.com/HappyHackingSpace/LevelUp) | 515 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-05-16 | 10 | 5 | 15 |
 | [dit](https://github.com/HappyHackingSpace/dit) | 266 | 2 | 🚀 Active Development, 🧑‍💻 Welcoming Issues, 🛡️ Secure | 2026-05-19 | 15 | 4 | 12 |
-| [witness](https://github.com/HappyHackingSpace/witness) | 133 | 2 | 🚀 Active Development, 🛡️ Secure | 2026-05-19 | 1 | 1 | 11 |
+| [witness](https://github.com/HappyHackingSpace/witness) | 113 | 2 | 🚀 Active Development, 🛡️ Secure | 2026-05-19 | 1 | 1 | 11 |
 | [ai-tools](https://github.com/HappyHackingSpace/ai-tools) | 105 | 2 | 🛡️ Secure | N/A | 9 | 3 | 0 |
 | [workable-spaces](https://github.com/HappyHackingSpace/workable-spaces) | 95 | 1 | 🛡️ Secure | N/A | 9 | 1 | 0 |
 | [sindoq](https://github.com/HappyHackingSpace/sindoq) | 85 | 1 | 🛡️ Secure | N/A | 10 | 1 | 10 |
