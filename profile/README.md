@@ -12,9 +12,9 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 |---------|-------|-------|--------|-------------|-------|-------|-------------|
 | [gakido](https://github.com/HappyHackingSpace/gakido) | 927 | 4 | 🚀 Active Development, 🛡️ Secure | 2026-05-19 | 22 | 1 | 9 |
 | [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 893 | 4 | 🏆 Hot Project, 🛡️ Secure | 2026-05-06 | 79 | 15 | 6 |
-| [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 625 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-05-21 | 6 | 1 | 40 |
-| [vt](https://github.com/HappyHackingSpace/vt) | 583 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-05-17 | 42 | 9 | 21 |
+| [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 625 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-05-22 | 6 | 1 | 40 |
 | [LevelUp](https://github.com/HappyHackingSpace/LevelUp) | 515 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-05-16 | 10 | 5 | 15 |
+| [vt](https://github.com/HappyHackingSpace/vt) | 503 | 3 | 🛡️ Secure | 2026-05-17 | 42 | 9 | 21 |
 | [dit](https://github.com/HappyHackingSpace/dit) | 266 | 2 | 🚀 Active Development, 🧑‍💻 Welcoming Issues, 🛡️ Secure | 2026-05-19 | 15 | 4 | 12 |
 | [witness](https://github.com/HappyHackingSpace/witness) | 113 | 2 | 🚀 Active Development, 🛡️ Secure | 2026-05-19 | 1 | 1 | 11 |
 | [ai-tools](https://github.com/HappyHackingSpace/ai-tools) | 105 | 2 | 🛡️ Secure | N/A | 9 | 3 | 0 |
@@ -30,12 +30,12 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 |-------------|-------|-------|--------|---------|--------|---------|
 | [ahsentekd](https://github.com/ahsentekd) | 190 | 2 | 🏆 Top Committer, 🔀 PR Hero, 🐛 Issue Opener | 32 | 9 | 4 |
 | [baranylcn](https://github.com/baranylcn) | 89 | 1 | 🔀 PR Hero | 16 | 0 | 3 |
-| [recepgunes1](https://github.com/recepgunes1) | 75 | 1 | 🔀 PR Hero | 12 | 0 | 5 |
+| [recepgunes1](https://github.com/recepgunes1) | 49 | 1 | 🔀 PR Hero | 8 | 0 | 3 |
 | [MuhammedSenn](https://github.com/MuhammedSenn) | 15 | 1 | - | 3 | 0 | 0 |
 | [dogancanbakir](https://github.com/dogancanbakir) | 15 | 1 | 🔀 PR Hero, 🐛 Issue Opener | 2 | 1 | 1 |
 | [kbmjj123](https://github.com/kbmjj123) | 8 | 1 | 🔀 PR Hero | 1 | 0 | 1 |
-| [Sidilya-Gunes](https://github.com/Sidilya-Gunes) | 3 | 1 | 🔀 PR Hero | 0 | 0 | 1 |
 | [aditi-agrawal12](https://github.com/aditi-agrawal12) | 3 | 1 | 🔀 PR Hero | 0 | 0 | 1 |
+| [Sidilya-Gunes](https://github.com/Sidilya-Gunes) | 3 | 1 | 🔀 PR Hero | 0 | 0 | 1 |
 | [JackZhu426](https://github.com/JackZhu426) | 2 | 1 | 🐛 Issue Opener | 0 | 1 | 0 |
 
 
