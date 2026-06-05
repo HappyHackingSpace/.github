@@ -11,8 +11,8 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | Project | XP | Level | Badges | Last Commit | Stars | Forks | Open Issues |
 |---------|-------|-------|--------|-------------|-------|-------|-------------|
 | [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 883 | 4 | 🏆 Hot Project, 🛡️ Secure | 2026-05-06 | 80 | 15 | 6 |
-| [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 623 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-06-04 | 6 | 1 | 41 |
-| [LevelUp](https://github.com/HappyHackingSpace/LevelUp) | 515 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-05-16 | 10 | 5 | 15 |
+| [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 621 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-06-05 | 6 | 1 | 42 |
+| [LevelUp](https://github.com/HappyHackingSpace/LevelUp) | 513 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-05-16 | 10 | 5 | 16 |
 | [vt](https://github.com/HappyHackingSpace/vt) | 503 | 3 | 🛡️ Secure | 2026-05-17 | 42 | 9 | 21 |
 | [gakido](https://github.com/HappyHackingSpace/gakido) | 393 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-05-22 | 22 | 1 | 6 |
 | [privacy-policy-analyzer](https://github.com/HappyHackingSpace/privacy-policy-analyzer) | 377 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-06-03 | 5 | 3 | 24 |
@@ -34,8 +34,8 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | [dogancanbakir](https://github.com/dogancanbakir) | 29 | 1 | 🔀 PR Hero, 🐛 Issue Opener | 4 | 3 | 1 |
 | [ahsentekd](https://github.com/ahsentekd) | 25 | 1 | - | 5 | 0 | 0 |
 | [MuhammedSenn](https://github.com/MuhammedSenn) | 15 | 1 | - | 3 | 0 | 0 |
-| [aditi-agrawal12](https://github.com/aditi-agrawal12) | 3 | 1 | 🔀 PR Hero | 0 | 0 | 1 |
 | [kbmjj123](https://github.com/kbmjj123) | 3 | 1 | 🔀 PR Hero | 0 | 0 | 1 |
+| [aditi-agrawal12](https://github.com/aditi-agrawal12) | 3 | 1 | 🔀 PR Hero | 0 | 0 | 1 |
 | [Sidilya-Gunes](https://github.com/Sidilya-Gunes) | 3 | 1 | 🔀 PR Hero | 0 | 0 | 1 |
 | [JackZhu426](https://github.com/JackZhu426) | 2 | 1 | 🐛 Issue Opener | 0 | 1 | 0 |
 
