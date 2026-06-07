@@ -11,7 +11,7 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | Project | XP | Level | Badges | Last Commit | Stars | Forks | Open Issues |
 |---------|-------|-------|--------|-------------|-------|-------|-------------|
 | [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 863 | 4 | 🏆 Hot Project, 🛡️ Secure | N/A | 80 | 15 | 6 |
-| [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 621 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-06-06 | 6 | 1 | 42 |
+| [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 621 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-06-07 | 6 | 1 | 42 |
 | [LevelUp](https://github.com/HappyHackingSpace/LevelUp) | 513 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-05-16 | 10 | 5 | 16 |
 | [vt](https://github.com/HappyHackingSpace/vt) | 503 | 3 | 🛡️ Secure | 2026-05-17 | 42 | 9 | 21 |
 | [gakido](https://github.com/HappyHackingSpace/gakido) | 393 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-05-22 | 22 | 1 | 6 |
@@ -36,7 +36,6 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | [MuhammedSenn](https://github.com/MuhammedSenn) | 15 | 1 | - | 3 | 0 | 0 |
 | [aditi-agrawal12](https://github.com/aditi-agrawal12) | 3 | 1 | 🔀 PR Hero | 0 | 0 | 1 |
 | [Sidilya-Gunes](https://github.com/Sidilya-Gunes) | 3 | 1 | 🔀 PR Hero | 0 | 0 | 1 |
-| [JackZhu426](https://github.com/JackZhu426) | 2 | 1 | 🐛 Issue Opener | 0 | 1 | 0 |
 
 
 [...and more contributors](https://github.com/orgs/HappyHackingSpace/people)<!-- CONTRIBUTORS_END -->
