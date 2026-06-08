@@ -11,7 +11,7 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | Project | XP | Level | Badges | Last Commit | Stars | Forks | Open Issues |
 |---------|-------|-------|--------|-------------|-------|-------|-------------|
 | [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 863 | 4 | 🏆 Hot Project, 🛡️ Secure | N/A | 80 | 15 | 6 |
-| [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 621 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-06-07 | 6 | 1 | 42 |
+| [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 621 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-06-08 | 6 | 1 | 42 |
 | [LevelUp](https://github.com/HappyHackingSpace/LevelUp) | 513 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-05-16 | 10 | 5 | 16 |
 | [vt](https://github.com/HappyHackingSpace/vt) | 503 | 3 | 🛡️ Secure | 2026-05-17 | 42 | 9 | 21 |
 | [gakido](https://github.com/HappyHackingSpace/gakido) | 393 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-05-22 | 22 | 1 | 6 |
