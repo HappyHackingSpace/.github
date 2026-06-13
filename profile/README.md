@@ -12,12 +12,12 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 |---------|-------|-------|--------|-------------|-------|-------|-------------|
 | [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 863 | 4 | 🏆 Hot Project, 🛡️ Secure | N/A | 80 | 15 | 6 |
 | [Misko](https://github.com/HappyHackingSpace/Misko) | 645 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-06-08 | 0 | 1 | 0 |
-| [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 599 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-06-12 | 6 | 1 | 43 |
+| [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 599 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-06-13 | 6 | 1 | 43 |
 | [LevelUp](https://github.com/HappyHackingSpace/LevelUp) | 513 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-05-16 | 10 | 5 | 16 |
 | [vt](https://github.com/HappyHackingSpace/vt) | 463 | 3 | 🛡️ Secure | 2026-05-17 | 42 | 9 | 21 |
 | [privacy-policy-analyzer](https://github.com/HappyHackingSpace/privacy-policy-analyzer) | 377 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-06-03 | 5 | 3 | 24 |
 | [gakido](https://github.com/HappyHackingSpace/gakido) | 353 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-05-22 | 22 | 1 | 6 |
-| [dit](https://github.com/HappyHackingSpace/dit) | 326 | 3 | 🚀 Active Development, 🧑‍💻 Welcoming Issues, 🛡️ Secure | 2026-06-08 | 15 | 4 | 12 |
+| [dit](https://github.com/HappyHackingSpace/dit) | 346 | 3 | 🚀 Active Development, 🧑‍💻 Welcoming Issues, 🛡️ Secure | 2026-06-12 | 15 | 4 | 12 |
 | [english-learning-resources](https://github.com/HappyHackingSpace/english-learning-resources) | 130 | 2 | 🛡️ Secure | 2026-06-11 | 8 | 2 | 0 |
 | [witness](https://github.com/HappyHackingSpace/witness) | 115 | 2 | 🚀 Active Development, 🛡️ Secure | 2026-06-08 | 1 | 1 | 10 |
 
@@ -37,7 +37,7 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | [MuhammedSenn](https://github.com/MuhammedSenn) | 15 | 1 | - | 3 | 0 | 0 |
 | [ArjinAlbay](https://github.com/ArjinAlbay) | 10 | 1 | - | 2 | 0 | 0 |
 | [alvinan111](https://github.com/alvinan111) | 5 | 1 | - | 1 | 0 | 0 |
-| [anzy-renlab-ai](https://github.com/anzy-renlab-ai) | 3 | 1 | 🔀 PR Hero | 0 | 0 | 1 |
+| [aditi-agrawal12](https://github.com/aditi-agrawal12) | 3 | 1 | 🔀 PR Hero | 0 | 0 | 1 |
 
 
 [...and more contributors](https://github.com/orgs/HappyHackingSpace/people)<!-- CONTRIBUTORS_END -->
