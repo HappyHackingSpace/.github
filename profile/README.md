@@ -11,11 +11,11 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | Project | XP | Level | Badges | Last Commit | Stars | Forks | Open Issues |
 |---------|-------|-------|--------|-------------|-------|-------|-------------|
 | [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 863 | 4 | 🏆 Hot Project, 🛡️ Secure | N/A | 80 | 15 | 6 |
-| [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 579 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-06-18 | 6 | 1 | 43 |
+| [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 579 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-06-19 | 6 | 1 | 43 |
 | [vt](https://github.com/HappyHackingSpace/vt) | 423 | 3 | 🛡️ Secure | N/A | 42 | 9 | 21 |
 | [privacy-policy-analyzer](https://github.com/HappyHackingSpace/privacy-policy-analyzer) | 387 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-06-03 | 6 | 3 | 24 |
-| [gakido](https://github.com/HappyHackingSpace/gakido) | 331 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-05-22 | 22 | 1 | 7 |
-| [dit](https://github.com/HappyHackingSpace/dit) | 286 | 2 | 🚀 Active Development, 🧑‍💻 Welcoming Issues, 🛡️ Secure | 2026-06-12 | 15 | 4 | 12 |
+| [gakido](https://github.com/HappyHackingSpace/gakido) | 271 | 2 | 🛡️ Secure | 2026-05-22 | 22 | 1 | 7 |
+| [dit](https://github.com/HappyHackingSpace/dit) | 246 | 2 | 🚀 Active Development, 🧑‍💻 Welcoming Issues, 🛡️ Secure | 2026-06-12 | 15 | 4 | 12 |
 | [english-learning-resources](https://github.com/HappyHackingSpace/english-learning-resources) | 130 | 2 | 🛡️ Secure | 2026-06-11 | 8 | 2 | 0 |
 | [ai-tools](https://github.com/HappyHackingSpace/ai-tools) | 105 | 2 | 🛡️ Secure | N/A | 9 | 3 | 0 |
 | [workable-spaces](https://github.com/HappyHackingSpace/workable-spaces) | 95 | 1 | 🛡️ Secure | N/A | 9 | 1 | 0 |
@@ -29,12 +29,10 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | Contributor | XP | Level | Badges | Commits | Issues | PRs |
 |-------------|-------|-------|--------|---------|--------|---------|
 | [myz21](https://github.com/myz21) | 88 | 1 | 🏆 Top Committer, 🔀 PR Hero | 17 | 0 | 1 |
-| [dogancanbakir](https://github.com/dogancanbakir) | 32 | 1 | 🔀 PR Hero, 🐛 Issue Opener | 5 | 2 | 1 |
-| [ahsentekd](https://github.com/ahsentekd) | 20 | 1 | - | 4 | 0 | 0 |
+| [dogancanbakir](https://github.com/dogancanbakir) | 24 | 1 | 🐛 Issue Opener | 4 | 2 | 0 |
+| [ahsentekd](https://github.com/ahsentekd) | 15 | 1 | - | 3 | 0 | 0 |
 | [ArjinAlbay](https://github.com/ArjinAlbay) | 10 | 1 | - | 2 | 0 | 0 |
-| [recepgunes1](https://github.com/recepgunes1) | 5 | 1 | - | 1 | 0 | 0 |
 | [alvinan111](https://github.com/alvinan111) | 5 | 1 | - | 1 | 0 | 0 |
-| [aditi-agrawal12](https://github.com/aditi-agrawal12) | 3 | 1 | 🔀 PR Hero | 0 | 0 | 1 |
 | [anzy-renlab-ai](https://github.com/anzy-renlab-ai) | 3 | 1 | 🔀 PR Hero | 0 | 0 | 1 |
 
 
