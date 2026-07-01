@@ -11,7 +11,7 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | Project | XP | Level | Badges | Last Commit | Stars | Forks | Open Issues |
 |---------|-------|-------|--------|-------------|-------|-------|-------------|
 | [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 883 | 4 | 🏆 Hot Project, 🛡️ Secure | N/A | 82 | 15 | 6 |
-| [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 579 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-06-30 | 6 | 1 | 43 |
+| [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 579 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-07-01 | 6 | 1 | 43 |
 | [vt](https://github.com/HappyHackingSpace/vt) | 433 | 3 | 🛡️ Secure | N/A | 43 | 9 | 21 |
 | [dit](https://github.com/HappyHackingSpace/dit) | 236 | 2 | 🧑‍💻 Welcoming Issues, 🛡️ Secure | 2026-06-19 | 16 | 4 | 12 |
 | [gakido](https://github.com/HappyHackingSpace/gakido) | 207 | 2 | 🛡️ Secure | N/A | 22 | 1 | 9 |
@@ -28,7 +28,7 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 <!-- CONTRIBUTORS_START -->
 | Contributor | XP | Level | Badges | Commits | Issues | PRs |
 |-------------|-------|-------|--------|---------|--------|---------|
-| [dogancanbakir](https://github.com/dogancanbakir) | 23 | 1 | 🏆 Top Committer, 🔀 PR Hero | 4 | 0 | 1 |
+| [dogancanbakir](https://github.com/dogancanbakir) | 18 | 1 | 🏆 Top Committer, 🔀 PR Hero | 3 | 0 | 1 |
 | [ArjinAlbay](https://github.com/ArjinAlbay) | 10 | 1 | - | 2 | 0 | 0 |
 | [alvinan111](https://github.com/alvinan111) | 5 | 1 | - | 1 | 0 | 0 |
 | [zhoufeiii](https://github.com/zhoufeiii) | 3 | 1 | 🔀 PR Hero | 0 | 0 | 1 |
