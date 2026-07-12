@@ -12,13 +12,13 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 |---------|-------|-------|--------|-------------|-------|-------|-------------|
 | [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 883 | 4 | 🏆 Hot Project, 🛡️ Secure | N/A | 82 | 15 | 6 |
 | [CommunityHub](https://github.com/HappyHackingSpace/CommunityHub) | 791 | 4 | 🚀 Active Development, 🛡️ Secure | 2026-07-04 | 3 | 7 | 17 |
-| [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 579 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-07-11 | 6 | 1 | 43 |
+| [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 579 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-07-12 | 6 | 1 | 43 |
 | [vt](https://github.com/HappyHackingSpace/vt) | 433 | 3 | 🛡️ Secure | N/A | 43 | 9 | 21 |
 | [dit](https://github.com/HappyHackingSpace/dit) | 256 | 2 | 🚀 Active Development, 🧑‍💻 Welcoming Issues, 🛡️ Secure | 2026-07-10 | 16 | 4 | 12 |
 | [gakido](https://github.com/HappyHackingSpace/gakido) | 207 | 2 | 🛡️ Secure | N/A | 22 | 1 | 9 |
-| [english-learning-resources](https://github.com/HappyHackingSpace/english-learning-resources) | 113 | 2 | 🛡️ Secure | 2026-06-11 | 8 | 3 | 1 |
 | [ai-tools](https://github.com/HappyHackingSpace/ai-tools) | 105 | 2 | 🛡️ Secure | N/A | 9 | 3 | 0 |
 | [witness](https://github.com/HappyHackingSpace/witness) | 105 | 2 | 🚀 Active Development, 🛡️ Secure | 2026-07-06 | 2 | 1 | 10 |
+| [english-learning-resources](https://github.com/HappyHackingSpace/english-learning-resources) | 103 | 2 | 🛡️ Secure | N/A | 9 | 3 | 1 |
 | [workable-spaces](https://github.com/HappyHackingSpace/workable-spaces) | 95 | 1 | 🛡️ Secure | N/A | 9 | 1 | 0 |
 
 
@@ -29,11 +29,9 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | Contributor | XP | Level | Badges | Commits | Issues | PRs |
 |-------------|-------|-------|--------|---------|--------|---------|
 | [baranylcn](https://github.com/baranylcn) | 141 | 2 | 🏆 Top Committer, 🔀 PR Hero, 🐛 Issue Opener | 25 | 5 | 2 |
-| [ArjinAlbay](https://github.com/ArjinAlbay) | 10 | 1 | - | 2 | 0 | 0 |
-| [dogancanbakir](https://github.com/dogancanbakir) | 8 | 1 | 🔀 PR Hero | 1 | 0 | 1 |
 | [zhoufeiii](https://github.com/zhoufeiii) | 3 | 1 | 🔀 PR Hero | 0 | 0 | 1 |
-| [anzy-renlab-ai](https://github.com/anzy-renlab-ai) | 3 | 1 | 🔀 PR Hero | 0 | 0 | 1 |
 | [Deusthenight](https://github.com/Deusthenight) | 3 | 1 | 🔀 PR Hero | 0 | 0 | 1 |
+| [dogancanbakir](https://github.com/dogancanbakir) | 3 | 1 | 🔀 PR Hero | 0 | 0 | 1 |
 
 
 [...and more contributors](https://github.com/orgs/HappyHackingSpace/people)<!-- CONTRIBUTORS_END -->
