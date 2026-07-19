@@ -12,7 +12,7 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 |---------|-------|-------|--------|-------------|-------|-------|-------------|
 | [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 883 | 4 | 🏆 Hot Project, 🛡️ Secure | N/A | 82 | 15 | 6 |
 | [CommunityHub](https://github.com/HappyHackingSpace/CommunityHub) | 791 | 4 | 🚀 Active Development, 🛡️ Secure | 2026-07-04 | 3 | 7 | 17 |
-| [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 579 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-07-18 | 6 | 1 | 43 |
+| [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 659 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-07-19 | 6 | 1 | 43 |
 | [vt](https://github.com/HappyHackingSpace/vt) | 433 | 3 | 🛡️ Secure | N/A | 43 | 9 | 21 |
 | [dit](https://github.com/HappyHackingSpace/dit) | 286 | 2 | 🚀 Active Development, 🧑‍💻 Welcoming Issues, 🛡️ Secure | 2026-07-17 | 17 | 4 | 12 |
 | [gakido](https://github.com/HappyHackingSpace/gakido) | 207 | 2 | 🛡️ Secure | N/A | 22 | 1 | 9 |
@@ -29,6 +29,7 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | Contributor | XP | Level | Badges | Commits | Issues | PRs |
 |-------------|-------|-------|--------|---------|--------|---------|
 | [baranylcn](https://github.com/baranylcn) | 141 | 2 | 🏆 Top Committer, 🔀 PR Hero, 🐛 Issue Opener | 25 | 5 | 2 |
+| [omarkurt](https://github.com/omarkurt) | 8 | 1 | 🔀 PR Hero | 1 | 0 | 1 |
 | [dogancanbakir](https://github.com/dogancanbakir) | 3 | 1 | 🔀 PR Hero | 0 | 0 | 1 |
 | [zhoufeiii](https://github.com/zhoufeiii) | 3 | 1 | 🔀 PR Hero | 0 | 0 | 1 |
 | [Deusthenight](https://github.com/Deusthenight) | 3 | 1 | 🔀 PR Hero | 0 | 0 | 1 |
