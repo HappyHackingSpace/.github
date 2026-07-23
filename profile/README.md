@@ -11,15 +11,15 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | Project | XP | Level | Badges | Last Commit | Stars | Forks | Open Issues |
 |---------|-------|-------|--------|-------------|-------|-------|-------------|
 | [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 883 | 4 | 🏆 Hot Project, 🛡️ Secure | N/A | 82 | 15 | 6 |
+| [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 819 | 4 | 🚀 Active Development, 🛡️ Secure | 2026-07-23 | 6 | 1 | 43 |
 | [CommunityHub](https://github.com/HappyHackingSpace/CommunityHub) | 787 | 4 | 🚀 Active Development, 🛡️ Secure | 2026-07-04 | 3 | 7 | 19 |
-| [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 659 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-07-22 | 6 | 1 | 43 |
 | [vt](https://github.com/HappyHackingSpace/vt) | 433 | 3 | 🛡️ Secure | N/A | 43 | 9 | 21 |
 | [dit](https://github.com/HappyHackingSpace/dit) | 266 | 2 | 🚀 Active Development, 🧑‍💻 Welcoming Issues, 🛡️ Secure | 2026-07-17 | 17 | 4 | 12 |
 | [gakido](https://github.com/HappyHackingSpace/gakido) | 205 | 2 | 🛡️ Secure | N/A | 22 | 1 | 10 |
 | [english-learning-resources](https://github.com/HappyHackingSpace/english-learning-resources) | 113 | 2 | 🛡️ Secure | N/A | 10 | 3 | 1 |
 | [ai-tools](https://github.com/HappyHackingSpace/ai-tools) | 105 | 2 | 🛡️ Secure | N/A | 9 | 3 | 0 |
-| [witness](https://github.com/HappyHackingSpace/witness) | 105 | 2 | 🚀 Active Development, 🛡️ Secure | 2026-07-20 | 2 | 1 | 10 |
 | [workable-spaces](https://github.com/HappyHackingSpace/workable-spaces) | 95 | 1 | 🛡️ Secure | N/A | 9 | 1 | 0 |
+| [sindoq](https://github.com/HappyHackingSpace/sindoq) | 85 | 1 | 🛡️ Secure | N/A | 10 | 1 | 10 |
 
 
 [...and more projects](https://github.com/HappyHackingSpace?tab=repositories)<!-- PROJECTS_END -->
@@ -29,7 +29,7 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | Contributor | XP | Level | Badges | Commits | Issues | PRs |
 |-------------|-------|-------|--------|---------|--------|---------|
 | [baranylcn](https://github.com/baranylcn) | 141 | 2 | 🏆 Top Committer, 🔀 PR Hero, 🐛 Issue Opener | 25 | 5 | 2 |
-| [omarkurt](https://github.com/omarkurt) | 8 | 1 | 🔀 PR Hero | 1 | 0 | 1 |
+| [omarkurt](https://github.com/omarkurt) | 34 | 1 | 🔀 PR Hero, 🐛 Issue Opener | 4 | 1 | 4 |
 | [Deusthenight](https://github.com/Deusthenight) | 3 | 1 | 🔀 PR Hero | 0 | 0 | 1 |
 
 
