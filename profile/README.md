@@ -10,11 +10,11 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 <!-- PROJECTS_START -->
 | Project | XP | Level | Badges | Last Commit | Stars | Forks | Open Issues |
 |---------|-------|-------|--------|-------------|-------|-------|-------------|
-| [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 1101 | 4 | 🚀 Active Development, 🛡️ Secure | 2026-08-07 | 6 | 1 | 42 |
+| [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 1161 | 4 | 🚀 Active Development, 🛡️ Secure | 2026-08-08 | 6 | 1 | 42 |
 | [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 913 | 4 | 🏆 Hot Project, 🛡️ Secure | N/A | 84 | 17 | 6 |
 | [vt](https://github.com/HappyHackingSpace/vt) | 433 | 3 | 🛡️ Secure | N/A | 43 | 9 | 21 |
-| [dit](https://github.com/HappyHackingSpace/dit) | 246 | 2 | 🧑‍💻 Welcoming Issues, 🛡️ Secure | 2026-07-17 | 17 | 4 | 12 |
-| [gakido](https://github.com/HappyHackingSpace/gakido) | 197 | 2 | 🛡️ Secure | N/A | 22 | 1 | 14 |
+| [dit](https://github.com/HappyHackingSpace/dit) | 266 | 2 | 🚀 Active Development, 🧑‍💻 Welcoming Issues, 🛡️ Secure | 2026-08-07 | 17 | 4 | 12 |
+| [gakido](https://github.com/HappyHackingSpace/gakido) | 195 | 2 | 🛡️ Secure | N/A | 22 | 1 | 15 |
 | [english-learning-resources](https://github.com/HappyHackingSpace/english-learning-resources) | 135 | 2 | 🛡️ Secure | 2026-07-30 | 10 | 3 | 0 |
 | [ai-tools](https://github.com/HappyHackingSpace/ai-tools) | 105 | 2 | 🛡️ Secure | N/A | 9 | 3 | 0 |
 | [workable-spaces](https://github.com/HappyHackingSpace/workable-spaces) | 95 | 1 | 🛡️ Secure | N/A | 9 | 1 | 0 |
@@ -28,7 +28,7 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 <!-- CONTRIBUTORS_START -->
 | Contributor | XP | Level | Badges | Commits | Issues | PRs |
 |-------------|-------|-------|--------|---------|--------|---------|
-| [omarkurt](https://github.com/omarkurt) | 82 | 1 | 🏆 Top Committer, 🔀 PR Hero, 🐛 Issue Opener | 10 | 1 | 10 |
+| [omarkurt](https://github.com/omarkurt) | 90 | 1 | 🏆 Top Committer, 🔀 PR Hero, 🐛 Issue Opener | 11 | 1 | 11 |
 | [dogancanbakir](https://github.com/dogancanbakir) | 5 | 1 | - | 1 | 0 | 0 |
 | [zhoufeiii](https://github.com/zhoufeiii) | 3 | 1 | 🔀 PR Hero | 0 | 0 | 1 |
 
