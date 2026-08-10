@@ -10,10 +10,10 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 <!-- PROJECTS_START -->
 | Project | XP | Level | Badges | Last Commit | Stars | Forks | Open Issues |
 |---------|-------|-------|--------|-------------|-------|-------|-------------|
-| [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 1161 | 4 | 🚀 Active Development, 🛡️ Secure | 2026-08-09 | 6 | 1 | 42 |
+| [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 1161 | 4 | 🚀 Active Development, 🛡️ Secure | 2026-08-10 | 6 | 1 | 42 |
 | [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 913 | 4 | 🏆 Hot Project, 🛡️ Secure | N/A | 84 | 17 | 6 |
 | [vt](https://github.com/HappyHackingSpace/vt) | 433 | 3 | 🛡️ Secure | N/A | 43 | 9 | 21 |
-| [dit](https://github.com/HappyHackingSpace/dit) | 266 | 2 | 🚀 Active Development, 🧑‍💻 Welcoming Issues, 🛡️ Secure | 2026-08-07 | 17 | 4 | 12 |
+| [dit](https://github.com/HappyHackingSpace/dit) | 226 | 2 | 🧑‍💻 Welcoming Issues, 🛡️ Secure | 2026-08-07 | 17 | 4 | 12 |
 | [gakido](https://github.com/HappyHackingSpace/gakido) | 195 | 2 | 🛡️ Secure | N/A | 22 | 1 | 15 |
 | [english-learning-resources](https://github.com/HappyHackingSpace/english-learning-resources) | 135 | 2 | 🛡️ Secure | 2026-07-30 | 10 | 3 | 0 |
 | [ai-tools](https://github.com/HappyHackingSpace/ai-tools) | 105 | 2 | 🛡️ Secure | N/A | 9 | 3 | 0 |
