@@ -10,7 +10,7 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 <!-- PROJECTS_START -->
 | Project | XP | Level | Badges | Last Commit | Stars | Forks | Open Issues |
 |---------|-------|-------|--------|-------------|-------|-------|-------------|
-| [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 1091 | 4 | 🚀 Active Development, 🛡️ Secure | 2026-08-18 | 7 | 1 | 42 |
+| [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 1091 | 4 | 🚀 Active Development, 🛡️ Secure | 2026-08-19 | 7 | 1 | 42 |
 | [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 913 | 4 | 🏆 Hot Project, 🛡️ Secure | N/A | 84 | 17 | 6 |
 | [vt](https://github.com/HappyHackingSpace/vt) | 423 | 3 | 🛡️ Secure | N/A | 42 | 9 | 21 |
 | [gakido](https://github.com/HappyHackingSpace/gakido) | 195 | 2 | 🛡️ Secure | N/A | 22 | 1 | 15 |
@@ -29,9 +29,9 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | Contributor | XP | Level | Badges | Commits | Issues | PRs |
 |-------------|-------|-------|--------|---------|--------|---------|
 | [omarkurt](https://github.com/omarkurt) | 82 | 1 | 🏆 Top Committer, 🔀 PR Hero, 🐛 Issue Opener | 10 | 1 | 10 |
+| [dogancanbakir](https://github.com/dogancanbakir) | 5 | 1 | - | 1 | 0 | 0 |
 | [baranylcn](https://github.com/baranylcn) | 5 | 1 | - | 1 | 0 | 0 |
 | [Paperclip-Paperclip](https://github.com/Paperclip-Paperclip) | 5 | 1 | - | 1 | 0 | 0 |
-| [dogancanbakir](https://github.com/dogancanbakir) | 5 | 1 | - | 1 | 0 | 0 |
 | [zhoufeiii](https://github.com/zhoufeiii) | 3 | 1 | 🔀 PR Hero | 0 | 0 | 1 |
 | [nikunjness](https://github.com/nikunjness) | 3 | 1 | 🔀 PR Hero | 0 | 0 | 1 |
 
