@@ -11,9 +11,9 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | Project | XP | Level | Badges | Last Commit | Stars | Forks | Open Issues |
 |---------|-------|-------|--------|-------------|-------|-------|-------------|
 | [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 943 | 4 | 🏆 Hot Project, 🛡️ Secure | N/A | 87 | 17 | 6 |
-| [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 651 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-09-04 | 7 | 1 | 42 |
+| [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 651 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-09-05 | 7 | 1 | 42 |
 | [vt](https://github.com/HappyHackingSpace/vt) | 423 | 3 | 🛡️ Secure | N/A | 42 | 9 | 21 |
-| [dit](https://github.com/HappyHackingSpace/dit) | 206 | 2 | 🧑‍💻 Welcoming Issues, 🛡️ Secure | 2026-08-21 | 17 | 4 | 12 |
+| [dit](https://github.com/HappyHackingSpace/dit) | 246 | 2 | 🧑‍💻 Welcoming Issues, 🛡️ Secure | 2026-09-04 | 17 | 4 | 12 |
 | [gakido](https://github.com/HappyHackingSpace/gakido) | 201 | 2 | 🛡️ Secure | N/A | 23 | 1 | 17 |
 | [ai-tools](https://github.com/HappyHackingSpace/ai-tools) | 160 | 2 | 🛡️ Secure | 2026-08-16 | 10 | 4 | 0 |
 | [english-learning-resources](https://github.com/HappyHackingSpace/english-learning-resources) | 115 | 2 | 🛡️ Secure | N/A | 10 | 3 | 0 |
@@ -29,8 +29,8 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | Contributor | XP | Level | Badges | Commits | Issues | PRs |
 |-------------|-------|-------|--------|---------|--------|---------|
 | [omarkurt](https://github.com/omarkurt) | 8 | 1 | 🏆 Top Committer, 🔀 PR Hero | 1 | 0 | 1 |
-| [baranylcn](https://github.com/baranylcn) | 5 | 1 | 🏆 Top Committer | 1 | 0 | 0 |
 | [Paperclip-Paperclip](https://github.com/Paperclip-Paperclip) | 5 | 1 | 🏆 Top Committer | 1 | 0 | 0 |
+| [baranylcn](https://github.com/baranylcn) | 5 | 1 | 🏆 Top Committer | 1 | 0 | 0 |
 | [nikunjness](https://github.com/nikunjness) | 3 | 1 | 🔀 PR Hero | 0 | 0 | 1 |
 
 
