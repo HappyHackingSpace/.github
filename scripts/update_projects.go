@@ -2,6 +2,7 @@ package main
 
 import (
 	context "context"
+	"errors"
 	"fmt"
 	"os"
 	"regexp"
@@ -52,7 +53,7 @@ var (
 
 func fetchOrgRepos(client *gh.Client, ctx context.Context, org string) ([]*gh.Repository, error) {
 	var allRepos []*gh.Repository
-	opt := &gh.RepositoryListByOrgOptions{Type: "public", ListOptions: gh.ListOptions{PerPage: 100}}
+	opt := &gh.RepositoryListByOrgOptions{Type: "all", ListOptions: gh.ListOptions{PerPage: 100}}
 	for {
 		repos, resp, err := client.Repositories.ListByOrg(ctx, org, opt)
 		if err != nil {
@@ -215,7 +216,7 @@ func formatMarkdown(repos []GhProjects) string {
 	return b.String()
 }
 
-func fetchContributors(client *gh.Client, ctx context.Context, org string, repos []*gh.Repository) []ContributorStats {
+func fetchContributors(client *gh.Client, ctx context.Context, org string, repos []*gh.Repository) ([]ContributorStats, error) {
 	contribMap := map[string]*ContributorStats{}
 	since := time.Now().AddDate(0, 0, -30)
 
@@ -231,7 +232,7 @@ func fetchContributors(client *gh.Client, ctx context.Context, org string, repos
 		for {
 			commits, resp, err := client.Repositories.ListCommits(ctx, org, repo.GetName(), commitOpt)
 			if err != nil {
-				break
+				return nil, errors.New("failed to fetch contributor commit statistics")
 			}
 			for _, c := range commits {
 				if c.Author == nil {
@@ -267,7 +268,7 @@ func fetchContributors(client *gh.Client, ctx context.Context, org string, repos
 		for {
 			issues, resp, err := client.Issues.ListByRepo(ctx, org, repo.GetName(), issueOpt)
 			if err != nil {
-				break
+				return nil, errors.New("failed to fetch contributor issue statistics")
 			}
 			for _, issue := range issues {
 				if issue.User == nil || issue.PullRequestLinks != nil {
@@ -304,7 +305,7 @@ func fetchContributors(client *gh.Client, ctx context.Context, org string, repos
 		for {
 			prs, resp, err := client.PullRequests.List(ctx, org, repo.GetName(), prOpt)
 			if err != nil {
-				break
+				return nil, errors.New("failed to fetch contributor pull request statistics")
 			}
 			shouldBreak := false
 			for _, pr := range prs {
@@ -362,7 +363,7 @@ func fetchContributors(client *gh.Client, ctx context.Context, org string, repos
 		contribs[i].Badges = badges
 	}
 	sort.Slice(contribs, func(i, j int) bool { return contribs[i].XP > contribs[j].XP })
-	return contribs
+	return contribs, nil
 }
 
 func formatContributorsMarkdown(contribs []ContributorStats) string {
@@ -405,7 +406,9 @@ func main() {
 	var statsList []RepoStats
 	mostStars := 0
 	for _, repo := range repos {
-		if slices.Contains(excludedProjects, repo.GetName()) {
+		// Private repositories contribute to the contributor ranking, but their
+		// names and project statistics must never be published in the public README.
+		if repo.GetPrivate() || slices.Contains(excludedProjects, repo.GetName()) {
 			continue
 		}
 		stats, err := fetchRepoStats(client, ctx, org, repo)
@@ -432,7 +435,10 @@ func main() {
 	md := formatMarkdown(projects[:displayCount])
 	md += "\n\n[...and more projects](https://github.com/HappyHackingSpace?tab=repositories)"
 
-	contributors := fetchContributors(client, ctx, org, repos)
+	contributors, err := fetchContributors(client, ctx, org, repos)
+	if err != nil {
+		panic(err)
+	}
 	contribDisplayCount := min(len(contributors), 10)
 	contribMd := formatContributorsMarkdown(contributors[:contribDisplayCount])
 	contribMd += "\n\n[...and more contributors](https://github.com/orgs/HappyHackingSpace/people)"
