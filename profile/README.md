@@ -10,13 +10,13 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 <!-- PROJECTS_START -->
 | Project | XP | Level | Badges | Last Commit | Stars | Forks | Open Issues |
 |---------|-------|-------|--------|-------------|-------|-------|-------------|
-| [Misko](https://github.com/HappyHackingSpace/Misko) | 1386 | 4 | 🚀 Active Development, 🛡️ Secure | 2026-09-30 | 1 | 0 | 12 |
+| [Misko](https://github.com/HappyHackingSpace/Misko) | 1396 | 4 | 🚀 Active Development, 🛡️ Secure | 2026-09-30 | 2 | 0 | 12 |
 | [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 1048 | 4 | 🏆 Hot Project, 🛡️ Secure | 2026-09-24 | 93 | 18 | 6 |
-| [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 591 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-10-01 | 7 | 1 | 42 |
+| [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 591 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-10-02 | 7 | 1 | 42 |
 | [vt](https://github.com/HappyHackingSpace/vt) | 423 | 3 | 🛡️ Secure | N/A | 42 | 9 | 21 |
 | [LevelUp](https://github.com/HappyHackingSpace/LevelUp) | 261 | 2 | 🚀 Active Development, 🛡️ Secure | 2026-09-24 | 9 | 5 | 17 |
+| [ai-tools](https://github.com/HappyHackingSpace/ai-tools) | 256 | 2 | 🚀 Active Development, 🛡️ Secure | 2026-10-01 | 10 | 8 | 2 |
 | [dit](https://github.com/HappyHackingSpace/dit) | 246 | 2 | 🧑‍💻 Welcoming Issues, 🛡️ Secure | 2026-09-18 | 17 | 4 | 12 |
-| [ai-tools](https://github.com/HappyHackingSpace/ai-tools) | 211 | 2 | 🛡️ Secure | 2026-09-24 | 10 | 7 | 2 |
 | [gakido](https://github.com/HappyHackingSpace/gakido) | 201 | 2 | 🛡️ Secure | N/A | 23 | 1 | 17 |
 | [english-learning-resources](https://github.com/HappyHackingSpace/english-learning-resources) | 140 | 2 | 🛡️ Secure | N/A | 12 | 4 | 0 |
 | [witness](https://github.com/HappyHackingSpace/witness) | 95 | 1 | 🛡️ Secure | 2026-09-28 | 3 | 1 | 10 |
@@ -35,6 +35,8 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | [marcemile](https://github.com/marcemile) | 8 | 1 | 🔀 PR Hero | 1 | 0 | 1 |
 | [andsnw](https://github.com/andsnw) | 8 | 1 | 🔀 PR Hero | 1 | 0 | 1 |
 | [ArjinAlbay](https://github.com/ArjinAlbay) | 7 | 1 | 🐛 Issue Opener | 1 | 1 | 0 |
+| [recepgunes1](https://github.com/recepgunes1) | 5 | 1 | - | 1 | 0 | 0 |
+| [InsightFactoryAPP](https://github.com/InsightFactoryAPP) | 3 | 1 | 🔀 PR Hero | 0 | 0 | 1 |
 | [pranshuchittora](https://github.com/pranshuchittora) | 3 | 1 | 🔀 PR Hero | 0 | 0 | 1 |
 
 
