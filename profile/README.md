@@ -10,16 +10,16 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 <!-- PROJECTS_START -->
 | Project | XP | Level | Badges | Last Commit | Stars | Forks | Open Issues |
 |---------|-------|-------|--------|-------------|-------|-------|-------------|
-| [Misko](https://github.com/HappyHackingSpace/Misko) | 1422 | 4 | 🚀 Active Development, 🛡️ Secure | 2026-10-04 | 3 | 0 | 14 |
-| [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 1059 | 4 | 🏆 Hot Project, 🛡️ Secure | 2026-09-24 | 94 | 19 | 8 |
+| [Misko](https://github.com/HappyHackingSpace/Misko) | 1496 | 4 | 🚀 Active Development, 🛡️ Secure | 2026-10-05 | 3 | 0 | 17 |
+| [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 1069 | 4 | 🏆 Hot Project, 🛡️ Secure | 2026-09-24 | 95 | 19 | 8 |
 | [gakido](https://github.com/HappyHackingSpace/gakido) | 741 | 4 | 🚀 Active Development, 🛡️ Secure | 2026-10-03 | 24 | 1 | 12 |
-| [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 591 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-10-05 | 7 | 1 | 42 |
+| [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 591 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-10-06 | 7 | 1 | 42 |
 | [vt](https://github.com/HappyHackingSpace/vt) | 479 | 3 | 🛡️ Secure | 2026-10-04 | 43 | 9 | 18 |
-| [ai-tools](https://github.com/HappyHackingSpace/ai-tools) | 353 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-10-02 | 11 | 9 | 1 |
+| [ai-tools](https://github.com/HappyHackingSpace/ai-tools) | 356 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-10-02 | 11 | 10 | 2 |
 | [LevelUp](https://github.com/HappyHackingSpace/LevelUp) | 257 | 2 | 🚀 Active Development, 🛡️ Secure | 2026-09-24 | 9 | 5 | 19 |
 | [dit](https://github.com/HappyHackingSpace/dit) | 222 | 2 | 🧑‍💻 Welcoming Issues, 🛡️ Secure | 2026-10-02 | 17 | 4 | 14 |
 | [english-learning-resources](https://github.com/HappyHackingSpace/english-learning-resources) | 143 | 2 | 🛡️ Secure | N/A | 12 | 5 | 1 |
-| [witness](https://github.com/HappyHackingSpace/witness) | 91 | 1 | 🛡️ Secure | 2026-09-28 | 3 | 1 | 12 |
+| [witness](https://github.com/HappyHackingSpace/witness) | 111 | 2 | 🚀 Active Development, 🛡️ Secure | 2026-10-05 | 3 | 1 | 12 |
 
 
 [...and more projects](https://github.com/HappyHackingSpace?tab=repositories)<!-- PROJECTS_END -->
@@ -31,12 +31,12 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | [recepkizilarslan](https://github.com/recepkizilarslan) | 331 | 3 | 🔀 PR Hero, 🐛 Issue Opener | 34 | 28 | 35 |
 | [ahsentekd](https://github.com/ahsentekd) | 221 | 2 | 🏆 Top Committer, 🔀 PR Hero, 🐛 Issue Opener | 38 | 2 | 9 |
 | [dogancanbakir](https://github.com/dogancanbakir) | 185 | 2 | 🔀 PR Hero, 🐛 Issue Opener | 3 | 34 | 34 |
-| [ibrahimkizilarslan](https://github.com/ibrahimkizilarslan) | 120 | 2 | 🔀 PR Hero | 18 | 0 | 10 |
+| [ibrahimkizilarslan](https://github.com/ibrahimkizilarslan) | 144 | 2 | 🔀 PR Hero | 21 | 0 | 13 |
 | [arseneHuot](https://github.com/arseneHuot) | 16 | 1 | 🔀 PR Hero | 2 | 0 | 2 |
 | [recepgunes1](https://github.com/recepgunes1) | 15 | 1 | - | 3 | 0 | 0 |
 | [andsnw](https://github.com/andsnw) | 8 | 1 | 🔀 PR Hero | 1 | 0 | 1 |
-| [marcemile](https://github.com/marcemile) | 8 | 1 | 🔀 PR Hero | 1 | 0 | 1 |
 | [InsightFactoryAPP](https://github.com/InsightFactoryAPP) | 8 | 1 | 🔀 PR Hero | 1 | 0 | 1 |
+| [marcemile](https://github.com/marcemile) | 8 | 1 | 🔀 PR Hero | 1 | 0 | 1 |
 | [ArjinAlbay](https://github.com/ArjinAlbay) | 7 | 1 | 🐛 Issue Opener | 1 | 1 | 0 |
 
 
