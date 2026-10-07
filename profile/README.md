@@ -13,7 +13,7 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | [Misko](https://github.com/HappyHackingSpace/Misko) | 1496 | 4 | 🚀 Active Development, 🛡️ Secure | 2026-10-05 | 3 | 0 | 17 |
 | [awesome-hackathon](https://github.com/HappyHackingSpace/awesome-hackathon) | 1069 | 4 | 🏆 Hot Project, 🛡️ Secure | 2026-09-24 | 95 | 19 | 8 |
 | [gakido](https://github.com/HappyHackingSpace/gakido) | 741 | 4 | 🚀 Active Development, 🛡️ Secure | 2026-10-03 | 24 | 1 | 12 |
-| [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 591 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-10-06 | 7 | 1 | 42 |
+| [vt-templates](https://github.com/HappyHackingSpace/vt-templates) | 591 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-10-07 | 7 | 1 | 42 |
 | [vt](https://github.com/HappyHackingSpace/vt) | 479 | 3 | 🛡️ Secure | 2026-10-04 | 43 | 9 | 18 |
 | [ai-tools](https://github.com/HappyHackingSpace/ai-tools) | 356 | 3 | 🚀 Active Development, 🛡️ Secure | 2026-10-02 | 11 | 10 | 2 |
 | [LevelUp](https://github.com/HappyHackingSpace/LevelUp) | 257 | 2 | 🚀 Active Development, 🛡️ Secure | 2026-09-24 | 9 | 5 | 19 |
@@ -34,8 +34,8 @@ We develop a diverse range of projects spanning cybersecurity, gaming, AI-powere
 | [ibrahimkizilarslan](https://github.com/ibrahimkizilarslan) | 144 | 2 | 🔀 PR Hero | 21 | 0 | 13 |
 | [arseneHuot](https://github.com/arseneHuot) | 16 | 1 | 🔀 PR Hero | 2 | 0 | 2 |
 | [recepgunes1](https://github.com/recepgunes1) | 15 | 1 | - | 3 | 0 | 0 |
-| [andsnw](https://github.com/andsnw) | 8 | 1 | 🔀 PR Hero | 1 | 0 | 1 |
 | [InsightFactoryAPP](https://github.com/InsightFactoryAPP) | 8 | 1 | 🔀 PR Hero | 1 | 0 | 1 |
+| [andsnw](https://github.com/andsnw) | 8 | 1 | 🔀 PR Hero | 1 | 0 | 1 |
 | [marcemile](https://github.com/marcemile) | 8 | 1 | 🔀 PR Hero | 1 | 0 | 1 |
 | [ArjinAlbay](https://github.com/ArjinAlbay) | 7 | 1 | 🐛 Issue Opener | 1 | 1 | 0 |
 
