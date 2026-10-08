@@ -17,7 +17,7 @@ jobs:
           go-version: '1.26'
       - name: Restore last status cache
         id: cache-restore
-        uses: actions/cache/restore@v4
+        uses: actions/cache/restore@v6
         with:
           path: .door_status_cache
           key: door-status-${{ github.run_id }}
@@ -43,7 +43,7 @@ jobs:
           git diff --cached --quiet || git commit -m "chore: update door status [auto]" && git push
       - name: Save last status cache
         if: always()
-        uses: actions/cache/save@v4
+        uses: actions/cache/save@v6
         with:
           path: .door_status_cache
           key: door-status-${{ github.run_id }}
