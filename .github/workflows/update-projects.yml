@@ -5,30 +5,39 @@ on:
     - cron: '0 0 * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
+concurrency:
+  group: update-projects
+  cancel-in-progress: false
+
 jobs:
   update-projects:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
       - name: Set up Go
-        uses: actions/setup-go@v5
+        uses: actions/setup-go@40f1582b2485089dde7abd97c1529aa768e1baff # v5
         with:
-          go-version: '1.24'
-      - name: Prepare Go module and install dependencies
+          go-version: '1.26'
+      - name: Download and verify dependencies
         run: |
-          if [ ! -f go.mod ]; then
-          go mod init tempmod
-          fi
-          go mod tidy
+          go mod download
+          go mod verify
+          go test ./...
       - name: Run update_projects.go
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Falls back to the repository token until an organization owner adds
+          # the read-only ORG_STATS_TOKEN secret to the upstream repository.
+          GITHUB_TOKEN: ${{ secrets.ORG_STATS_TOKEN || github.token }}
         run: |
           go run scripts/update_projects.go
       - name: Commit and push if changed
         run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
           git add profile/README.md
           git diff --cached --quiet || git commit -m 'chore: update projects section [auto]'
           git push 
